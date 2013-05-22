@@ -8,9 +8,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
    id="svg3026">
   <desc
      id="en">Observed wind speed: 102–107 knots</desc>
@@ -29,7 +29,7 @@
   <defs
      id="defs3043" />
   <g
-     transform="matrix(-1,0,0,1,-43,0)"
+     transform="matrix(-0.92467043,0,0,0.6035148,-47.948211,-21.247029)"
      id="g2989">
     <g
        id="g3029"

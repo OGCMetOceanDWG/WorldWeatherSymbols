@@ -8,9 +8,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
    id="svg3544">
   <desc
      id="en">Observed wind speed: 63–67 knots</desc>
@@ -29,35 +29,39 @@
   <defs
      id="defs3559" />
   <g
-     transform="matrix(-1,0,0,1,-43,0)"
-     id="g3001">
+     transform="matrix(0.92467043,0,0,0.56775033,-8.1873823,-0.53010356)"
+     id="g2992">
     <g
-       id="g2994">
+       transform="matrix(-1,0,0,1,-43,-36.25)"
+       id="g3001">
       <g
-         id="g2988">
-        <path
-           d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
-           id="path3547"
-           style="fill:#000000;stroke:none" />
+         id="g2994">
         <g
-           id="g3549"
-           style="fill:none;stroke:#000000;stroke-width:2">
+           id="g2988">
           <path
-             d="M 0,0 H -40"
-             id="path3551" />
-          <path
-             d="m -30,0 -5,-17"
-             id="path3553" />
+             d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
+             id="path3547"
+             style="fill:#000000;stroke:none" />
+          <g
+             id="g3549"
+             style="fill:none;stroke:#000000;stroke-width:2">
+            <path
+               d="M 0,0 H -40"
+               id="path3551" />
+            <path
+               d="m -30,0 -5,-17"
+               id="path3553" />
+          </g>
         </g>
       </g>
+      <path
+         d="m -24.737288,0.07627119 -5,-17.00000019"
+         id="path3553-4"
+         style="fill:none;stroke:#000000;stroke-width:2" />
     </g>
     <path
-       d="m -24.737288,0.07627119 -5,-17.00000019"
-       id="path3553-4"
+       d="m -22.961864,-36.881356 2.5,-8.5"
+       id="path3415"
        style="fill:none;stroke:#000000;stroke-width:2" />
   </g>
-  <path
-     d="m -22.961864,-0.6313559 2.5,-8.5000001"
-     id="path3415"
-     style="fill:none;stroke:#000000;stroke-width:2" />
 </svg>

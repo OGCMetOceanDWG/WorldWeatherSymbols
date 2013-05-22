@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,15 +8,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200px"
-   height="120px"
-   viewBox="0 0 200 120"
    version="1.1"
-   id="svg3001"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_GenusOfCloud_C_0.svg">
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg3001">
+  <title
+     id="title3003">Symbol of clouds of type H1 - Filaments of Cirrus (Ci)</title>
+  <desc
+     id="desc3005">Symbol of clouds of type H1 - Filaments of Cirrus (Ci)</desc>
+  <desc
+     id="desc3007">Made by user AnyFile of Wikimedia Commons on 2007-Oct-28.
+Licenced in Public Domain </desc>
   <metadata
      id="metadata3015">
     <rdf:RDF>
@@ -29,52 +34,20 @@
   </metadata>
   <defs
      id="defs3013" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="849"
-     inkscape:window-height="572"
-     id="namedview3011"
-     showgrid="false"
-     inkscape:zoom="1.715"
-     inkscape:cx="100"
-     inkscape:cy="60"
-     inkscape:window-x="76"
-     inkscape:window-y="33"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3001" />
-  <title
-     id="title3003">Symbol of clouds of type H1 - Filaments of Cirrus (Ci)</title>
-  <desc
-     id="desc3005">Symbol of clouds of type H1 - Filaments of Cirrus (Ci)</desc>
-  <desc
-     id="desc3007">Made by user AnyFile of Wikimedia Commons on 2007-Oct-28.
-Licenced in Public Domain </desc>
   <g
-     id="g3019"
-     transform="matrix(1.003327,0,0,0.75932591,-0.05875667,-7.9550948)">
-    <g
-       id="g3023">
-      <path
-         sodipodi:nodetypes="csssc"
-         d="m 20,90.044922 130,0 c 10.47198,0 20.87947,-3.774479 28.28427,-10.257842 7.4048,-6.483362 11.71571,-15.59576 11.71571,-24.764619 0,-9.168859 -4.31091,-18.281257 -11.71571,-24.764619"
-         id="path3009"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:4.67857218;stroke-linecap:round;stroke-linejoin:round" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path3009"
-         id="use3017"
-         transform="matrix(1,0,0,-1,0.58309038,180.01577)"
-         width="200"
-         height="120" />
-    </g>
+     transform="matrix(0.996,0,0,1,0.221,0)"
+     id="g3782">
+    <path
+       d="m 4.8,27.6 34.4,0 c 2.7,0 5.6,-0.8 7.5,-2.2 2.1,-1.4 3.1,-3.3 3.1,-5.2 0,-2 -1,-3.9 -3.1,-5.3"
+       id="path3009"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <use
+       transform="matrix(1,0,0,-1,0.154,55.2)"
+       id="use3017"
+       x="0"
+       y="0"
+       width="200"
+       height="120"
+       xlink:href="#path3009" />
   </g>
 </svg>

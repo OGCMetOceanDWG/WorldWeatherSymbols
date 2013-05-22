@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="440"
+   height="80"
+   viewBox="0 0 440 80"
+   id="svg2">
+  <title
+     id="title3095">Quasi-stationary frontogenesis - Monochromatic</title>
+  <desc
+     id="desc4">Stationary front – symbol</desc>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Quasi-stationary frontogenesis - Monochromatic</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     transform="translate(0,9)"
+     id="g3759">
+    <g
+       transform="translate(1.8803419,-16.296296)"
+       id="g3081">
+      <g
+         transform="translate(-3.1339031,18.176638)"
+         id="g3044">
+        <path
+           d="M 219.31295,29.552599 241.93733,66.065634 264.5617,29.552599 z"
+           id="path4075-3-0-4"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.32475901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           d="m 361.35282,29.911573 22.62439,36.513035 22.62437,-36.513035 z"
+           id="path4075-3-0-0"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.32475901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         transform="translate(0,-1.2535613)"
+         id="g3071">
+        <g
+           transform="translate(-2.5071225,0)"
+           id="g3007">
+          <path
+             d="m 69.075186,43.940338 a 25.827323,27.362162 0 1 0 -51.654645,2e-6 l 25.827332,-2e-6 z"
+             id="path2984-7"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.85774279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             d="m 213.86151,44.567119 a 25.827322,27.362161 0 1 0 -51.65464,2e-6 l 25.82733,-2e-6 z"
+             id="path2984-7-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.85774279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             d="m 355.51393,45.1939 a 25.827322,27.362161 0 1 0 -51.65464,2e-6 l 25.82733,-2e-6 z"
+             id="path2984-7-7"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.85774279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <path
+           d="M 71.632029,48.088212 94.256412,84.601246 116.88079,48.088212 z"
+           id="path4075-3-0"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.32475901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           d="m 138.23566,44.675214 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+           id="path3029-7"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           d="m 283.02199,42.168091 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+           id="path3029-7-9"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           d="m 422.79407,42.168091 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+           id="path3029-7-4"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

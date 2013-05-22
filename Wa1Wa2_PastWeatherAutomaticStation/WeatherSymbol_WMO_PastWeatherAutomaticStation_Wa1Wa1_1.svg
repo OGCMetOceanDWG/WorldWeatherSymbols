@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3854"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PastWeatherAutomaticStation_Wa1Wa1_3.svg">
+   id="svg3854">
+  <desc
+     id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 45
+	Description: Fog sky obscured (no appreciable change during the preceding hour)
+</desc>
   <metadata
      id="metadata3864">
     <rdf:RDF>
@@ -28,39 +32,12 @@
   </metadata>
   <defs
      id="defs3862" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3860"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="174"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3854" />
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 45
-	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
   <g
-     id="ww_45"
-     transform="matrix(-0.00105173,-0.99999945,0.99999945,-0.00105173,0,0)">
+     transform="matrix(-0.00105173,-0.99999945,0.99999945,-0.00105173,0,0)"
+     id="ww_45">
     <path
        d="m -17.5,-9.5 h 35 m -35,9.5 h 35 m -35,9.5 h 35"
        id="path3858"
-       inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
 </svg>

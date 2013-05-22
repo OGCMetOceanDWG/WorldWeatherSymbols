@@ -1,8 +1,53 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="64" height="64" viewBox="0 0 64 64">
-<desc>Cloud cover 3/8</desc>
-	<circle style="fill:none; stroke:black; stroke-width:3;" r="28" cx="32" cy="32"/>
-	<path style="fill:black;" d="M32,4 v28 h28 a28,28 0 0,0 -28,-28 z"/>
-	<path style="fill:none; stroke:black; stroke-width:3;" d="M32,4 v56"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg4900">
+  <desc
+     id="desc4902">Cloud cover 3/8</desc>
+  <metadata
+     id="metadata4914">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4912" />
+  <g
+     transform="matrix(0.911,0,0,0.911,-1.64,6.54)"
+     id="g4922">
+    <g
+       id="g4918">
+      <circle
+         cx="32"
+         cy="32"
+         r="28"
+         transform="translate(0,-9)"
+         id="circle4904"
+         style="fill:none;stroke:black;stroke-width:2.195;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         d="M 32,-5 V 23 H 60 A 28,28 0 0 0 32,-5 z"
+         id="path4906"
+         style="fill:black" />
+    </g>
+    <path
+       d="M 32,-5 V 51"
+       id="path4908"
+       style="fill:none;stroke:black;stroke-width:2.195;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
 </svg>

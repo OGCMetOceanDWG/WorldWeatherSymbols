@@ -7,14 +7,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="120"
-   height="120"
-   id="svg2"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_GenusOfCloud_C_2.svg">
+   width="55"
+   height="55"
+   id="svg2">
   <metadata
      id="metadata3113">
     <rdf:RDF>
@@ -27,51 +23,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="813"
-     inkscape:window-height="495"
-     id="namedview3111"
-     showgrid="false"
-     inkscape:zoom="1.9666667"
-     inkscape:cx="60"
-     inkscape:cy="60"
-     inkscape:window-x="147"
-     inkscape:window-y="4"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <g
-     id="layer1">
-    <g
-       transform="translate(-253.33605,-243.88004)"
-       id="g3316">
-      <g
-         id="g3115">
-        <path
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.69387746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path3174"
-           transform="matrix(1.1136364,0,0,1.1136364,9.6103909,-40.901548)"
-           d="M 299.80763,274.50603 A 13.928572,13.928572 0 0 1 307.91265,299.64146" />
-        <path
-           sodipodi:nodetypes="ccc"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path3176"
-           d="m 353.38378,342.568 -85.52664,0.50847 84.64286,-50" />
-        <path
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path3178"
-           d="M 343.75,264.68361 L 338.03571,264.68361" />
-      </g>
-    </g>
+     id="g4880">
+    <path
+       d="M 40.6,7.85 A 6.56,8.38 0 0 1 44.4,23.1"
+       id="path3174"
+       style="fill:none;stroke:black;stroke-width:1.983;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="M 44,51.1 7.9,51.1 44,23.4"
+       id="path3176"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 40.6,7.86 -2.5,0"
+       id="path3178"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

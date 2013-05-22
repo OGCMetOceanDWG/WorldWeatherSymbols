@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,15 +8,17 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3004"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PastWeatherAutomaticStation_Wa1Wa1_7a.svg">
+   id="svg3004">
+  <desc
+     id="en">
+	Codes 60-69 General Group: Rain.
+	Code: 69
+	Description: Rain or drizzle and snow, moderate or heavy
+</desc>
   <metadata
      id="metadata3021">
     <rdf:RDF>
@@ -29,35 +33,9 @@
   </metadata>
   <defs
      id="defs3019" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="779"
-     inkscape:window-height="622"
-     id="namedview3017"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="65.487288"
-     inkscape:cy="27.5"
-     inkscape:window-x="201"
-     inkscape:window-y="42"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g3048" />
-  <desc
-     id="en">
-	Codes 60-69 General Group: Rain.
-	Code: 69
-	Description: Rain or drizzle and snow, moderate or heavy
-</desc>
   <g
-     id="g3023"
-     transform="translate(11.186441,0.46610169)">
+     transform="translate(11.186441,0.46610169)"
+     id="g3023">
     <g
        id="g3048">
       <g
@@ -66,18 +44,18 @@
            transform="translate(8.3898305,0.23305085)"
            id="g3137">
           <g
-             id="ww_70"
-             transform="translate(-9.7881356,13.766949)" />
+             transform="translate(-9.7881356,13.766949)"
+             id="ww_70" />
           <g
              transform="matrix(0.74576272,0,0,0.76972721,-9.7881364,-2.0020935)"
              id="g3068" />
         </g>
         <g
-           id="g3101"
-           transform="matrix(0.96279009,0,0,0.96942576,-24.237289,1.2068529)">
+           transform="matrix(0.96279009,0,0,0.96942576,-24.237289,1.2068529)"
+           id="g3101">
           <g
-             id="ww_70-0"
-             transform="translate(0,7)" />
+             transform="translate(0,7)"
+             id="ww_70-0" />
           <g
              transform="matrix(0.91525424,0,0,0.87052731,-0.69915254,-11.70193)"
              id="g3068-8" />
@@ -89,35 +67,34 @@
            id="g4411" />
       </g>
       <g
-         id="g4024"
-         transform="matrix(1.3534941,0,0,1.2624243,21.968163,0.80859785)">
+         transform="matrix(1.3534941,0,0,1.2624243,21.968163,0.80859785)"
+         id="g4024">
         <g
-           id="g3922"
-           transform="matrix(0.5077037,0,0,0.55151727,-1.1652546,-0.16445914)" />
+           transform="matrix(0.5077037,0,0,0.55151727,-1.1652546,-0.16445914)"
+           id="g3922" />
         <g
-           id="ww_70-1"
-           transform="translate(-24.237288,-1.1652542)">
+           transform="translate(-24.237288,-1.1652542)"
+           id="ww_70-1">
           <path
              d="m 0,-5.5 v 11"
              id="ww70arm"
-             inkscape:connector-curvature="0"
              style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
           <use
-             id="use3886"
              transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
-             xlink:href="#ww70arm"
+             id="use3886"
              x="0"
              y="0"
              width="744.09448"
-             height="1052.3622" />
+             height="1052.3622"
+             xlink:href="#ww70arm" />
           <use
-             id="use3888"
              transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
-             xlink:href="#ww70arm"
+             id="use3888"
              x="0"
              y="0"
              width="744.09448"
-             height="1052.3622" />
+             height="1052.3622"
+             xlink:href="#ww70arm" />
         </g>
       </g>
     </g>

@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3131"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeather_ww_DoubleSlash.svg">
+   id="svg3131">
+  <desc
+     id="en">
+	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
+	Code: 07
+	Description: Dust or sand raised by the wind at or near the station at the time of the observation, but no well-developed dust whirl(s), and no sandstorm seen: or, in the case of ships, blowing spray at the station
+</desc>
   <metadata
      id="metadata3143">
     <rdf:RDF>
@@ -28,47 +32,17 @@
   </metadata>
   <defs
      id="defs3141" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="735"
-     inkscape:window-height="564"
-     id="namedview3139"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="65.487288"
-     inkscape:cy="29.908192"
-     inkscape:window-x="127"
-     inkscape:window-y="17"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="ww_07" />
-  <desc
-     id="en">
-	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
-	Code: 07
-	Description: Dust or sand raised by the wind at or near the station at the time of the observation, but no well-developed dust whirl(s), and no sandstorm seen: or, in the case of ships, blowing spray at the station
-</desc>
   <g
-     id="ww_07"
      transform="matrix(0.89373537,0,0,0.80096534,-16.492565,-5.0105932)"
+     id="ww_07"
      style="fill:none;stroke:#000000;stroke-width:3">
     <path
-       inkscape:connector-curvature="0"
-       id="path5800"
        d="M 24.527608,-18.198744 C 17.036054,-2.1745144 8.7695087,16.154491 0.2446363,33.037827"
-       sodipodi:nodetypes="cc"
+       id="path5800"
        style="stroke-width:2.3638432;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
-       inkscape:connector-curvature="0"
-       id="path5800-7"
        d="M 38.417821,-17.325855 C 30.926268,-1.3016262 22.659722,17.02738 14.13485,33.910716"
-       sodipodi:nodetypes="cc"
+       id="path5800-7"
        style="fill:none;stroke:#000000;stroke-width:2.3638432;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>

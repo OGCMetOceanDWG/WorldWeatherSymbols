@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
-   id="svg3272"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_WindArrowNH_99.svg">
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
+   id="svg3272">
+  <desc
+     id="en">Observed wind speed: 3–7 knots</desc>
   <metadata
      id="metadata3285">
     <rdf:RDF>
@@ -22,58 +22,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3283" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1037"
-     inkscape:window-height="566"
-     id="namedview3281"
-     showgrid="false"
-     inkscape:zoom="1.72"
-     inkscape:cx="194.76744"
-     inkscape:cy="100"
-     inkscape:window-x="240"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g4244" />
-  <desc
-     id="en">Observed wind speed: 3–7 knots</desc>
   <g
+     transform="translate(0,-36.25)"
      id="g4244">
     <g
        id="g4241" />
     <g
+       transform="matrix(0.84793093,0,0,0.91974318,-6.6233364,11.131322)"
        id="g4255">
       <g
          transform="translate(0,-0.14534884)"
          id="g4251">
         <path
-           style="fill:none;stroke:#000000;stroke-width:2;marker-start:none"
-           inkscape:connector-curvature="0"
+           d="M 0,0 H -40"
            id="path3277"
-           d="M 0,0 H -40" />
+           style="fill:none;stroke:#000000;stroke-width:2;marker-start:none" />
         <path
-           inkscape:connector-curvature="0"
-           id="path4237"
            d="m -44.74628,-4.3102349 8.172793,8.1727943"
+           id="path4237"
            style="fill:none;stroke:#000000;stroke-width:2.11209011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
       <path
-         style="fill:none;stroke:#000000;stroke-width:2.18303442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m -44.710809,3.9724369 8.10185,-8.683245"
          id="path4239"
-         inkscape:connector-curvature="0" />
+         style="fill:none;stroke:#000000;stroke-width:2.18303442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
   </g>
 </svg>

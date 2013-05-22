@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
    id="svg3544"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_WindArrowNH_13b.svg">
+   sodipodi:docname="WeatherSymbol_WMO_WindArrowNH_15.svg">
   <metadata
      id="metadata3561">
     <rdf:RDF>
@@ -50,28 +50,42 @@
      inkscape:current-layer="svg3544" />
   <desc
      id="en">Observed wind speed: 63–67 knots</desc>
-  <path
-     style="fill:black; stroke:none; stroke-width:0;"
-     d="M -44,1 L -44,0 L -39,-17.25 L -34,0 L -34,1"
-     id="path3547" />
   <g
-     style="fill:none; stroke:black; stroke-width:2;"
-     id="g3549">
+     id="g3675"
+     transform="matrix(0.87779233,0,0,0.57796534,-6.7839171,-0.2258886)">
     <path
-       d="M 0,0 h -40"
-       id="path3551" />
-    <path
-       d="M -30,0 l -5,-17"
-       id="path3553" />
+       id="path3553-4"
+       d="m -24.737288,-36.173729 -5,-17"
+       style="fill:none;stroke:#000000;stroke-width:2"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3667">
+      <g
+         id="g3661">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3547"
+           d="m -44,-35.25 0,-1 5,-17.25 5,17.25 0,1"
+           style="fill:#000000;stroke:none" />
+        <g
+           transform="translate(0,-36.25)"
+           id="g3549"
+           style="fill:none;stroke:#000000;stroke-width:2">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3551"
+             d="M 0,0 H -40" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3553"
+             d="m -30,0 -5,-17" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:2"
+         d="m -20.055085,-36.61017 -2.5,-8.499999"
+         id="path3207" />
+    </g>
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:2"
-     d="m -24.737288,0.07627119 -5,-17.00000019"
-     id="path3553-4" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:2"
-     d="m -20.055085,-0.36016947 -2.5,-8.49999973"
-     id="path3207" />
 </svg>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
-   id="svg3021"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_CalmStationCircle.svg">
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg3021">
+  <desc
+     id="desc3023">Cloud cover 0/8</desc>
   <metadata
      id="metadata3031">
     <rdf:RDF>
@@ -28,37 +28,11 @@
   </metadata>
   <defs
      id="defs3029" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="739"
-     inkscape:window-height="524"
-     id="namedview3027"
-     showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:window-x="174"
-     inkscape:window-y="14"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3021" />
-  <desc
-     id="desc3023">Cloud cover 0/8</desc>
   <circle
-     style="fill:none;stroke:#000000;stroke-width:2.46476499;stroke-miterlimit:4;stroke-dasharray:none"
-     r="28"
      cx="32"
      cy="32"
+     r="28"
+     transform="matrix(1.09,0,0,1.09,-7.3,-6.61)"
      id="circle3025"
-     sodipodi:cx="32"
-     sodipodi:cy="32"
-     sodipodi:rx="28"
-     sodipodi:ry="28"
-     transform="matrix(1.2115709,0,0,1.222764,-6.3895333,-7.2802185)" />
+     style="fill:none;stroke:black;stroke-width:2.465;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

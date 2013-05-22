@@ -8,9 +8,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
    id="svg3026">
   <desc
      id="en">Observed wind speed: 58–62 knots</desc>
@@ -29,13 +29,13 @@
   <defs
      id="defs3039" />
   <g
-     transform="matrix(-1,0,0,1,-42.864635,0)"
+     transform="matrix(-0.83214522,0.0068218,0,0.59116618,-46.11031,0.22115946)"
      id="g2993">
     <g
-       transform="matrix(0.92572203,0,0,1,11.869097,0.21186441)"
+       transform="matrix(0.92572203,0,0,1,11.869097,-36.038136)"
        id="g3113">
       <path
-         d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
+         d="m -43.954388,0.94007721 0,-1 5,-17.25000021 5,17.25000021 0,1"
          id="path3029"
          style="fill:#000000;stroke:none" />
       <g
@@ -48,7 +48,7 @@
              id="path3033"
              style="stroke-width:1.69799054" />
           <path
-             d="m -30,0 -5,-17"
+             d="m -30.228864,-0.21186441 -5,-16.99999959"
              id="path3035" />
         </g>
         <g
@@ -65,7 +65,7 @@
       </g>
     </g>
     <path
-       d="M -10.304339,0.28813559 -14.932949,-16.711864"
+       d="m -11.151797,-36.173728 -4.62861,-17"
        id="path3035-1"
        style="fill:none;stroke:#000000;stroke-width:1.92428899" />
   </g>

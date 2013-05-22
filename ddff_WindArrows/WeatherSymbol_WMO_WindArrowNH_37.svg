@@ -8,9 +8,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
    id="svg3026">
   <desc
      id="en">Observed wind speed: 58–62 knots</desc>
@@ -29,48 +29,52 @@
   <defs
      id="defs3039" />
   <g
-     transform="matrix(0.92572203,0,0,1,11.869097,0.21186441)"
-     id="g3113">
-    <path
-       d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
-       id="path3029"
-       style="fill:#000000;stroke:none" />
+     transform="matrix(0.83214733,0,0,0.60579328,-7.8770672,0.60232668)"
+     id="g2995">
     <g
-       id="g3105">
+       transform="matrix(0.92572203,0,0,1,11.869097,-36.038136)"
+       id="g3113">
+      <path
+         d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
+         id="path3029"
+         style="fill:#000000;stroke:none" />
       <g
-         id="g3031"
-         style="fill:none;stroke:#000000;stroke-width:2">
-        <path
-           d="M -11.168281,0 H -40"
-           id="path3033"
-           style="stroke-width:1.69799054" />
-        <path
-           d="m -30.540119,0 -5,-17"
-           id="path3035" />
-      </g>
-      <g
-         transform="translate(-18.661017,-0.08686439)"
-         id="g3065"
-         style="fill:#000000;stroke:none">
-        <path
-           d="m -43,1 0,-1 5,-17.25 5,17.25 0,1"
-           id="path3067" />
-        <path
-           d="m -34,1 0,-1 5,-17.25 5,17.25 0,1"
-           id="path3069" />
+         id="g3105">
+        <g
+           id="g3031"
+           style="fill:none;stroke:#000000;stroke-width:2">
+          <path
+             d="M -11.168281,0 H -40"
+             id="path3033"
+             style="stroke-width:1.69799054" />
+          <path
+             d="m -30.540119,0 -5,-17"
+             id="path3035" />
+        </g>
+        <g
+           transform="translate(-18.661017,-0.08686439)"
+           id="g3065"
+           style="fill:#000000;stroke:none">
+          <path
+             d="m -43,1 0,-1 5,-17.25 5,17.25 0,1"
+             id="path3067" />
+          <path
+             d="m -34,1 0,-1 5,-17.25 5,17.25 0,1"
+             id="path3069" />
+        </g>
       </g>
     </g>
+    <path
+       d="m -12.304339,-35.961864 -4.62861,-17"
+       id="path3035-1"
+       style="fill:none;stroke:#000000;stroke-width:1.92428899" />
+    <path
+       d="M -8.3721357,-36.385594 -13.000746,-53.385593"
+       id="path3035-1-7"
+       style="fill:none;stroke:#000000;stroke-width:1.92428899" />
+    <path
+       d="m -4.4110169,-36.5 -2.5,-8.5"
+       id="path3211"
+       style="fill:none;stroke:#000000;stroke-width:2" />
   </g>
-  <path
-     d="M -12.304339,0.28813559 -16.932949,-16.711864"
-     id="path3035-1"
-     style="fill:none;stroke:#000000;stroke-width:1.92428899" />
-  <path
-     d="M -8.3721357,-0.13559372 -13.000746,-17.135593"
-     id="path3035-1-7"
-     style="fill:none;stroke:#000000;stroke-width:1.92428899" />
-  <path
-     d="m -4.4110169,-0.25 -2.5,-8.5"
-     id="path3211"
-     style="fill:none;stroke:#000000;stroke-width:2" />
 </svg>

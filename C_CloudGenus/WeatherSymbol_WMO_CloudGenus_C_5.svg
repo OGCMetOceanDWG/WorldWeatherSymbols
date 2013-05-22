@@ -7,14 +7,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="120"
-   height="120"
-   id="svg2"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_GenusOfCloud_C_5.svg">
+   width="55"
+   height="55"
+   id="svg2">
   <metadata
      id="metadata3932">
     <rdf:RDF>
@@ -27,49 +23,28 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="953"
-     inkscape:window-height="542"
-     id="namedview3930"
-     showgrid="false"
-     inkscape:zoom="1.9666667"
-     inkscape:cx="60"
-     inkscape:cy="60"
-     inkscape:window-x="74"
-     inkscape:window-y="-2"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <g
+     transform="matrix(0.401,0,0,0.638,0.995,-7.95)"
      id="g3938">
     <g
        id="layer1">
       <g
-         id="g3535"
-         transform="translate(-1230.0911,-959.02716)">
+         transform="translate(-1230,-959)"
+         id="g3535">
         <g
            id="g3934">
           <path
-             d="m 1344.513,1049.5843 -81.8224,0.7576 82.3378,-45.1873 -0.5154,44.4297"
+             d="m 1350,1050 -80,0 80,-40 0,40"
              id="path3483"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccc" />
+             style="fill:none;stroke:black;stroke-width:3.711;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
           <g
              id="g3945">
             <path
-               style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               d="m 1350,995 -110,55 30,0"
                id="path3485"
-               d="M 1342.2402,987.71242 L 1235.6691,1050.3419 L 1262.9432,1050.3419" />
+               style="fill:none;stroke:black;stroke-width:3.711;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
           </g>
         </g>
       </g>

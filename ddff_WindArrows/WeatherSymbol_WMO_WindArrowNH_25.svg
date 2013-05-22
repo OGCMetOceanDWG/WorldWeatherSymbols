@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
-   id="svg3026"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_WindArrowNH_18.svg">
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
+   id="svg3026">
+  <desc
+     id="en">Observed wind speed: 102–107 knots</desc>
   <metadata
      id="metadata3045">
     <rdf:RDF>
@@ -28,59 +28,38 @@
   </metadata>
   <defs
      id="defs3043" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="468"
-     inkscape:window-height="528"
-     id="namedview3041"
-     showgrid="false"
-     inkscape:zoom="1.18"
-     inkscape:cx="100"
-     inkscape:cy="100"
-     inkscape:window-x="98"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3026" />
-  <desc
-     id="en">Observed wind speed: 102–107 knots</desc>
   <g
-     style="fill:black; stroke:none; stroke-width:0;"
-     id="g3029">
+     transform="matrix(0.90076458,0,0,0.63171579,-6.5672547,1.7125925)"
+     id="g4080">
+    <g
+       transform="translate(0,-36.25)"
+       id="g3029"
+       style="fill:#000000;stroke:none">
+      <path
+         d="m -43.399344,1.2405096 0,-1.00000002 5,-17.24999958 5,17.24999958 0,1.00000002"
+         id="path3031" />
+      <path
+         d="m -34,1 0,-1 5,-17.25 5,17.25 0,1"
+         id="path3033" />
+    </g>
+    <g
+       transform="translate(0,-36.25)"
+       id="g3035"
+       style="fill:none;stroke:#000000;stroke-width:2">
+      <path
+         d="M 0,0 H -40"
+         id="path3037" />
+      <path
+         d="M -12.852792,-0.84745763 -15.352791,-9.3474576"
+         id="path3039" />
+    </g>
     <path
-       d="M -44,1 L -44,0 L -39,-17.25 L -34,0 L -34,1"
-       id="path3031" />
+       d="m -21.100656,-36.689067 -5,-17.000001"
+       id="path3065"
+       style="fill:none;stroke:#000000;stroke-width:2" />
     <path
-       d="M -34,1 L -34,0 L -29,-17.25 L -24,0 L -24,1"
-       id="path3033" />
+       d="m -16.782871,-36.689067 -5,-17"
+       id="path3065-7"
+       style="fill:none;stroke:#000000;stroke-width:2" />
   </g>
-  <g
-     style="fill:none; stroke:black; stroke-width:2;"
-     id="g3035">
-    <path
-       d="M 0,0 h -40"
-       id="path3037" />
-    <path
-       d="M -11.737288,-0.84745763 -14.237287,-9.3474576"
-       id="path3039"
-       inkscape:connector-curvature="0" />
-  </g>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:2"
-     d="m -20.5,-0.55932208 -5,-17.00000092"
-     id="path3065"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:2"
-     d="m -15.838983,-0.55932206 -5,-16.99999994"
-     id="path3065-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
 </svg>

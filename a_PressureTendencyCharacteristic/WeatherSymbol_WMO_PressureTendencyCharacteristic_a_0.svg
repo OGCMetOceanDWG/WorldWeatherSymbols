@@ -8,8 +8,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="90"
-   height="90"
+   width="55"
+   height="55"
    id="svg2">
   <defs
      id="defs4" />
@@ -37,26 +37,27 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="matrix(0.635,0,0,0.61,-1.03,-0.025)"
      id="layer2">
     <rect
        width="7"
        height="80"
        rx="3.5"
        ry="3.5"
-       x="52.225296"
-       y="-21.767422"
-       transform="matrix(0.8571673,0.51503807,-0.51503807,0.8571673,0,0)"
+       x="52.2"
+       y="-21.8"
+       transform="matrix(0.857,0.515,-0.515,0.857,0,0)"
        id="rect3005"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:black;fill-opacity:1;stroke:none" />
     <rect
        width="7"
        height="35"
        rx="3.5"
        ry="3.5"
-       x="39.494797"
-       y="36.384861"
-       transform="matrix(0.8660254,-0.50000001,0.50000001,0.8660254,0,0)"
+       x="39.5"
+       y="36.4"
+       transform="matrix(0.866,-0.5,0.5,0.866,0,0)"
        id="rect3017"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
+       style="fill:black;fill-opacity:1;stroke:none" />
   </g>
 </svg>

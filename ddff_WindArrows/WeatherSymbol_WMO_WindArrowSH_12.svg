@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="200"
-   height="200"
-   viewBox="-48 -33 50 50"
-   id="svg3368"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_WindArrowNH_12.svg">
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
+   id="svg3368">
+  <desc
+     id="en">Observed wind speed: 58–62 knots</desc>
   <metadata
      id="metadata3383">
     <rdf:RDF>
@@ -28,44 +28,23 @@
   </metadata>
   <defs
      id="defs3381" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3379"
-     showgrid="false"
-     inkscape:zoom="1.18"
-     inkscape:cx="100"
-     inkscape:cy="100"
-     inkscape:window-x="152"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3368" />
-  <desc
-     id="en">Observed wind speed: 58–62 knots</desc>
-  <path
-     style="fill:#000000;stroke:none"
-     d="M 1,1 1,0 -4,-17.25 -9,0 -9,1"
-     id="path3371"
-     inkscape:connector-curvature="0" />
   <g
-     style="fill:none;stroke:#000000;stroke-width:2"
-     id="g3373"
-     transform="matrix(-1,0,0,1,-43,0)">
+     transform="matrix(0.90583804,0,0,0.58864295,-9.0160076,0.1457109)"
+     id="g2986">
     <path
-       d="M 0,0 H -40"
-       id="path3375"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m -30,0 -5,-17"
-       id="path3377"
-       inkscape:connector-curvature="0" />
+       d="m 1,-35.25 0,-1 -5,-17.25 -5,17.25 0,1"
+       id="path3371"
+       style="fill:#000000;stroke:none" />
+    <g
+       transform="matrix(-1,0,0,1,-43,-36.25)"
+       id="g3373"
+       style="fill:none;stroke:#000000;stroke-width:2">
+      <path
+         d="M 0,0 H -40"
+         id="path3375" />
+      <path
+         d="m -30,0 -5,-17"
+         id="path3377" />
+    </g>
   </g>
 </svg>
