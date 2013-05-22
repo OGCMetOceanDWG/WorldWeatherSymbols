@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3898"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_92b.svg">
+   id="svg3898">
+  <desc
+     id="en">
+	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
+	Code: 10
+	Description: Mist
+</desc>
   <metadata
      id="metadata3908">
     <rdf:RDF>
@@ -22,83 +27,55 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3906">
     <marker
-       inkscape:stockid="TriangleInS"
+       refX="0"
+       refY="0"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="TriangleInS"
        style="overflow:visible">
       <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
          id="path4651"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(-0.2)" />
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
     <marker
-       inkscape:stockid="TriangleOutS"
+       refX="0"
+       refY="0"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="TriangleOutS"
        style="overflow:visible">
       <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
          id="path4660"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.2)" />
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="855"
-     inkscape:window-height="591"
-     id="namedview3904"
-     showgrid="false"
-     inkscape:zoom="6.0682618"
-     inkscape:cx="28.811059"
-     inkscape:cy="29.366123"
-     inkscape:window-x="177"
-     inkscape:window-y="12"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g5602"
-     inkscape:snap-nodes="false" />
-  <desc
-     id="en">
-	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
-	Code: 10
-	Description: Mist
-</desc>
   <g
      id="g4459">
     <g
-       id="g5602"
-       transform="matrix(0.87381566,0,0,0.87814787,8.8031344,-0.58064268)">
+       transform="matrix(0.87381566,0,0,0.87814787,8.8031344,-0.58064268)"
+       id="g5602">
       <g
-         id="g6257"
-         transform="translate(0.18858879,-2.6272178)">
+         transform="translate(0.18858879,-2.6272178)"
+         id="g6257">
         <g
-           id="g5320"
-           transform="matrix(1.1444061,0,0,1.1387604,-10.074361,0.66121288)">
+           transform="matrix(1.1444061,0,0,1.1387604,-10.074361,0.66121288)"
+           id="g5320">
           <path
+             d="M -18.444787,9.0911331 -10.672602,15.731468 -0.80797378,8.6104204 7.6116495,15.58717 16.843502,9.2764187"
              inkscape:connector-curvature="0"
              id="path4457"
-             d="M -18.444787,9.0911331 -10.672602,15.731468 -0.80797378,8.6104204 7.6116495,15.58717 16.843502,9.2764187"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             sodipodi:nodetypes="ccccc" />
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         </g>
         <g
            transform="translate(0.18858879,2.0642425)"
@@ -109,17 +86,15 @@
             <g
                id="g5627">
               <path
-                 sodipodi:nodetypes="cccc"
-                 inkscape:connector-curvature="0"
                  d="m -19.3776,-13.80306 14.1489815,0 -5.8019195,7.6830782 6.0966899,5.38585877"
+                 inkscape:connector-curvature="0"
                  id="path5373"
                  style="fill:none;stroke:#000000;stroke-width:2.85394931;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#TriangleOutS)" />
             </g>
           </g>
           <path
-             sodipodi:nodetypes="cc"
-             inkscape:connector-curvature="0"
              d="m -16.968127,-13.047103 0,15.5251972"
+             inkscape:connector-curvature="0"
              id="path5375"
              style="fill:none;stroke:#000000;stroke-width:2.85394931;stroke-miterlimit:4;stroke-dasharray:none" />
         </g>

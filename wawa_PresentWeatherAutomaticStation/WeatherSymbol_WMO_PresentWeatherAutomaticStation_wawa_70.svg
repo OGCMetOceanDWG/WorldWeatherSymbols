@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg4041"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_70.svg">
+   id="svg4041">
+  <desc
+     id="en">
+	Codes 70-79 General Group: Solid precipitation not in showers.
+	Code: 79
+	Description: Ice pellets (sleet)
+</desc>
   <metadata
      id="metadata4054">
     <rdf:RDF>
@@ -22,55 +27,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs4052" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="895"
-     inkscape:window-height="745"
-     id="namedview4050"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="152"
-     inkscape:window-y="41"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4041" />
-  <desc
-     id="en">
-	Codes 70-79 General Group: Solid precipitation not in showers.
-	Code: 79
-	Description: Ice pellets (sleet)
-</desc>
   <g
-     id="g3046"
-     transform="translate(-2.5635593,1.3983051)">
+     transform="translate(-2.5635593,1.3983051)"
+     id="g3046">
     <path
        d="m 12.118644,-17.869588 8.604293,15.2307005 H 3.5143516 z"
-       style="fill:none;stroke:#000000;stroke-width:1.73172367"
+       inkscape:connector-curvature="0"
        id="path4048-6"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:1.73172367" />
     <path
        d="M -7.5741525,-17.850944 1.0301404,-2.6202429 H -16.178445 z"
-       style="fill:none;stroke:#000000;stroke-width:1.73172367"
+       inkscape:connector-curvature="0"
        id="path4048"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:1.73172367" />
     <path
        d="M 2.3305079,-0.6238253 10.934801,14.606875 H -6.2737851 z"
-       style="fill:none;stroke:#000000;stroke-width:1.73172367"
+       inkscape:connector-curvature="0"
        id="path4048-2"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:1.73172367" />
   </g>
 </svg>

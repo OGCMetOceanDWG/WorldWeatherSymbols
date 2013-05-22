@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,15 +8,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3035"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_86.svg">
+   id="svg3035">
+  <desc
+     id="en">
+	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
+	Code: 87
+	Description: Shower(s) of snow pellets or small hail, slight with or without rain or rain and snow mixed
+</desc>
   <metadata
      id="metadata3047">
     <rdf:RDF>
@@ -23,85 +28,55 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3045" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3043"
-     showgrid="false"
-     inkscape:zoom="5.0909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="116"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3035" />
-  <desc
-     id="en">
-	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
-	Code: 87
-	Description: Shower(s) of snow pellets or small hail, slight with or without rain or rain and snow mixed
-</desc>
   <g
      id="g3176">
     <path
        d="m -5.6071429,-12.232143 h 12 l -5.99999996,-10.4 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path3039"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
     <path
        d="M 0,2.4107143 H 8.5 L 0,22.410714 -8.5,2.4107143 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path3041"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
     <g
        transform="matrix(0.60714286,0,0,0.60796705,4.7142857,-5.0089284)"
        id="g3090">
       <path
-         id="ww70arm"
          d="m -5.5,0 h 11"
          inkscape:connector-curvature="0"
+         id="ww70arm"
          style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
       <use
-         xlink:href="#ww70arm"
          transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
          id="use3093"
          x="0"
          y="0"
          width="55"
-         height="55" />
+         height="55"
+         xlink:href="#ww70arm" />
       <use
-         xlink:href="#ww70arm"
          transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
          id="use3095"
          x="0"
          y="0"
          width="55"
-         height="55" />
+         height="55"
+         xlink:href="#ww70arm" />
     </g>
     <circle
-       r="5.5"
-       cy="-20.5"
-       id="circle3088"
        cx="0"
-       sodipodi:cx="0"
-       sodipodi:cy="-20.5"
-       sodipodi:rx="5.5"
-       sodipodi:ry="5.5"
-       style="fill:#000000"
-       transform="matrix(0.60066538,0.27541471,-0.27541471,0.60066539,-10.262073,7.1082831)" />
+       cy="-20.5"
+       r="5.5"
+       transform="matrix(0.60066538,0.27541471,-0.27541471,0.60066539,-10.262073,7.1082831)"
+       id="circle3088"
+       style="fill:#000000" />
   </g>
 </svg>

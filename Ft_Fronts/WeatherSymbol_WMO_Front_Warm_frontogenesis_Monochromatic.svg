@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="440"
    height="55"
@@ -40,26 +41,31 @@
        style="fill:#000000;fill-opacity:1">
       <path
          d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.9186134,0,0,-1.9186134,-358.65798,98.849557)"
          id="path2984"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.9186134,0,0,-1.9186134,-449.13589,98.849557)"
          id="path2984-1"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.9186134,0,0,-1.9186134,-543.16473,98.849557)"
          id="path2984-7"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.9186134,0,0,-1.9186134,-639.31244,98.849557)"
          id="path2984-4"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.9186134,0,0,-1.9186134,-733.34129,98.849557)"
          id="path2984-0"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
@@ -80,22 +86,27 @@
   </g>
   <path
      d="m 81.596814,43.784315 a 2.2242645,2.2242645 0 0 1 -4.448529,0 2.2242645,2.2242645 0 1 1 4.448529,0 z"
+     inkscape:connector-curvature="0"
      id="path3029"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 172.18505,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+     inkscape:connector-curvature="0"
      id="path3029-1"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 261.91054,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+     inkscape:connector-curvature="0"
      id="path3029-7"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 348.18505,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+     inkscape:connector-curvature="0"
      id="path3029-4"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 431.87132,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z"
+     inkscape:connector-curvature="0"
      id="path3029-0"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg3001"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_41.svg">
+   id="svg3001">
+  <desc
+     id="en">
+	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
+	Code: 20
+	Description: Drizzle (not freezing) or snow grains not falling as shower(s) ended in the past hour
+</desc>
   <metadata
      id="metadata3015">
     <rdf:RDF>
@@ -22,65 +26,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3013" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="694"
-     inkscape:window-height="672"
-     id="namedview3011"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="65.487288"
-     inkscape:cy="27.5"
-     inkscape:window-x="108"
-     inkscape:window-y="30"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="ww_20" />
-  <desc
-     id="en">
-	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
-	Code: 20
-	Description: Drizzle (not freezing) or snow grains not falling as shower(s) ended in the past hour
-</desc>
   <g
      id="ww_20">
     <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path4607"
-       sodipodi:cx="20.042374"
-       sodipodi:cy="21.673729"
-       sodipodi:rx="6.5254235"
-       sodipodi:ry="6.5254235"
        d="M 20.273673,28.195052 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509"
        transform="matrix(0.02446142,1.5695526,-1.4759805,0.00607693,44.449181,-26.335524)"
-       sodipodi:start="1.535343"
-       sodipodi:end="4.7202796"
-       sodipodi:open="true" />
+       id="path4607"
+       style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path4607-1"
-       sodipodi:cx="20.042374"
-       sodipodi:cy="21.673729"
-       sodipodi:rx="6.5254235"
-       sodipodi:ry="6.5254235"
        d="M 20.112997,28.19877 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509"
        transform="matrix(0.02446142,1.5695526,-1.4759805,0.00607693,19.148259,-26.07737)"
-       sodipodi:start="1.5599733"
-       sodipodi:end="4.7202796"
-       sodipodi:open="true" />
+       id="path4607-1"
+       style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

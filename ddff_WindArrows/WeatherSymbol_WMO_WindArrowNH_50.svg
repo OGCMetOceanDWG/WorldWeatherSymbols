@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="165"
    height="55"
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,9 +38,11 @@
        style="fill:#000000;stroke:none">
       <path
          d="M -43.51613,1 -43.51613,3.2760806e-8 -38.51613,-17.25 -33.51613,3.2760806e-8 -33.51613,1"
+         inkscape:connector-curvature="0"
          id="path3031" />
       <path
          d="m -34.322582,0.82204812 0,-1 5,-17.25000012 5,17.25000012 0,1"
+         inkscape:connector-curvature="0"
          id="path3033" />
     </g>
     <g
@@ -48,19 +51,23 @@
        style="fill:none;stroke:#000000;stroke-width:1.87009835;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          d="M 0,0 H -40"
+         inkscape:connector-curvature="0"
          id="path3037"
          style="stroke-width:1.87009835;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <path
        d="m -25.379033,-35.25 0,-0.975273 5,-16.823455 5,16.823455 0,0.975273"
+       inkscape:connector-curvature="0"
        id="path3033-9"
        style="fill:#000000;stroke:none" />
     <path
        d="m -16.508065,-35.25 0,-1 5,-17.249998 4.9999998,17.249998 0,1"
+       inkscape:connector-curvature="0"
        id="path3033-9-2"
        style="fill:#000000;stroke:none" />
     <path
        d="m -7.3145168,-35.427955 0,-1 5,-17.249997 5,17.249997 0,1"
+       inkscape:connector-curvature="0"
        id="path3033-9-2-4"
        style="fill:#000000;stroke:none" />
   </g>

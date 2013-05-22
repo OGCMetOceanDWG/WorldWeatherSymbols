@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg5902"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_90.svg">
+   id="svg5902">
+  <desc
+     id="en">
+	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
+	Code: 17
+	Description: Thunder heard, but no precipitation at the station
+</desc>
   <metadata
      id="metadata5916">
     <rdf:RDF>
@@ -22,67 +27,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs5914" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="858"
-     inkscape:window-height="587"
-     id="namedview5912"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="56.864407"
-     inkscape:cy="27.5"
-     inkscape:window-x="171"
-     inkscape:window-y="93"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="ww_17" />
-  <desc
-     id="en">
-	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
-	Code: 17
-	Description: Thunder heard, but no precipitation at the station
-</desc>
   <g
      id="ww_17"
-     fill="none"
-     stroke-width="3"
-     stroke="#000000">
+     style="fill:none;stroke:#000000;stroke-width:3">
     <g
-       id="g10666"
-       transform="translate(0.46610169,0.23305085)">
+       transform="translate(0.46610169,0.23305085)"
+       id="g10666">
       <path
-         style="stroke:#000000;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
+         d="M 11.398305,16.5 -2.8686441,-0.33050847 8.8008475,-17.266949 3.6779662,-17.5 c 9.1398298,-0.211864 7.5084738,0.02119 9.6059318,0.02119"
          inkscape:connector-curvature="0"
          id="path5906"
-         d="M 11.398305,16.5 -2.8686441,-0.33050847 8.8008475,-17.266949 3.6779662,-17.5 c 9.1398298,-0.211864 7.5084738,0.02119 9.6059318,0.02119" />
+         style="stroke:#000000;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="cc"
+         d="m -9.1016949,-17.5 0,35.368644"
          inkscape:connector-curvature="0"
-         id="path5908"
-         d="m -9.1016949,-17.5 0,35.368644" />
+         id="path5908" />
     </g>
     <path
        d="m 10.631356,16.5 h 1 v -1 z"
-       id="path5910"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2.24000216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -3.2627121,-17.711865 c -4.5620212,-0.153581 -6.2000651,0.389648 -10.8516439,0.233052"
-       id="path10664"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       id="path5910" />
+    <path
+       d="m -3.2627121,-17.711865 c -4.5620212,-0.153581 -6.2000651,0.389648 -10.8516439,0.233052"
+       inkscape:connector-curvature="0"
+       id="path10664"
+       style="fill:none;stroke:#000000;stroke-width:2.24000216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

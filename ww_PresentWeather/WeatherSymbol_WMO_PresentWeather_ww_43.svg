@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg2997"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeather_ww_47.svg">
+   id="svg2997">
+  <desc
+     id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 47
+	Description: Fog sky obscured (has begun or has become thicker during the preceding hour)
+</desc>
   <metadata
      id="metadata3007">
     <rdf:RDF>
@@ -22,45 +27,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3005" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3003"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="168"
-     inkscape:window-y="41"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2997" />
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 47
-	Description: Fog sky obscured (has begun or has become thicker during the preceding hour)
-</desc>
   <g
-     id="ww_47"
-     transform="matrix(-1,0,0,1,1.5,0)">
+     transform="matrix(-1,0,0,1,1.5,0)"
+     id="ww_47">
     <path
        d="M -14,-9.5 H 20 M -14,0 H 20 M -14,9.5 H 20 M -18.5,-11 v 22"
-       id="path3001"
        inkscape:connector-curvature="0"
+       id="path3001"
        style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
 </svg>

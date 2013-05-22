@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg2999"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_35.svg">
+   id="svg2999">
+  <desc
+     id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 49
+	Description: Fog, depositing rime ice, or ice fog, sky obscured
+</desc>
   <metadata
      id="metadata3011">
     <rdf:RDF>
@@ -22,45 +27,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3009" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="694"
-     inkscape:window-height="569"
-     id="namedview3007"
-     showgrid="false"
-     inkscape:zoom="5.6181818"
-     inkscape:cx="56.512945"
-     inkscape:cy="27.5"
-     inkscape:window-x="118"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="ww_49" />
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 49
-	Description: Fog, depositing rime ice, or ice fog, sky obscured
-</desc>
   <g
      id="ww_49">
     <path
        d="M -6.1860838,-9.3220064 0,7.5 7.0760521,-9.5 M -17.5,0 l 35,0 m -35,9.5 35,0"
-       id="path3005"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter"
-       sodipodi:nodetypes="ccccccc" />
+       id="path3005"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter" />
   </g>
 </svg>

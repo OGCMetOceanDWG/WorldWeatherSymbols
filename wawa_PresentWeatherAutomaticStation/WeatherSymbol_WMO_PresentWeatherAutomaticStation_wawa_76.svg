@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg4041"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_75.svg">
+   id="svg4041">
+  <desc
+     id="en">
+	Codes 70-79 General Group: Solid precipitation not in showers.
+	Code: 79
+	Description: Ice pellets (sleet)
+</desc>
   <metadata
      id="metadata4054">
     <rdf:RDF>
@@ -22,116 +27,70 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs4052" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="809"
-     inkscape:window-height="634"
-     id="namedview4050"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="147"
-     inkscape:window-y="14"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4041" />
-  <desc
-     id="en">
-	Codes 70-79 General Group: Solid precipitation not in showers.
-	Code: 79
-	Description: Ice pellets (sleet)
-</desc>
   <g
      transform="matrix(0.44453363,0,0,0.45527081,1.2817797,-14.780589)"
      id="g4044">
     <circle
-       r="4.1999998"
-       id="circle4046"
-       d="m 4.1999998,0 c 0,2.3195958 -1.880404,4.1999998 -4.1999998,4.1999998 -2.3195958,0 -4.1999998,-1.880404 -4.1999998,-4.1999998 0,-2.3195958 1.880404,-4.1999998 4.1999998,-4.1999998 2.3195958,0 4.1999998,1.880404 4.1999998,4.1999998 z"
        cx="0"
        cy="0"
-       sodipodi:cx="0"
-       sodipodi:cy="0"
-       sodipodi:rx="4.1999998"
-       sodipodi:ry="4.1999998"
+       r="4.1999998"
+       id="circle4046"
        style="fill:#000000" />
     <path
        d="M 0,-17.4 15.068842,8.7 h -30.137684 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path4048"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
   <g
      transform="matrix(0.44453363,0,0,0.45527081,-12.118644,-0.11702961)"
      id="g4044-6">
     <circle
-       r="4.1999998"
-       id="circle4046-8"
-       d="m 4.1999998,0 c 0,2.3195958 -1.880404,4.1999998 -4.1999998,4.1999998 -2.3195958,0 -4.1999998,-1.880404 -4.1999998,-4.1999998 0,-2.3195958 1.880404,-4.1999998 4.1999998,-4.1999998 2.3195958,0 4.1999998,1.880404 4.1999998,4.1999998 z"
        cx="0"
        cy="0"
-       sodipodi:cx="0"
-       sodipodi:cy="0"
-       sodipodi:rx="4.1999998"
-       sodipodi:ry="4.1999998"
+       r="4.1999998"
+       id="circle4046-8"
        style="fill:#000000" />
     <path
        d="M 0,-17.4 15.068842,8.7 h -30.137684 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path4048-5"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
   <g
      transform="matrix(0.44453363,0,0,0.45527081,14.216102,-0.1170296)"
      id="g4044-7">
     <circle
-       r="4.1999998"
-       id="circle4046-6"
-       d="m 4.1999998,0 c 0,2.3195958 -1.880404,4.1999998 -4.1999998,4.1999998 -2.3195958,0 -4.1999998,-1.880404 -4.1999998,-4.1999998 0,-2.3195958 1.880404,-4.1999998 4.1999998,-4.1999998 2.3195958,0 4.1999998,1.880404 4.1999998,4.1999998 z"
        cx="0"
        cy="0"
-       sodipodi:cx="0"
-       sodipodi:cy="0"
-       sodipodi:rx="4.1999998"
-       sodipodi:ry="4.1999998"
+       r="4.1999998"
+       id="circle4046-6"
        style="fill:#000000" />
     <path
        d="M 0,-17.4 15.068842,8.7 h -30.137684 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path4048-1"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
   <g
      transform="matrix(0.44453363,0,0,0.45527081,1.1652542,15.497377)"
      id="g4044-8">
     <circle
-       r="4.1999998"
-       id="circle4046-9"
-       d="m 4.1999998,0 c 0,2.3195958 -1.880404,4.1999998 -4.1999998,4.1999998 -2.3195958,0 -4.1999998,-1.880404 -4.1999998,-4.1999998 0,-2.3195958 1.880404,-4.1999998 4.1999998,-4.1999998 2.3195958,0 4.1999998,1.880404 4.1999998,4.1999998 z"
        cx="0"
        cy="0"
-       sodipodi:cx="0"
-       sodipodi:cy="0"
-       sodipodi:rx="4.1999998"
-       sodipodi:ry="4.1999998"
+       r="4.1999998"
+       id="circle4046-9"
        style="fill:#000000" />
     <path
        d="M 0,-17.4 15.068842,8.7 h -30.137684 z"
-       style="fill:none;stroke:#000000;stroke-width:3"
+       inkscape:connector-curvature="0"
        id="path4048-2"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:3" />
   </g>
 </svg>

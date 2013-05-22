@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,14 +10,21 @@
    version="1.1"
    width="55"
    height="55"
-   >
-   <title>xxx</title>
-   <desc>WMO international weather symbol: xxx</desc>
-<metadata>
+   id="svg2">
+  <title
+     id="title4">xxx</title>
+  <desc
+     id="desc6">WMO international weather symbol: xxx</desc>
+  <defs
+     id="defs15" />
+  <metadata
+     id="metadata8">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>xxx: Version0.3 DRAFT</dc:title>
         <dc:date>2013-01-25</dc:date>
         <dc:creator>
@@ -52,15 +60,22 @@
             <dc:title>Chris Little</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
         <dc:relation>IsPartOf</dc:relation>
       </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
@@ -72,20 +87,20 @@
        height="80"
        rx="3.5"
        ry="3.5"
-       x="52.2"
-       y="-21.8"
+       x="52.200001"
+       y="-21.799999"
        transform="matrix(0.857,0.515,-0.515,0.857,0,0)"
        id="rect3005"
-       style="fill:black;fill-opacity:1;stroke:none" />
+       style="fill:#000000;fill-opacity:1;stroke:none" />
     <rect
        width="7"
        height="35"
        rx="3.5"
        ry="3.5"
        x="39.5"
-       y="36.4"
+       y="36.400002"
        transform="matrix(0.866,-0.5,0.5,0.866,0,0)"
        id="rect3017"
-       style="fill:black;fill-opacity:1;stroke:none" />
+       style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>

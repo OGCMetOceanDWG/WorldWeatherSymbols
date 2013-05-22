@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="440"
    height="55"
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30,6 +31,7 @@
      id="defs10" />
   <path
      d="m 40,40 10,0 25,-35 25,35 c 0,-6.544985 2.69433,-13.049667 7.32233,-17.677668 4.628,-4.628 11.13269,-7.322321 17.67767,-7.322321 6.54498,0 13.04967,2.694321 17.67767,7.322321 C 147.30567,26.950333 150,33.455015 150,40 l 20,0 25,-35 25,35 c 0,-6.544985 2.69433,-13.049667 7.32233,-17.677668 4.628,-4.628 11.13269,-7.322321 17.67767,-7.322321 6.54498,0 13.04967,2.694321 17.67767,7.322321 C 267.30567,26.950333 270,33.455015 270,40 l 20,0 25,-35 25,35 c 0,-6.544985 2.69433,-13.049667 7.32233,-17.677668 4.628,-4.628 11.13269,-7.322321 17.67767,-7.322321 6.54498,0 13.04967,2.694321 17.67767,7.322321 C 387.30567,26.950333 390,33.455015 390,40 l 10,0 -2.42647,-0.257353 -354.338236,0.404412 z"
+     inkscape:connector-curvature="0"
      id="path6"
      style="fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
 </svg>

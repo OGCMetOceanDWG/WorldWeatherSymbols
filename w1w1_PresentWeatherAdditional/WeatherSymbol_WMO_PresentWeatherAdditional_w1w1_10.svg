@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,15 +8,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg4542"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_10.svg">
+   id="svg4542">
+  <desc
+     id="en">
+	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
+	Code: 05
+	Description: Haze
+</desc>
   <metadata
      id="metadata4552">
     <rdf:RDF>
@@ -23,71 +28,45 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs4550" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="846"
-     inkscape:window-height="615"
-     id="namedview4548"
-     showgrid="false"
-     inkscape:zoom="7.5454545"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="81"
-     inkscape:window-y="129"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4542" />
-  <desc
-     id="en">
-	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
-	Code: 05
-	Description: Haze
-</desc>
   <g
      id="g5249">
     <path
-       d="m 0.46610169,-0.27033362 a 12.229802,5.664446 0 0 0 24.45960431,0 12.229802,5.664446 0 1 0 -24.45960431,0 12.229802,5.6644461 0 0 1 -24.45960469,0 12.229802,5.6644461 0 1 1 24.45960469,0 z"
-       id="path4546"
+       d="m 0.46610169,-0.27033362 a 12.229802,5.6644461 0 0 0 24.45960431,0 12.229802,5.6644461 0 1 0 -24.45960431,0 12.229802,5.6644463 0 0 1 -24.45960469,0 12.229802,5.6644463 0 1 1 24.45960469,0 z"
        inkscape:connector-curvature="0"
+       id="path4546"
        style="fill:none;stroke:#000000;stroke-width:2.080791" />
     <g
-       id="g5202"
-       transform="translate(0.73577484,-6.1408901)">
+       transform="translate(0.73577484,-6.1408901)"
+       id="g5202">
       <path
-         style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round"
-         inkscape:connector-curvature="0"
          d="M -3.1428572,-4.8124998 H 3.5357143"
-         id="ww70arm" />
+         inkscape:connector-curvature="0"
+         id="ww70arm"
+         style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round" />
       <g
          id="g5192">
         <use
-           xlink:href="#ww70arm"
            transform="matrix(0.5,0.86720102,-0.86485137,0.5,-4.0638828,-2.5765929)"
            id="use3093"
            x="0"
            y="0"
            width="55"
-           height="55" />
+           height="55"
+           xlink:href="#ww70arm" />
         <use
-           xlink:href="#ww70arm"
            transform="matrix(-0.5,0.86720102,-0.86485137,-0.5,-3.8674542,-7.3890927)"
            id="use3095-5"
            x="0"
            y="0"
            width="55"
-           height="55" />
+           height="55"
+           xlink:href="#ww70arm" />
       </g>
     </g>
   </g>

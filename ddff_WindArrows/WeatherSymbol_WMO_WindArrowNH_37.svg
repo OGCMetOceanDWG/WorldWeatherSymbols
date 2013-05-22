@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="165"
    height="55"
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,6 +37,7 @@
        id="g3113">
       <path
          d="m -44,1 0,-1 5,-17.25 5,17.25 0,1"
+         inkscape:connector-curvature="0"
          id="path3029"
          style="fill:#000000;stroke:none" />
       <g
@@ -45,10 +47,12 @@
            style="fill:none;stroke:#000000;stroke-width:2">
           <path
              d="M -11.168281,0 H -40"
+             inkscape:connector-curvature="0"
              id="path3033"
              style="stroke-width:1.69799054" />
           <path
              d="m -30.540119,0 -5,-17"
+             inkscape:connector-curvature="0"
              id="path3035" />
         </g>
         <g
@@ -57,23 +61,28 @@
            style="fill:#000000;stroke:none">
           <path
              d="m -43,1 0,-1 5,-17.25 5,17.25 0,1"
+             inkscape:connector-curvature="0"
              id="path3067" />
           <path
              d="m -34,1 0,-1 5,-17.25 5,17.25 0,1"
+             inkscape:connector-curvature="0"
              id="path3069" />
         </g>
       </g>
     </g>
     <path
        d="m -12.304339,-35.961864 -4.62861,-17"
+       inkscape:connector-curvature="0"
        id="path3035-1"
        style="fill:none;stroke:#000000;stroke-width:1.92428899" />
     <path
        d="M -8.3721357,-36.385594 -13.000746,-53.385593"
+       inkscape:connector-curvature="0"
        id="path3035-1-7"
        style="fill:none;stroke:#000000;stroke-width:1.92428899" />
     <path
        d="m -4.4110169,-36.5 -2.5,-8.5"
+       inkscape:connector-curvature="0"
        id="path3211"
        style="fill:none;stroke:#000000;stroke-width:2" />
   </g>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg4607"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_46.svg">
+   id="svg4607">
+  <desc
+     id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 45
+	Description: Fog sky obscured (no appreciable change during the preceding hour)
+</desc>
   <metadata
      id="metadata4617">
     <rdf:RDF>
@@ -22,112 +27,81 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs4615">
     <marker
-       inkscape:stockid="TriangleInS"
+       refX="0"
+       refY="0"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="TriangleInS"
        style="overflow:visible">
       <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
          id="path3922"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(-0.2)" />
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
     <marker
-       inkscape:stockid="TriangleOutS"
+       refX="0"
+       refY="0"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="TriangleOutS"
        style="overflow:visible">
       <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
          id="path3931"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.2)" />
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
     <marker
-       inkscape:stockid="TriangleInS"
-       orient="auto"
-       refY="0"
        refX="0"
+       refY="0"
+       orient="auto"
        id="TriangleInS-1"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
-         id="path3922-7"
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(-0.2,-0.2)" />
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
+         id="path3922-7"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
     <marker
-       inkscape:stockid="TriangleOutS"
-       orient="auto"
-       refY="0"
        refX="0"
+       refY="0"
+       orient="auto"
        id="TriangleOutS-4"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
-         id="path3931-0"
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(0.2,0.2)" />
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         id="path3931-0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1017"
-     inkscape:window-height="654"
-     id="namedview4613"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="67.980932"
-     inkscape:cy="27.5"
-     inkscape:window-x="50"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4607" />
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 45
-	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
   <g
      id="g14286">
     <path
-       sodipodi:nodetypes="cc"
        d="M -17.733051,9.5 17.5,9.5"
+       inkscape:connector-curvature="0"
        id="path4611"
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:3;marker-end:url(#TriangleOutS);marker-start:url(#TriangleInS)" />
+       style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)" />
     <path
-       sodipodi:nodetypes="cc"
        d="m -17.849576,-2.0338983e-8 35.233051,0"
-       id="path4611-9"
        inkscape:connector-curvature="0"
+       id="path4611-9"
        style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
     <path
-       sodipodi:nodetypes="cc"
        d="m -17.849577,-10.254237 35.233051,0"
-       id="path4611-9-4"
        inkscape:connector-curvature="0"
+       id="path4611-9-4"
        style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
   </g>
 </svg>

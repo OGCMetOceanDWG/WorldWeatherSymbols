@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="55"
    height="55"
@@ -19,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,21 +37,24 @@
     </g>
   </g>
   <path
-     d="M 0,0 A 0,0 0 1 1 0,0 0,0 0 1 1 0,0 z"
+     d="M 0,0 A 0,0 0 0 0 0,0 0,0 0 0 0 0,0 z"
+     inkscape:connector-curvature="0"
      id="path8534"
-     style="fill:none;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <g
      transform="translate(0,-5)"
      id="g3784">
     <path
        d="m 1110,1020 -20,-31 80,0 -20,31"
+       inkscape:connector-curvature="0"
        transform="matrix(0.484,0,0,0.505,-519,-484)"
        id="path3464"
-       style="fill:none;stroke:black;stroke-width:4.045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:none;stroke:#000000;stroke-width:4.04500008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        d="m 28,32.5 a 17.5,17.5 0 0 1 -35,0"
+       inkscape:connector-curvature="0"
        transform="matrix(1.2,0,0,-1.2,15.4,88)"
        id="path3013"
-       style="fill:none;stroke:black;stroke-width:1.667;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:1.66700006;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

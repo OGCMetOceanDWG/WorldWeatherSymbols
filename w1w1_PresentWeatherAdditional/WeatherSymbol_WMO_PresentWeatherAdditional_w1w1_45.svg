@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg14304"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeather_ww_38.svg">
+   id="svg14304">
+  <desc
+     id="en">
+	Codes 30-39 General Group: Duststorm, sandstorm, drifting or blowing snow.
+	Code: 38
+	Description: Slight or moderate blowing snow (generally above eye level)
+</desc>
   <metadata
      id="metadata14315">
     <rdf:RDF>
@@ -22,50 +27,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs14313" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="850"
-     inkscape:window-height="534"
-     id="namedview14311"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="66.885593"
-     inkscape:cy="27.5"
-     inkscape:window-x="96"
-     inkscape:window-y="2"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg14304" />
-  <desc
-     id="en">
-	Codes 30-39 General Group: Duststorm, sandstorm, drifting or blowing snow.
-	Code: 38
-	Description: Slight or moderate blowing snow (generally above eye level)
-</desc>
   <g
-     id="g15187"
-     transform="translate(-0.23305085,-4.8940678)">
+     transform="translate(-0.23305085,-4.8940678)"
+     id="g15187">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,-4.0010783 1,0.9462036 h -2 l 1,-0.9462036 z m 0,0 V 16.5"
        inkscape:connector-curvature="0"
        id="path14309"
-       d="m 0,-4.0010783 1,0.9462036 h -2 l 1,-0.9462036 z m 0,0 V 16.5" />
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
+       d="m -15.979177,15.847458 c 31.75948,0 31.492594,0 31.492594,0"
        inkscape:connector-curvature="0"
        id="path15185"
-       d="m -15.979177,15.847458 c 31.75948,0 31.492594,0 31.492594,0"
        style="fill:none;stroke:#000000;stroke-width:3.21039963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

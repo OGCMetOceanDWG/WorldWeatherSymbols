@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
-<desc id="en">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg2">
+  <desc
+     id="en">
 	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
 	Code: 15
 	Description: Precipitation within sight, reaching ground or the surface of the sea, but distant, i.e. estimated to be more than 3 miles from the station
 </desc>
-<g id="ww_15">
-<circle r="5.5" fill="black" />
-<path d="M -18.5,-18.5 a 25,25 0 0,1 0,37 M 18.5,-18.5 a 25,25 0 0,0 0,37" fill="none" stroke-width="3" stroke="#000000" />
-</g>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     id="ww_15">
+    <circle
+       cx="0"
+       cy="0"
+       r="5.5"
+       id="circle6"
+       style="fill:#000000" />
+    <path
+       d="m -18.5,-18.5 a 25,25 0 0 1 0,37 m 37,-37 a 25,25 0 0 0 0,37"
+       inkscape:connector-curvature="0"
+       id="path8"
+       style="fill:none;stroke:#000000;stroke-width:3" />
+  </g>
 </svg>

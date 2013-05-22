@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,15 +8,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg4984"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_53.svg">
+   id="svg4984">
+  <desc
+     id="en">
+	Codes 50-59 General Group: Drizzle.
+	Code: 55
+	Description: Drizzle, not freezing, continuous (heavy at time of observation)
+</desc>
   <metadata
      id="metadata5004">
     <rdf:RDF>
@@ -23,84 +28,53 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs5002" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="843"
-     inkscape:window-height="569"
-     id="namedview5000"
-     showgrid="false"
-     inkscape:zoom="4.2909091"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="113"
-     inkscape:window-y="3"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4984" />
-  <desc
-     id="en">
-	Codes 50-59 General Group: Drizzle.
-	Code: 55
-	Description: Drizzle, not freezing, continuous (heavy at time of observation)
-</desc>
   <g
      transform="matrix(-1,0,0,-1,11,5.2)"
      id="g4987">
     <g
        id="ww_50">
       <circle
-         r="5.5"
-         id="circle4990"
-         d="M 5.5,0 C 5.5,3.0375661 3.0375661,5.5 0,5.5 -3.0375661,5.5 -5.5,3.0375661 -5.5,0 c 0,-3.0375661 2.4624339,-5.5 5.5,-5.5 3.0375661,0 5.5,2.4624339 5.5,5.5 z"
          cx="0"
          cy="0"
-         sodipodi:cx="0"
-         sodipodi:cy="0"
-         sodipodi:rx="5.5"
-         sodipodi:ry="5.5"
+         r="5.5"
          transform="scale(-1,-1)"
+         id="circle4990"
          style="fill:#000000" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
          d="M 4,0 C 4,3.7 1.9,7.1 -1,9.2"
+         inkscape:connector-curvature="0"
          id="path4992"
-         inkscape:connector-curvature="0" />
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
     </g>
   </g>
   <use
-     xlink:href="#ww_50"
-     x="-11"
-     id="use4994"
      transform="matrix(-1,0,0,-1,-22,5.2)"
+     id="use4994"
+     x="-11"
      y="0"
      width="55"
-     height="55" />
+     height="55"
+     xlink:href="#ww_50" />
   <use
-     xlink:href="#ww_50"
-     y="-11"
-     id="use4996"
      transform="matrix(-1,0,0,-1,0,-16.8)"
+     id="use4996"
      x="0"
+     y="-11"
      width="55"
-     height="55" />
+     height="55"
+     xlink:href="#ww_50" />
   <use
-     xlink:href="#ww_50"
-     y="11"
-     id="use4998"
      transform="matrix(-1,0,0,-1,0,27.2)"
+     id="use4998"
      x="0"
+     y="11"
      width="55"
-     height="55" />
+     height="55"
+     xlink:href="#ww_50" />
 </svg>

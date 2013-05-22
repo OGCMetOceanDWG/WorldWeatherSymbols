@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg2997"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_DirectionOfwell_dw1dw1_00.svg">
+   id="svg2997">
+  <desc
+     id="en">
+	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
+	Code: 04
+	Description: Visibility reduced by smoke
+</desc>
   <metadata
      id="metadata3007">
     <rdf:RDF>
@@ -22,63 +27,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3005">
     <marker
-       inkscape:stockid="TriangleOutS"
+       refX="0"
+       refY="0"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="TriangleOutS"
        style="overflow:visible">
       <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
          id="path3929"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.2)" />
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1108"
-     inkscape:window-height="618"
-     id="namedview3003"
-     showgrid="false"
-     inkscape:zoom="7.2"
-     inkscape:cx="27.5"
-     inkscape:cy="27.5"
-     inkscape:window-x="103"
-     inkscape:window-y="4"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="ww_04"
-     inkscape:snap-midpoints="false"
-     inkscape:snap-object-midpoints="true" />
-  <desc
-     id="en">
-	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
-	Code: 04
-	Description: Visibility reduced by smoke
-</desc>
   <g
-     id="ww_04"
      transform="matrix(0.99843844,-0.05586302,0.05586302,0.99843844,0.65232991,21.684395)"
+     id="ww_04"
      style="fill:none;stroke:#000000;stroke-width:3">
     <path
-       style="stroke-width:1.83399999;stroke-miterlimit:4;stroke-dasharray:none;marker-end:none"
-       sodipodi:nodetypes="czzzzzzzzzzzzsc"
+       d="m -1.9966824,-0.62378415 c 0.09208,-1.34614895 0.353261,-2.31642395 -0.442252,-3.40172605 -0.795513,-1.085302 -2.065071,-1.9368819 -2.047055,-3.5556059 0.01802,-1.618724 0.820057,-3.1656459 2.638635,-3.0927039 1.81857802,0.07294 2.953857,-0.952823 3.173001,-2.652308 0.219144,-1.699485 -1.33726698,-3.023102 -2.685603,-3.090574 -1.348336,-0.06747 -2.45877,-1.626265 -2.414802,-3.128038 0.04397,-1.501772 1.304075,-2.660612 2.715153,-2.528469 1.41107802,0.132144 2.950263,-1.257448 3.051725,-2.831993 0.101462,-1.574545 -1.15978798,-2.770908 -2.65249897,-2.832942 -1.49271103,-0.06203 -2.65779803,-1.344314 -2.65249803,-2.832942 0.0053,-1.488627 1.308901,-2.78007 3.00170203,-2.787272 1.69280097,-0.0072 2.85016297,-1.476093 2.92645897,-3.278239 0.0763,-1.802146 -1.66243998,-2.522858 -2.61674998,-2.760818 -1.44576802,-0.360505 -0.98496999,-2.478325 -0.85296599,-3.988306"
        inkscape:connector-curvature="0"
        id="path3961"
-       d="m -1.9966824,-0.62378415 c 0.09208,-1.34614895 0.353261,-2.31642395 -0.442252,-3.40172605 -0.795513,-1.085302 -2.065071,-1.9368819 -2.047055,-3.5556059 0.01802,-1.618724 0.820057,-3.1656459 2.638635,-3.0927039 1.81857802,0.07294 2.953857,-0.952823 3.173001,-2.652308 0.219144,-1.699485 -1.33726698,-3.023102 -2.685603,-3.090574 -1.348336,-0.06747 -2.45877,-1.626265 -2.414802,-3.128038 0.04397,-1.501772 1.304075,-2.660612 2.715153,-2.528469 1.41107802,0.132144 2.950263,-1.257448 3.051725,-2.831993 0.101462,-1.574545 -1.15978798,-2.770908 -2.65249897,-2.832942 -1.49271103,-0.06203 -2.65779803,-1.344314 -2.65249803,-2.832942 0.0053,-1.488627 1.308901,-2.78007 3.00170203,-2.787272 1.69280097,-0.0072 2.85016297,-1.476093 2.92645897,-3.278239 0.0763,-1.802146 -1.66243998,-2.522858 -2.61674998,-2.760818 -1.44576802,-0.360505 -0.98496999,-2.478325 -0.85296599,-3.988306" />
+       style="stroke-width:1.83399999;stroke-miterlimit:4;stroke-dasharray:none;marker-end:none" />
   </g>
 </svg>

@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="440"
    height="80"
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,10 +34,12 @@
      id="g3759">
     <path
        d="m 10,26 h 10 a 25,25 0 1 1 50,0 h 10 v 5 H 10 v -5 z m 140,0 h 10 a 25,25 0 1 1 50,0 h 10 v 5 h -70 v -5 z m 140,0 h 10 a 25,25 0 1 1 50,0 h 10 v 5 h -70 v -5 z"
+       inkscape:connector-curvature="0"
        id="path6"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
        d="m 80,26 v 5 h 10 l 25,35 25,-35 h 10 V 26 H 80 z m 140,0 v 5 h 10 l 25,35 25,-35 h 10 v -5 h -70 z m 140,0 v 5 h 10 l 25,35 25,-35 h 10 v -5 h -70 z"
+       inkscape:connector-curvature="0"
        id="path8"
        style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>

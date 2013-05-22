@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
-<desc id="en">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg2">
+  <desc
+     id="en">
 	Codes 60-69 General Group: Rain.
 	Code: 63
 	Description: Rain, not freezing, continuous (moderate at time of observation)
 </desc>
-<circle id="point" r="5.5" cy="-9" fill="black" />
-<use xlink:href="#point" transform="rotate(120)"/>
-<use xlink:href="#point" transform="rotate(240)"/>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <circle
+     cx="0"
+     cy="-9"
+     r="5.5"
+     id="point"
+     style="fill:#000000" />
+  <use
+     transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+     id="use6"
+     x="0"
+     y="0"
+     width="1"
+     height="1"
+     xlink:href="#point" />
+  <use
+     transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+     id="use8"
+     x="0"
+     y="0"
+     width="1"
+     height="1"
+     xlink:href="#point" />
 </svg>

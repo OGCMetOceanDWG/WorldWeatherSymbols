@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
-   id="svg2997"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="WeatherSymbol_WMO_StateOfGround_E_1.svg">
+   id="svg2997">
+  <desc
+     id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 45
+	Description: Fog sky obscured (no appreciable change during the preceding hour)
+</desc>
   <metadata
      id="metadata3007">
     <rdf:RDF>
@@ -22,65 +26,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3005" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="989"
-     inkscape:window-height="795"
-     id="namedview3003"
-     showgrid="false"
-     inkscape:zoom="5.7272727"
-     inkscape:cx="46.74127"
-     inkscape:cy="27.5"
-     inkscape:window-x="147"
-     inkscape:window-y="6"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2997" />
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 45
-	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
   <rect
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3779"
      width="39.349499"
      height="37.829559"
      x="-19.468254"
-     y="-18.76984" />
+     y="-18.76984"
+     id="rect3779"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <circle
-     style="fill:#000000"
-     sodipodi:ry="5.5"
-     sodipodi:rx="5.5"
-     sodipodi:cy="0"
-     sodipodi:cx="0"
-     cy="0"
      cx="0"
+     cy="0"
+     r="5.5"
      transform="matrix(0.9047619,0,0,0.9047619,0.08730159,-6.1984127)"
-     r="5.5"
-     id="circle3852" />
+     id="circle3852"
+     style="fill:#000000" />
   <circle
-     style="fill:#000000"
-     sodipodi:ry="5.5"
-     sodipodi:rx="5.5"
-     sodipodi:cy="0"
-     sodipodi:cx="0"
-     cy="0"
      cx="0"
-     transform="matrix(0.88888889,0,0,0.88888889,0.17460317,6.9841272)"
+     cy="0"
      r="5.5"
-     id="circle3852-1" />
+     transform="matrix(0.88888889,0,0,0.88888889,0.17460317,6.9841272)"
+     id="circle3852-1"
+     style="fill:#000000" />
 </svg>

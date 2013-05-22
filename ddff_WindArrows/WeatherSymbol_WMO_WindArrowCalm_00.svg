@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -31,12 +31,12 @@
   <g
      transform="matrix(0.423,0,0,0.423,-18.1,-18)"
      id="g3007"
-     style="fill:none;stroke:black;stroke-width:1.779;stroke-miterlimit:4;stroke-dasharray:none">
+     style="fill:none;stroke:#000000;stroke-width:1.77900004;stroke-miterlimit:4;stroke-dasharray:none">
     <circle
        cx="0"
        cy="0"
        r="18"
        id="circle3009"
-       style="stroke-width:1.779;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="stroke-width:1.77900004;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>

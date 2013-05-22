@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="440"
    height="55"
@@ -83,6 +84,7 @@
      id="defs10" />
   <path
      d="m 10,40 10,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 10,0 1.21324,0.147059 L 9.9999997,39.742647 z"
+     inkscape:connector-curvature="0"
      id="path6"
      style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
 </svg>
