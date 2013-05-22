@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="165"
+   height="55"
+   viewBox="-48 -33 41.25 13.75"
+   id="svg3334">
+  <svg:title>Observed wind speed: 53–57 knots</svg:title>
+<svg:desc>WMO international weather symbol: Observed wind speed: 53–57 knots</svg:desc>
+<svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ddff_WindArrows/WeatherSymbol_WMO_WindArrowSH_11.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Observed wind speed: 53–57 knots: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/485/II-4-2/ddff</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Observed wind speed: 53–57 knots: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+  <svg:g
+     transform="matrix(0.91054614,0,0,0.62851173,-8.8088513,1.5270524)"
+     id="g2986">
+    <svg:path
+       d="m 1,-35.25 0,-1 -5,-17.25 -5,17.25 0,1"
+       id="path3337"
+       style="fill:#000000;stroke:none" />
+    <svg:g
+       transform="matrix(-1,0,0,1,-43,-36.25)"
+       id="g3339"
+       style="fill:none;stroke:#000000;stroke-width:2">
+      <svg:path
+         d="M 0,0 H -40"
+         id="path3341" />
+      <svg:path
+         d="m -30,0 -2.5,-8.5"
+         id="path3343" />
+    </svg:g>
+  </svg:g>
+</svg>

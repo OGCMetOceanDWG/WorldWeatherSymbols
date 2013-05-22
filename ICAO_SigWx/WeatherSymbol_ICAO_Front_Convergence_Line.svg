@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   
+   version="1.1"
+   width="440"
+   height="55"
+   viewBox="0 0 440 55"
+   id="svg2">
+  <svg:title>Fronts and convergence zones and other symbols: Convergence line</svg:title>
+  <svg:desc>WMO/ICAO international aviation weather symbol: Fronts and convergence zones and other symbols: Convergence line</svg:desc>
+  <svg:metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ICAO_SigWx/WeatherSymbol_ICAO_Front_Convergence_Line.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fronts and convergence zones and other symbols: Convergence line</dc:title>
+        <dc:date>2013-04-30</dc:date>
+        <dc:creator>
+<cc:Agent>
+  <dc:title>WMO CAeM</dc:title>
+</cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+<cc:Agent>
+  <dc:title>WMO/ICAO</dc:title>
+</cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+<cc:Agent>
+  <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+</cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/49/3/2/5</dc:identifier>
+        <dc:source>WMO-No.49 Technical Regulations, Volume II Meteorological Service for International Air Navigation, C.3.1, Appendix 1</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+<rdf:Bag>
+  <rdf:li>meteorology</rdf:li>
+  <rdf:li>weather</rdf:li>
+  <rdf:li>symbol</rdf:li>
+  <rdf:li>front</rdf:li>
+</rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO/ICAO international aviation weather symbol: Fronts and convergence zones and other symbols: Convergence line: Version0.1: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+<cc:Agent>
+  <dc:title>Chris Little</dc:title>
+</cc:Agent>
+        </dc:contributor>
+        <cc:license
+ rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:path
+     d="m 25,25 405,0"
+     id="path2988"
+     style="fill:none;stroke:#000000;stroke-width:2.94;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 25,15 45,25"
+     id="path3760"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:use
+     id="use3890"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(40,0)"
+     id="use3894"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(80,0)"
+     id="use3898"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(120,0)"
+     id="use3902"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(160,0)"
+     id="use3906"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(200,0)"
+     id="use3910"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(240,0)"
+     id="use3914"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(280,0)"
+     id="use3918"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(320,0)"
+     id="use3922"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:use
+     transform="translate(360,0)"
+     id="use3926"
+     x="0"
+     y="0"
+     width="440"
+     height="55"
+     xlink:href="#path3760" />
+  <svg:path
+     d="M 45,35 65,25"
+     id="use3934"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 85,35 110,25"
+     id="use3938"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 130,35 150,25"
+     id="use3942"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 170,35 190,25"
+     id="use3946"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 210,35 230,25"
+     id="use3950"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 250,35 270,25"
+     id="use3954"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 290,35 310,25"
+     id="use3958"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 330,35 350,25"
+     id="use3962"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 370,35 390,25"
+     id="use3966"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <svg:path
+     d="M 410,35 430,25"
+     id="use3970"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+</svg>

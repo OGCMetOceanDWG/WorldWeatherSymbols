@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   
+   
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg3056">
+
+  <svg:title>Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus</svg:title><svg:desc>WMO international weather symbol: Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Dense cirrus, often in the form of an anvil, being the remains of the upper parts of cumulonimbus</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_3.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/0509/3</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
+  <svg:path
+     d="m 5,14 c 0,0 22.7,0 34,0 2.7,0 5.5,1 7.4,2.7 2,1.8 3.1,4.2 3.1,6.6 0,2.5 -1.1,4.9 -3.1,6.7 -1.9,1.7 -3.5,2.5 -7.4,2.7 -3.9,0.2 -8,2.3 -7.8,9.3"     id="path3064"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg3039">
+ 
+  <svg:title>Present weather additional phenomenon: Deposition of glaze</svg:title><svg:desc>WMO international weather symbol: Present weather additional phenomenon: Deposition of glaze</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_27.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather additional phenomenon: Deposition of glaze: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4687/27</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather additional phenomenon: Deposition of glaze: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
+  <svg:g
+     id="g3101">
+    <svg:g
+       transform="matrix(0,1,1,0,-1.8644068,2.4279661)"
+       id="g3005"
+       style="fill:none;stroke:#000000;stroke-width:3">
+      <svg:path
+         d="m 2,0 c -3.5342917,0 -6.9624203,-2.2906086 -8.3148534,-5.5557973 -1.3524331,-3.2651888 -0.547896,-7.3087287 1.9512156,-9.8078407 2.4991117,-2.499111 6.5426517,-3.303649 9.8078405,-1.951215"
+         id="arc" />
+      <svg:path
+         d="m 2,0 c 3.5342917,0 6.9624203,2.2906086 8.314853,5.5557973 1.352434,3.2651888 0.547896,7.3087287 -1.9512152,9.8078407 -2.4991117,2.499111 -6.5426517,3.303649 -9.8078405,1.951215"
+         id="arc2" />
+    </svg:g>
+    <svg:path
+       d="m 18.135593,15.381356 -40,0"
+       id="path3009"
+       style="fill:none;stroke:#000000;stroke-width:3" />
+  </svg:g>
+</svg>
