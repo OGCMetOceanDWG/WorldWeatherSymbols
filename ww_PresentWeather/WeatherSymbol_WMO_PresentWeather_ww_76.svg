@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 70-79 General Group: Solid precipitation not in showers.
+	Code: 76
+	Description: Ice needles (with or without fog)
+</desc>
+<g style="stroke-width:3; stroke:#000000; fill:none; stroke-linejoin:miter">
+	<path id="ww_76_arrow" d="M -9,4.5 L -16,0 L -9,-4.5"  stroke-linecap="round" />
+	<use xlink:href="#ww_76_arrow" transform="scale(-1,1)" />
+	<path id="ww_76_line" d="M -15,0 h30" />
+</g>
+</svg>

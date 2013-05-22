@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg3001"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_78.svg">
+  <metadata
+     id="metadata3015">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3013" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="798"
+     inkscape:window-height="672"
+     id="namedview3011"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="65.487288"
+     inkscape:cy="27.5"
+     inkscape:window-x="108"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="ww_20" />
+  <desc
+     id="en">
+	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
+	Code: 20
+	Description: Drizzle (not freezing) or snow grains not falling as shower(s) ended in the past hour
+</desc>
+  <g
+     id="ww_20">
+    <g
+       id="g3824">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="4.7202796"
+         sodipodi:start="1.5599733"
+         transform="matrix(0.034767,2.0616391,-2.0978101,0.00798217,45.0368,-34.424389)"
+         d="M 20.112997,28.19877 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509"
+         sodipodi:ry="6.5254235"
+         sodipodi:rx="6.5254235"
+         sodipodi:cy="21.673729"
+         sodipodi:cx="20.042374"
+         id="path4607"
+         style="fill:none;stroke:#000000;stroke-width:1.92334259000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linecap:round"
+         sodipodi:type="arc" />
+      <g
+         id="ww_70"
+         transform="translate(0.23305081,5.1271186)">
+        <path
+           d="m 0,-5.5 v 11"
+           id="ww70arm"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
+        <use
+           id="use3005"
+           transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+           xlink:href="#ww70arm"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           id="use3007"
+           transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+           xlink:href="#ww70arm"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg5983"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_50.svg">
+  <metadata
+     id="metadata5997">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5995" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="974"
+     inkscape:window-height="834"
+     id="namedview5993"
+     showgrid="false"
+     inkscape:zoom="11.127273"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="114"
+     inkscape:window-y="162"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="use5991" />
+  <desc
+     id="en">
+	Codes 50-59 General Group: Drizzle.
+	Code: 51
+	Description: Drizzle, not freezing, continuous (slight at time of observation)
+</desc>
+  <g
+     transform="translate(0.41101695,-2.5635593)"
+     id="use5991"
+     style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="path6003"
+       d="M 4.9651701,0.44233886 C 4.9361023,5.0482916 -0.18739239,8.8151189 -3.1944444,10.727778"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path6003-0"
+       d="M 0.00160314,5.3870038 C -0.46267262,8.2783231 -1.6802066,9.2048394 -3.2877694,10.646651"
+       style="fill:none;stroke:#000000;stroke-width:0.50438392;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.38347086;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8130"
+       sodipodi:cx="25.16"
+       sodipodi:cy="26.42338"
+       sodipodi:rx="3.9496143"
+       sodipodi:ry="3.9496143"
+       d="m 23.947875,30.182396 a 3.9496143,3.9496143 0 1 1 4.92608,-2.415145"
+       transform="matrix(1.2111483,-0.38682666,0.40682899,1.2737753,-41.294673,-23.818267)"
+       sodipodi:start="1.8827274"
+       sodipodi:end="6.630372"
+       sodipodi:open="true" />
+  </g>
+</svg>

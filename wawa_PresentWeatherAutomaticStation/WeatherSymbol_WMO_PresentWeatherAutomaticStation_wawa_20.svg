@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
+	Code: 28
+	Description: Fog or ice fog ended in the past hour
+</desc>
+<g id="ww_28">
+	<path d="M -19.5,-9.5 h 35 M -19.5,0 h 35 M -19.5,9.5 h 35" fill="none" stroke-width="3" stroke="#000000" />
+	<path d="M 13.5,-23 h 7 v46 h-7" fill="none" stroke-width="3" stroke="#000000" />
+</g>
+</svg>

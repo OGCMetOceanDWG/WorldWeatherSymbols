@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 49
+	Description: Fog, depositing rime ice, or ice fog, sky obscured
+</desc>
+<g id="ww_49">
+	<path d="M -2,0 L 0,4 L 2,0 M -8.5,-9.5 L 8.5,-9.5" fill="none" stroke-width="3" stroke="#000000" stroke-linejoin="miter" />
+	<path d="M -17.5,-9.5 L -8.5,-9.5 L 0,7.5 L 8.5,-9.5 L 17.5,-9.5 M -17.5,0 h 35 M -17.5,9.5 h 35" fill="none" stroke-width="3" stroke="#000000" stroke-linejoin="miter" />
+</g>
+</svg>

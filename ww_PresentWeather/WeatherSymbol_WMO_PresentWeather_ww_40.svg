@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 40
+	Description: Fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer
+</desc>
+<g id="ww_40">
+	<path d="M -17.5,-9.5 h 35 M -17.5,0 h 35 M -17.5,9.5 h 35 M -15.5,-18.5 a 25,25 0 0,0 0,37 M 15.5,18.5 a 25,25 0 0,0 0,-37" style="fill:none; stroke-width:3; stroke:#000000" />
+</g>
+</svg>

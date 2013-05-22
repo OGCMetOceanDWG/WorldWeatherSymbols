@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 30-39 General Group: Duststorm, sandstorm, drifting or blowing snow.
+	Code: 37
+	Description: Heavy drifting snow (generally below eye level)
+</desc>
+<path d="M 0,16 l -1,-1.5 h2 l -1,1.5 z v -32.5" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 15,2.8 h -32 M 15,-2.8 h -32 M 19,0 m -8,-6 l 8,6 l -8,6" fill="none" stroke="black" stroke-width="1"/>
+</svg>

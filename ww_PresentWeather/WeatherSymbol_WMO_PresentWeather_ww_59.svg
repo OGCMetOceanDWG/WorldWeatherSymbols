@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 50-59 General Group: Drizzle.
+	Code: 59
+	Description: Drizzle and rain, moderate or heavy
+</desc>
+<g transform="translate(0,-19)">
+	<g id="ww_50">
+		<circle r="5.5" fill="#000000" />
+		<path style="fill:none; stroke:#000000; stroke-width:3; stroke-linecap:round;" d="M 4,0 C 4,3.7 1.9,7.1 -1,9.2" />
+	</g>
+</g>
+<circle r="5.5" cy="0" fill="#000000" />
+<use xlink:href="#ww_50" transform="translate(0,14)" />
+</svg>

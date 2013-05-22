@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 40-49 General Group: Fog at the time of observation.
+	Code: 47
+	Description: Fog sky obscured (has begun or has become thicker during the preceding hour)
+</desc>
+<g id="ww_47">
+	<path d="M -14,-9.5 h 34 M -14,0 h 34 M -14,9.5 h 34 M -18.5,-11 v 22" fill="none" stroke-width="3" stroke="#000000" />
+</g>
+</svg>

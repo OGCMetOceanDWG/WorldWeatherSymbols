@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
+	Code: 92
+	Description: Thunderstorm during the preceeding hour but not at time of observation with moderate or heavy rain at time of observation
+</desc>
+<g id="ww_92">
+	<circle r="4.5" cx="17.5" cy="-6" fill="black" />
+	<circle r="4.5" cx="17.5" cy="6" fill="black" />
+	<path d="M -22.5,-17.5 h 24 l-14,19.5 l 14.5,14.5" style="fill:none; stroke-width:3; stroke:#000000" />
+	<path d="M -18.5,-17.5 v 37" style="fill:none; stroke-width:3; stroke:#000000" />
+	<path d="M 1.5,-23 h 7 v 46 h-7" style="fill:none; stroke-width:3; stroke:#000000" />
+	<path d="M 1,16.5 h1 v-1 z" style="fill:#000000; stroke-width:3; stroke:#000000" />
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
+	Code: 13
+	Description: Lighting visible, no thunder heard
+</desc>
+<g id="ww_13" fill="none" stroke-width="3" stroke="#000000" >
+	<path d="M -16.5,-17.5 m 24,0 l-14,19.5 l 14.5,14.5"/>
+	<path d="M 7,16.5 h1 v-1 z"/>
+</g>
+</svg>

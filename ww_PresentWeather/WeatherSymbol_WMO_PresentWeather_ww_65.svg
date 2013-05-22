@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 60-69 General Group: Rain.
+	Code: 65
+	Description: Rain, not freezing, continuous (heavy at time of observation)
+</desc>
+<circle id="point" r="5.5" cy="-9.5" fill="black" />
+<use xlink:href="#point" transform="rotate(90)"/>
+<use xlink:href="#point" transform="rotate(180)"/>
+<use xlink:href="#point" transform="rotate(270)"/>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg3907"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_82.svg">
+  <metadata
+     id="metadata3921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3919" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="814"
+     inkscape:window-height="660"
+     id="namedview3917"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="105"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3907" />
+  <desc
+     id="en">
+	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
+	Code: 81
+	Description: Rain shower(s), moderate or heavy
+</desc>
+  <g
+     id="g3944">
+    <circle
+       transform="translate(-6.9915254,0)"
+       r="5.5"
+       cy="-15.5"
+       id="circle3911"
+       cx="0"
+       sodipodi:cx="0"
+       sodipodi:cy="-15.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:#000000" />
+    <path
+       d="M -0.24597563,-5.3989189 H 10.932203 L -0.24597563,17.661631 -11.424155,-5.3989189 z"
+       style="fill:none;stroke:#000000;stroke-width:3.69417238"
+       id="path3913"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M -8.5169492,0.5 H 6.8458809"
+       style="fill:none;stroke:#000000;stroke-width:3.39442515"
+       id="path3915"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="5.5"
+       cy="-15.5"
+       id="circle3911-1"
+       cx="0"
+       sodipodi:cx="0"
+       sodipodi:cy="-15.5"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5"
+       style="fill:#000000"
+       transform="translate(6.9915254,0.11864407)" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
+	Code: 02
+	Description: State of sky on the whole unchanged during past hour (not plotted)
+</desc>
+<g id="ww_02" fill="none" stroke-width="3" stroke="#000000" >
+	<circle r="17"/>
+	<path d="M 17,0 h 8"/>
+	<path d="M -17,0 h -8"/>
+</g>
+</svg>

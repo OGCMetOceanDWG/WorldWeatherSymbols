@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 70-79 General Group: Solid precipitation not in showers.
+	Code: 78
+	Description: Isolated star-like snow crystals (with or without fog)
+</desc>
+<g style="stroke-width:3; stroke:#000000; fill:none;">
+	<path id="ww_78_arm" d="M -5,-5 l 10,10" stroke-linecap="round" />
+	<use xlink:href="#ww_78_arm" transform="rotate(90)" />
+	<path id="ww_78_line" d="M -15,0 h30" />
+</g>
+</svg>

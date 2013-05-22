@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 70-79 General Group: Solid precipitation not in showers.
+	Code: 79
+	Description: Ice pellets (sleet)
+</desc>
+<g transform="translate(0,6)">
+	<circle r="4.2" fill="#000000" />
+	<path d="M 0,-17.4 l 15.068842,26.1 h-30.137684 z" style="stroke-width:3; stroke:#000000; fill:none" />
+</g>
+</svg>

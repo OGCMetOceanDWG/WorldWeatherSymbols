@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
+	Code: 26
+	Description: Shower(s) of snow, or of rain and snow ended in the past hour
+</desc>
+<g id="ww_26">
+<g id="ww_85" transform="translate(-4,3)">
+	<g transform="translate(0,-15.5)">
+	<path id="ww70arm" d="M -5.5,0 h11" stroke="black" stroke-linecap="round" stroke-width="3" />
+	<use xlink:href="#ww70arm" transform="rotate(60)" />
+	<use xlink:href="#ww70arm" transform="rotate(120)" />
+	</g>
+	<path d="M 0,-5.5 h 8.5 l-8.5,20 l-8.5,-20 z" style="fill:none; stroke-width:3; stroke:#000000" />
+</g>
+<path d="M 6,-23 h 7 v46 h-7" fill="none" stroke-width="3" stroke="#000000" />
+</g>
+</svg>

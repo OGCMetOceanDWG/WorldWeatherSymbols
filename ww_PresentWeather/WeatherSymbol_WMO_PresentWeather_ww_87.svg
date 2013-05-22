@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
+	Code: 87
+	Description: Shower(s) of snow pellets or small hail, slight with or without rain or rain and snow mixed
+</desc>
+<g id="ww_87">
+	<path d="M -6,-8.5 h 12 l -6,-10.4 z" style="fill:none; stroke-width:3; stroke:#000000" />
+	<path d="M 0,-2.5 h 8.5 l-8.5,20 l-8.5,-20 z" style="fill:none; stroke-width:3; stroke:#000000" />
+</g>
+</svg>

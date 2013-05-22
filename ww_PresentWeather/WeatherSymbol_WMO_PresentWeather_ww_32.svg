@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 30-39 General Group: Duststorm, sandstorm, drifting or blowing snow.
+	Code: 32
+	Description: Slight or moderate duststorm or sandstorm (has begun or increased during the preceding hour)
+</desc>
+<g fill="none" stroke="black" stroke-width="3">
+	<path id="arc" d="M 2,0 a 9,9 0 1,1 9,-9" />
+	<path id="arc2" d="M 2,0 a 9,9 0 1,1 -9,9" />
+</g>
+<path d="M -20,-20 v 40" fill="none" stroke="black" stroke-width="3" />
+<path d="M 18,0 l -1.5,-1 v2 l 1.5,-1 z h -32.5" fill="none" stroke="black" stroke-width="3" />
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55">
+<desc id="en">
+	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
+	Code: 20
+	Description: Drizzle (not freezing) or snow grains not falling as shower(s) ended in the past hour
+</desc>
+<g id="ww_20">
+<circle r="5.5" cx="-4" fill="#000000" />
+<path style="fill:none; stroke:#000000; stroke-width:3; stroke-linecap:round;" d="M 0,0 C 0,3.7 -2.1,7.1 -5,9.2" />
+<path d="M 1,-21 h 7 v42 h-7" fill="none" stroke-width="3" stroke="#000000" />
+</g>
+</svg>
