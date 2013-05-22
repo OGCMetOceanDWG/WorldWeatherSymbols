@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   
+   
+   version="1.1"
+   width="440"
+   height="80"
+   viewBox="0 0 440 80"
+   id="svg2">
+
+  <svg:title>Type of front: Quasi-stationary front above the surface</svg:title><svg:desc>WMO international weather symbol: Type of front: Quasi-stationary front above the surface</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/Ft_Fronts/WeatherSymbol_WMO_Front_Quasi-stationary_above_surface.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Type of front: Quasi-stationary front above the surface: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/1152/1</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li><rdf:li>front</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Type of front: Quasi-stationary front above the surface: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
+  <svg:g
+     transform="translate(0,9)"
+     id="g3759"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+    <svg:g
+       transform="translate(3.5862646,-3.3128272)"
+       id="g3756">
+      <svg:path
+         d="M 20,26.404412 C 20,19.859427 22.694327,13.354745 27.322331,8.7267442 31.950334,4.0987437 38.455016,1.4044227 45,1.4044227 c 6.544984,0 13.049666,2.694321 17.677669,7.3223215 C 67.305673,13.354745 70,19.859427 70,26.404412 c -16.309744,-0.601595 -65.8916306,0.03166 -50,0 z m 140,0 c 0,-6.544985 2.69433,-13.049667 7.32233,-17.6776678 4.628,-4.6280005 11.13269,-7.3223215 17.67767,-7.3223215 6.54498,0 13.04967,2.694321 17.67767,7.3223215 C 207.30567,13.354745 210,19.859427 210,26.404412 c -12.98565,0.153574 -78.00149,8.94e-4 -50,0 z m 140,0 c 0,-6.544985 2.69433,-13.049667 7.32233,-17.6776678 4.628,-4.6280005 11.13269,-7.3223215 17.67767,-7.3223215 6.54498,0 13.04967,2.694321 17.67767,7.3223215 C 347.30567,13.354745 350,19.859427 350,26.404412 c -6.73098,0.435087 -63.5751,0 -50,0 z"
+        
+         id="path6"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <svg:path
+         d="m 91.617647,26.955883 c 0,0 22.867643,40.318627 23.382353,39.852941 l 25.40441,-39.852941 c -48.651454,0.244355 -48.786763,0 -48.786763,0 z M 232.42648,27.360295 255,66.808824 280.40441,27.764706 c 0,0 -47.60494,-0.386289 -47.97793,-0.404411 z M 372.02206,27.764706 395,66.808824 417.57353,27.764706 z"
+        
+         id="path8"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <svg:path
+         d="M 8.9137354,26.773196 C 434.81353,26.126971 434.24235,26.368784 434.24235,26.368784"
+        
+         id="path3754"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </svg:g>
+  </svg:g>
+</svg>

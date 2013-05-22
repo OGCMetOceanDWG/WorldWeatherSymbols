@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-27.5 -27.5 55 55"
+   id="svg3898">
+
+  <svg:title>Present weather additional phenomenon: Shower(s) or thunderstorm over sea</svg:title><svg:desc>WMO international weather symbol: Present weather additional phenomenon: Shower(s) or thunderstorm over sea</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_92.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather additional phenomenon: Shower(s) or thunderstorm over sea: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4687/92</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather additional phenomenon: Shower(s) or thunderstorm over sea: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+  <svg:defs
+     id="defs3906">
+    <svg:marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <svg:path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.2,0.2)"
+         id="path4660"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </svg:marker>
+  </svg:defs>
+  <svg:g
+     id="g4459">
+    <svg:g
+       id="g5320">
+      <svg:path
+         d="M -18.444787,9.0911331 -10.672602,15.731468 -0.80797378,8.6104204 7.6116495,15.58717 16.843502,9.2764187"
+         id="path4457"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </svg:g>
+    <svg:g
+       transform="matrix(0.87381566,0,0,0.87814787,19.18502,-0.74543452)"
+       id="g5602">
+      <svg:g
+         transform="translate(0.18858879,2.0642425)"
+         id="g5630">
+        <svg:g
+ transform="translate(-0.47057855,0.58584182)"
+ id="g5599">
+<svg:g
+   id="g5627">
+  <svg:path
+     d="m -19.3776,-13.80306 14.1489815,0 -5.8019195,7.6830782 6.0966899,5.38585877"
+     id="path5373"
+     style="fill:none;stroke:#000000;stroke-width:2.85394931;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#TriangleOutS)" />
+</svg:g>
+        </svg:g>
+        <svg:path
+ d="m -16.968127,-13.047103 0,15.5251972"
+ id="path5375"
+ style="fill:none;stroke:#000000;stroke-width:3.24349761;stroke-miterlimit:4;stroke-dasharray:none" />
+      </svg:g>
+    </svg:g>
+    <svg:path
+       d="m -12.779215,-10.752445 h 5.9906842 L -12.779215,3.8952544 -18.769899,-10.752445 z"
+       id="path5345"
+       style="fill:none;stroke:#000000;stroke-width:2.15535951" />
+    <svg:path
+       d="m -8.4204081,7.1020736 8.65198979,-21.3306686 0.15449903,0"
+       id="path5625"
+       style="fill:none;stroke:#000000;stroke-width:1.42747784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </svg:g>
+</svg>
