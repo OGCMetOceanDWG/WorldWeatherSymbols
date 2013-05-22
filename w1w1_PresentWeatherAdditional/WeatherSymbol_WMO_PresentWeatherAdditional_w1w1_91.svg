@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3035">
-  <desc
+  <svg:desc
      id="en">
 	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
 	Code: 87
 	Description: Shower(s) of snow pellets or small hail, slight with or without rain or rain and snow mixed
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3047">
     <rdf:RDF>
       <cc:Work
@@ -31,31 +31,31 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3045" />
-  <path
+  <svg:path
      d="m -5.6071429,-12.232143 h 12 l -5.99999996,-10.4 z"
-     inkscape:connector-curvature="0"
+    
      id="path3039"
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3" />
-  <path
+  <svg:path
      d="M 0,2.4107143 H 8.5 L 0,22.410714 -8.5,2.4107143 z"
-     inkscape:connector-curvature="0"
+    
      id="path3041"
      style="fill:none;stroke:#000000;stroke-width:3" />
-  <g
+  <svg:g
      id="g5196">
-    <g
+    <svg:g
        id="g5202">
-      <path
+      <svg:path
          d="M -3.1428572,-4.8124998 H 3.5357143"
-         inkscape:connector-curvature="0"
+        
          id="ww70arm"
          style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round" />
-      <g
+      <svg:g
          id="g5192">
-        <use
+        <svg:use
            transform="matrix(0.5,0.86720102,-0.86485137,0.5,-4.0638828,-2.5765929)"
            id="use3093"
            x="0"
@@ -63,7 +63,7 @@
            width="55"
            height="55"
            xlink:href="#ww70arm" />
-        <use
+        <svg:use
            transform="matrix(-0.5,0.86720102,-0.86485137,-0.5,-3.8674542,-7.3890927)"
            id="use3095"
            x="0"
@@ -71,7 +71,7 @@
            width="55"
            height="55"
            xlink:href="#ww70arm" />
-      </g>
-    </g>
-  </g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

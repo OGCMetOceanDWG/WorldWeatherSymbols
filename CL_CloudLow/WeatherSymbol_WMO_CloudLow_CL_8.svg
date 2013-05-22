@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.0"
    width="55"
    height="55"
    id="svg2">
-  <metadata
+  <svg:metadata
      id="metadata3791">
     <rdf:RDF>
       <cc:Work
@@ -23,36 +23,36 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs4" />
-  <g
+  <svg:g
      transform="translate(-0.28,-2.1)"
      id="g5748">
-    <g
+    <svg:g
        transform="matrix(1,0,0,-1,-0.02,40.2)"
        id="g5226">
-      <path
+      <svg:path
          d="m 16.6,30.1 a 10.8,10.8 0 1 1 21.5,0"
-         inkscape:connector-curvature="0"
+        
          id="path3003-1"
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
+      <svg:path
          d="m 38.3,29.1 11.6,0.1"
-         inkscape:connector-curvature="0"
+        
          id="path4963"
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
+      <svg:path
          d="M 16.3,29.1 5.02,29.2"
-         inkscape:connector-curvature="0"
+        
          id="path4973"
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <path
+    </svg:g>
+    <svg:path
        d="M 36,30 A 12.000104,12.000104 0 0 1 12,30.1 L 24,30 z"
-       inkscape:connector-curvature="0"
+      
        transform="matrix(1.69,0,0,-1.69,-12.8,99.7)"
        id="path5236"
        style="fill:none;stroke:#000000;stroke-width:1.18299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  </svg:g>
 </svg>

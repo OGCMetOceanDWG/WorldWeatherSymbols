@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3000">
-  <desc
+  <svg:desc
      id="en">
 	Codes 60-69 General Group: Rain.
 	Code: 67
 	Description: Rain, freezing, moderate or heavy
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3013">
     <rdf:RDF>
       <cc:Work
@@ -30,47 +30,47 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3011" />
-  <g
+  <svg:g
      transform="translate(0.13002364,5.2009456)"
      id="g3044">
-    <circle
+    <svg:circle
        cx="10"
        cy="0"
        r="4.5"
        id="circle3004"
        style="fill:#000000" />
-    <path
+    <svg:path
        d="M 0,0 A 10,10 0 0 0 20,0 V -2"
-       inkscape:connector-curvature="0"
+      
        id="arc"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
-    <g
+    <svg:g
        id="g3015">
-      <g
+      <svg:g
          transform="scale(-1,-1)"
          id="use3007">
-        <circle
+        <svg:circle
            cx="10"
            cy="0"
            r="4.5"
            id="circle3020"
            style="fill:#000000" />
-        <path
+        <svg:path
            d="M 0,0 A 10,10 0 0 0 20,0 V -2"
-           inkscape:connector-curvature="0"
+          
            id="path3022"
            style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      </g>
-    </g>
-    <circle
+      </svg:g>
+    </svg:g>
+    <svg:circle
        cx="10"
        cy="0"
        r="4.5"
        transform="translate(-9.1548464,-16.708037)"
        id="circle3004-1"
        style="fill:#000000" />
-  </g>
+  </svg:g>
 </svg>

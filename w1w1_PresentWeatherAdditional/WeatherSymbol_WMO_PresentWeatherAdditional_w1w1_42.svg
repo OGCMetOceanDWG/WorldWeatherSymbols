@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3898">
-  <desc
+  <svg:desc
      id="en">
 	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
 	Code: 10
 	Description: Mist
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3908">
     <rdf:RDF>
       <cc:Work
@@ -30,40 +30,40 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3906" />
-  <g
+  <svg:g
      id="g4459">
-    <g
+    <svg:g
        transform="translate(0.16479184,-0.16479184)"
        id="g3809">
-      <path
+      <svg:path
          d="m -17.664792,-12.5748 35,0 m -35,9.0000003 35,0"
-         inkscape:connector-curvature="0"
+        
          id="path3902"
          style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      <g
+      <svg:g
          transform="translate(-0.16479184,1.4831265)"
          id="g3805">
-        <path
+        <svg:path
            d="M -17.429067,12.106047 17.648712,2.1835389"
-           inkscape:connector-curvature="0"
+          
            id="path4457"
            style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="M 9.7227183,29.292474 24.883567,35.389771"
-           inkscape:connector-curvature="0"
+          
            transform="translate(-27.5,-27.5)"
            id="path3033"
            style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-    </g>
-    <path
+      </svg:g>
+    </svg:g>
+    <svg:path
        d="M 23.730024,35.22498 z"
-       inkscape:connector-curvature="0"
+      
        transform="translate(-27.5,-27.5)"
        id="path3803"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  </g>
+  </svg:g>
 </svg>

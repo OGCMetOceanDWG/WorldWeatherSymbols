@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <desc
+  <svg:desc
      id="en">
 	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
 	Code: 04
 	Description: Visibility reduced by smoke
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3007">
     <rdf:RDF>
       <cc:Work
@@ -30,31 +30,31 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3005">
-    <marker
+    <svg:marker
        refX="0"
        refY="0"
        orient="auto"
        id="TriangleOutS"
        style="overflow:visible">
-      <path
+      <svg:path
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         inkscape:connector-curvature="0"
+        
          transform="scale(0.2,0.2)"
          id="path3929"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
+    </svg:marker>
   </defs>
-  <g
+  <svg:g
      transform="matrix(0.99843844,-0.05586302,0.05586302,0.99843844,0.65232991,21.684395)"
      id="ww_04"
      style="fill:none;stroke:#000000;stroke-width:3">
-    <path
+    <svg:path
        d="m -12.810222,-22.628732 c 1.802146,0.0763 24.386342,1.505682 25.752926,1.612432"
-       inkscape:connector-curvature="0"
+      
        id="path3961"
        style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#TriangleOutS)" />
-  </g>
+  </svg:g>
 </svg>

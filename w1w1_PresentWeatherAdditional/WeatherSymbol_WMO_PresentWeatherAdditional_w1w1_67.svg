@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3004">
-  <desc
+  <svg:desc
      id="en">
 	Codes 60-69 General Group: Rain.
 	Code: 69
 	Description: Rain or drizzle and snow, moderate or heavy
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3021">
     <rdf:RDF>
       <cc:Work
@@ -30,58 +30,55 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3019" />
-  <g
+  <svg:g
      transform="translate(11.186441,0.46610169)"
      id="g3023">
-    <g
+    <svg:g
        id="g3048">
-      <g
+      <svg:g
          id="g4472">
-        <g
+        <svg:g
            id="g4460">
-          <g
+          <svg:g
              id="g3170">
-            <g
+            <svg:g
                transform="translate(8.3898305,0.23305085)"
                id="g3137">
-              <g
+              <svg:g
                  transform="translate(-9.7881356,13.766949)"
                  id="ww_70" />
-              <g
+              <svg:g
                  transform="matrix(0.74576272,0,0,0.76972721,-9.7881364,-2.0020935)"
                  id="g3068" />
-            </g>
-            <g
+            </svg:g>
+            <svg:g
                transform="matrix(0.96279009,0,0,0.96942576,-24.237289,1.2068529)"
                id="g3101">
-              <g
+              <svg:g
                  transform="translate(0,7)"
                  id="ww_70-0" />
-              <g
+              <svg:g
                  transform="matrix(0.91525424,0,0,0.87052731,-0.69915254,-11.70193)"
                  id="g3068-8" />
-            </g>
-            <path
+            </svg:g>
+            <svg:path
                d="M 29.830508,6.7584746 C 22.139831,47.775424 22.139831,47.775424 22.139831,47.775424"
-               inkscape:connector-curvature="0"
+              
                transform="translate(-38.686441,-27.966102)"
                id="path3168"
                style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          </g>
-          <text
+          </svg:g>
+          <svg:text
              x="-9.0889845"
              y="5.8262715"
              id="text4367"
              xml:space="preserve"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
-               x="-9.0889845"
-               y="5.8262715"
-               id="tspan4369">7</tspan></text>
-        </g>
-      </g>
-    </g>
-  </g>
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">7</svg:text>
+        </svg:g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

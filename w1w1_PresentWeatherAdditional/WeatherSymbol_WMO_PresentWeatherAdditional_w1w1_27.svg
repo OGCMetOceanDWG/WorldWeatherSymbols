@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3039">
-  <desc
+  <svg:desc
      id="en">
 	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
 	Code: 28
 	Description: Fog or ice fog ended in the past hour
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3051">
     <rdf:RDF>
       <cc:Work
@@ -30,28 +30,28 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3049" />
-  <g
+  <svg:g
      id="g3101">
-    <g
+    <svg:g
        transform="matrix(0,1,1,0,-1.8644068,2.4279661)"
        id="g3005"
        style="fill:none;stroke:#000000;stroke-width:3">
-      <path
+      <svg:path
          d="m 2,0 c -3.5342917,0 -6.9624203,-2.2906086 -8.3148534,-5.5557973 -1.3524331,-3.2651888 -0.547896,-7.3087287 1.9512156,-9.8078407 2.4991117,-2.499111 6.5426517,-3.303649 9.8078405,-1.951215"
-         inkscape:connector-curvature="0"
+        
          id="arc" />
-      <path
+      <svg:path
          d="m 2,0 c 3.5342917,0 6.9624203,2.2906086 8.314853,5.5557973 1.352434,3.2651888 0.547896,7.3087287 -1.9512152,9.8078407 -2.4991117,2.499111 -6.5426517,3.303649 -9.8078405,1.951215"
-         inkscape:connector-curvature="0"
+        
          id="arc2" />
-    </g>
-    <path
+    </svg:g>
+    <svg:path
        d="m 18.135593,15.381356 -40,0"
-       inkscape:connector-curvature="0"
+      
        id="path3009"
        style="fill:none;stroke:#000000;stroke-width:3" />
-  </g>
+  </svg:g>
 </svg>

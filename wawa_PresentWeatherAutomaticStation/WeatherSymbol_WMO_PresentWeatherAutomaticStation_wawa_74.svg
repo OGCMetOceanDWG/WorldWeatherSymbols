@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2">
-  <desc
+  <svg:desc
      id="en">
 	Codes 70-79 General Group: Solid precipitation not in showers.
 	Code: 79
 	Description: Ice pellets (sleet)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata15">
     <rdf:RDF>
       <cc:Work
@@ -29,22 +29,22 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs13" />
-  <g
+  <svg:g
      transform="translate(0,6)"
      id="g5">
-    <circle
+    <svg:circle
        cx="0"
        cy="0"
        r="4.1999998"
        id="circle7"
        style="fill:#000000" />
-    <path
+    <svg:path
        d="M 0,-17.4 15.068842,8.7 h -30.137684 z"
-       inkscape:connector-curvature="0"
+      
        id="path9"
        style="fill:none;stroke:#000000;stroke-width:3" />
-  </g>
+  </svg:g>
 </svg>

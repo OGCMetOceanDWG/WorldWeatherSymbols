@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-32 -32 55 55"
    id="svg7178">
-  <desc
-     id="desc7180">Sky obscured</desc>
-  <metadata
+  <svg:desc
+     id="desc7180">Sky obscured</svg:desc>
+  <svg:metadata
      id="metadata7192">
     <rdf:RDF>
       <cc:Work
@@ -26,27 +26,27 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs7190" />
-  <g
+  <svg:g
      transform="matrix(0.934,0,0,0.934,-4.54,3.9)"
      id="g7196">
-    <g
+    <svg:g
        transform="translate(0,-9)"
        id="g7182"
        style="fill:none;stroke:#000000;stroke-width:3">
-      <circle
+      <svg:circle
          cx="0"
          cy="0"
          r="28"
          id="circle7184"
          style="stroke-width:2.14100003;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
+      <svg:path
          d="m 19.8,19.8 -39.6,-39.6 m 39.6,0 -39.6,39.6"
-         inkscape:connector-curvature="0"
+        
          id="path7186"
          style="stroke-width:2.14100003;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

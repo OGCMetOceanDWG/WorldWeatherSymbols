@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.0"
    width="55"
    height="55"
    id="svg2">
-  <metadata
+  <svg:metadata
      id="metadata3113">
     <rdf:RDF>
       <cc:Work
@@ -23,25 +23,24 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4" />
-  <g
+  </svg:metadata>
+  
+  <svg:g
      id="g4880">
-    <path
+    <svg:path
        d="M 40.6,7.85 A 6.56,8.38 0 0 1 44.4,23.1"
-       inkscape:connector-curvature="0"
+      
        id="path3174"
        style="fill:none;stroke:#000000;stroke-width:1.98300004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <path
+    <svg:path
        d="M 44,51.1 7.9,51.1 44,23.4"
-       inkscape:connector-curvature="0"
+      
        id="path3176"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
+    <svg:path
        d="m 40.6,7.86 -2.5,0"
-       inkscape:connector-curvature="0"
+      
        id="path3178"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  </svg:g>
 </svg>

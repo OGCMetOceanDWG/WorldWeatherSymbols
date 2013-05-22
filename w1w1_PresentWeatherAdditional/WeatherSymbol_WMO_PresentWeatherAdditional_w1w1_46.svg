@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg4607">
-  <desc
+  <svg:desc
      id="en">
 	Codes 40-49 General Group: Fog at the time of observation.
 	Code: 45
 	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata4617">
     <rdf:RDF>
       <cc:Work
@@ -30,78 +30,78 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs4615">
-    <marker
+    <svg:marker
        refX="0"
        refY="0"
        orient="auto"
        id="TriangleInS"
        style="overflow:visible">
-      <path
+      <svg:path
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         inkscape:connector-curvature="0"
+        
          transform="scale(-0.2,-0.2)"
          id="path3922"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        refX="0"
        refY="0"
        orient="auto"
        id="TriangleOutS"
        style="overflow:visible">
-      <path
+      <svg:path
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         inkscape:connector-curvature="0"
+        
          transform="scale(0.2,0.2)"
          id="path3931"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        refX="0"
        refY="0"
        orient="auto"
        id="TriangleInS-1"
        style="overflow:visible">
-      <path
+      <svg:path
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         inkscape:connector-curvature="0"
+        
          transform="scale(-0.2,-0.2)"
          id="path3922-7"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        refX="0"
        refY="0"
        orient="auto"
        id="TriangleOutS-4"
        style="overflow:visible">
-      <path
+      <svg:path
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         inkscape:connector-curvature="0"
+        
          transform="scale(0.2,0.2)"
          id="path3931-0"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
+    </svg:marker>
   </defs>
-  <g
+  <svg:g
      id="g14286">
-    <path
+    <svg:path
        d="M -17.733051,9.5 17.5,9.5"
-       inkscape:connector-curvature="0"
+      
        id="path4611"
        style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)" />
-    <path
+    <svg:path
        d="m -17.849576,-2.0338983e-8 35.233051,0"
-       inkscape:connector-curvature="0"
+      
        id="path4611-9"
        style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
-    <path
+    <svg:path
        d="m -17.849577,-10.254237 35.233051,0"
-       inkscape:connector-curvature="0"
+      
        id="path4611-9-4"
        style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
-  </g>
+  </svg:g>
 </svg>

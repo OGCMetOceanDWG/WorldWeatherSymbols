@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.0"
    width="55"
    height="55"
    id="svg2">
-  <metadata
+  <svg:metadata
      id="metadata4522">
     <rdf:RDF>
       <cc:Work
@@ -23,27 +23,27 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs4" />
-  <g
+  <svg:g
      transform="matrix(0.498,0,0,0.46,-2.63,5.42)"
      id="layer1">
-    <g
+    <svg:g
        transform="translate(-417,-444)"
        id="g3288">
-      <path
+      <svg:path
          d="m 193,525 a 33.5,33.5 0 1 1 -67,0"
-         inkscape:connector-curvature="0"
+        
          transform="matrix(0.654,0,0,-0.744,373,888)"
          id="path3225"
          style="fill:none;stroke:#000000;stroke-width:5.98999977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <path
+      <svg:path
          d="m 193,525 c 0,8 -4,17 -10,23 -6,6 -15,10 -23,10 -9,0 -18,-4 -24,-10 -6,-6 -10,-15 -10,-23"
-         inkscape:connector-curvature="0"
+        
          transform="matrix(1.32,0,0,-1.32,266,1230)"
          id="path3221"
          style="fill:none;stroke:#000000;stroke-width:3.16599989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

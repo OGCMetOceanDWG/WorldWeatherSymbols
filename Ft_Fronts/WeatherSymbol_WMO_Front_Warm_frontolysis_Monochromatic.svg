@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="440"
    height="55"
    viewBox="0 0 440 55"
    id="svg2">
-  <title
-     id="title3988">Warm frontolysis - Monochromatic</title>
-  <desc
-     id="desc4">Warm front – symbol</desc>
-  <metadata
+  <svg:title
+     id="title3988">Warm frontolysis - Monochromatic</svg:title>
+  <svg:desc
+     id="desc4">Warm front – symbol</svg:desc>
+  <svg:metadata
      id="metadata12">
     <rdf:RDF>
       <cc:Work
@@ -28,153 +28,153 @@
         <dc:title>Warm frontolysis - Monochromatic</dc:title>
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs10" />
-  <g
+  <svg:g
      id="g3954">
-    <g
+    <svg:g
        transform="matrix(1.5,0,0,1.65,226.58662,24.507545)"
        id="g3768-63">
-      <path
+      <svg:path
          d="m 80,6 0,9.090909"
-         inkscape:connector-curvature="0"
+        
          id="path2989-7"
          style="fill:none;stroke:#000000;stroke-width:2.87627888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <g
+      <svg:g
          transform="translate(0,-5)"
          id="g3764-88">
-        <g
+        <svg:g
            id="g3761-2">
-          <path
+          <svg:path
              d="m 85,15.545455 -10,0"
-             inkscape:connector-curvature="0"
+            
              id="path3759-91"
              style="fill:none;stroke:#000000;stroke-width:2.81271458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
-    </g>
-    <g
+        </svg:g>
+      </svg:g>
+    </svg:g>
+    <svg:g
        transform="matrix(1.5,0,0,1.65,137.97874,24.507545)"
        id="g3768-63-9">
-      <path
+      <svg:path
          d="m 80,6 0,9.090909"
-         inkscape:connector-curvature="0"
+        
          id="path2989-7-4"
          style="fill:none;stroke:#000000;stroke-width:2.87627888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <g
+      <svg:g
          transform="translate(0,-5)"
          id="g3764-88-8">
-        <g
+        <svg:g
            id="g3761-2-8">
-          <path
+          <svg:path
              d="m 85,15.545455 -10,0"
-             inkscape:connector-curvature="0"
+            
              id="path3759-91-2"
              style="fill:none;stroke:#000000;stroke-width:2.81271458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
-    </g>
-    <g
+        </svg:g>
+      </svg:g>
+    </svg:g>
+    <svg:g
        transform="matrix(1.5,0,0,1.65,49.370877,24.507545)"
        id="g3768-63-4">
-      <path
+      <svg:path
          d="m 80,6 0,9.090909"
-         inkscape:connector-curvature="0"
+        
          id="path2989-7-5"
          style="fill:none;stroke:#000000;stroke-width:2.87627888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <g
+      <svg:g
          transform="translate(0,-5)"
          id="g3764-88-5">
-        <g
+        <svg:g
            id="g3761-2-1">
-          <path
+          <svg:path
              d="m 85,15.545455 -10,0"
-             inkscape:connector-curvature="0"
+            
              id="path3759-91-7"
              style="fill:none;stroke:#000000;stroke-width:2.81271458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
-    </g>
-    <g
+        </svg:g>
+      </svg:g>
+    </svg:g>
+    <svg:g
        transform="matrix(1.5,0,0,1.65,-41.236982,24.507545)"
        id="g3768-63-1">
-      <path
+      <svg:path
          d="m 80,6 0,9.090909"
-         inkscape:connector-curvature="0"
+        
          id="path2989-7-1"
          style="fill:none;stroke:#000000;stroke-width:2.87627888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <g
+      <svg:g
          transform="translate(0,-5)"
          id="g3764-88-52">
-        <g
+        <svg:g
            id="g3761-2-7">
-          <path
+          <svg:path
              d="m 85,15.545455 -10,0"
-             inkscape:connector-curvature="0"
+            
              id="path3759-91-6"
              style="fill:none;stroke:#000000;stroke-width:2.81271458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
-    </g>
-    <g
+        </svg:g>
+      </svg:g>
+    </svg:g>
+    <svg:g
        transform="translate(0.93517535,-5.6110521)"
        id="g3875">
-      <g
+      <svg:g
          transform="matrix(0.94390654,0,0,1,11.933872,0.46758767)"
          id="g3793">
-        <path
+        <svg:path
            d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(1.9186134,0,0,-1.9186134,-358.65798,98.849557)"
            id="path2984"
            style="fill:none;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(1.9186134,0,0,-1.9186134,-449.13589,98.849557)"
            id="path2984-1"
            style="fill:none;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(1.9186134,0,0,-1.9186134,-543.16473,98.849557)"
            id="path2984-7"
            style="fill:none;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(1.9186134,0,0,-1.9186134,-639.31244,98.849557)"
            id="path2984-4"
            style="fill:none;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="m 408.67161,27.178534 a 14.261425,14.261425 0 1 1 -28.52285,-10e-7 l 14.26143,10e-7 z"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(1.9186134,0,0,-1.9186134,-733.34129,98.849557)"
            id="path2984-0"
            style="fill:none;stroke:#000000;stroke-width:2.60604882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-      <g
+      </svg:g>
+      <svg:g
          transform="matrix(1.5,0,0,1.65,310.18065,30.118597)"
          id="g3768-63-14">
-        <path
+        <svg:path
            d="m 80,6 0,9.090909"
-           inkscape:connector-curvature="0"
+          
            id="path2989-7-2"
            style="fill:none;stroke:#000000;stroke-width:2.87627888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <g
+        <svg:g
            transform="translate(0,-5)"
            id="g3764-88-3">
-          <g
+          <svg:g
              id="g3761-2-2">
-            <path
+            <svg:path
                d="m 85,15.545455 -10,0"
-               inkscape:connector-curvature="0"
+              
                id="path3759-91-21"
                style="fill:none;stroke:#000000;stroke-width:2.81271458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+          </svg:g>
+        </svg:g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="165"
    height="55"
    viewBox="-48 -33 41.25 13.75"
    id="svg3368">
-  <desc
-     id="en">Observed wind speed: 58–62 knots</desc>
-  <metadata
+  <svg:desc
+     id="en">Observed wind speed: 58–62 knots</svg:desc>
+  <svg:metadata
      id="metadata3383">
     <rdf:RDF>
       <cc:Work
@@ -26,29 +26,29 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3381" />
-  <g
+  <svg:g
      transform="matrix(0.90583804,0,0,0.58864295,-9.0160076,0.1457109)"
      id="g2986">
-    <path
+    <svg:path
        d="m 1,-35.25 0,-1 -5,-17.25 -5,17.25 0,1"
-       inkscape:connector-curvature="0"
+      
        id="path3371"
        style="fill:#000000;stroke:none" />
-    <g
+    <svg:g
        transform="matrix(-1,0,0,1,-43,-36.25)"
        id="g3373"
        style="fill:none;stroke:#000000;stroke-width:2">
-      <path
+      <svg:path
          d="M 0,0 H -40"
-         inkscape:connector-curvature="0"
+        
          id="path3375" />
-      <path
+      <svg:path
          d="m -30,0 -5,-17"
-         inkscape:connector-curvature="0"
+        
          id="path3377" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="440"
    height="55"
    viewBox="0 0 440 55"
    id="svg2">
-  <desc
-     id="desc4">Cold front – symbol</desc>
-  <title
-     id="title2984">Cold front above the surface - Monochromatic</title>
-  <desc
-     id="desc5">Cold front – symbol</desc>
-  <metadata
+  <svg:desc
+     id="desc4">Cold front – symbol</svg:desc>
+  <svg:title
+     id="title2984">Cold front above the surface - Monochromatic</svg:title>
+  <svg:desc
+     id="desc5">Cold front – symbol</svg:desc>
+  <svg:metadata
      id="metadata12">
     <rdf:RDF>
       <cc:Work
@@ -79,12 +79,12 @@
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs10" />
-  <path
+  <svg:path
      d="m 10,40 10,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 20,0 25,-35 25,35 10,0 1.21324,0.147059 L 9.9999997,39.742647 z"
-     inkscape:connector-curvature="0"
+    
      id="path6"
      style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
 </svg>

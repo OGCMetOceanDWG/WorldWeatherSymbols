@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg4041">
-  <desc
+  <svg:desc
      id="en">
 	Codes 70-79 General Group: Solid precipitation not in showers.
 	Code: 79
 	Description: Ice pellets (sleet)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata4054">
     <rdf:RDF>
       <cc:Work
@@ -30,26 +30,26 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs4052" />
-  <g
+  <svg:g
      transform="translate(-2.5635593,1.3983051)"
      id="g3046">
-    <path
+    <svg:path
        d="m 12.118644,-17.869588 8.604293,15.2307005 H 3.5143516 z"
-       inkscape:connector-curvature="0"
+      
        id="path4048-6"
        style="fill:none;stroke:#000000;stroke-width:1.73172367" />
-    <path
+    <svg:path
        d="M -7.5741525,-17.850944 1.0301404,-2.6202429 H -16.178445 z"
-       inkscape:connector-curvature="0"
+      
        id="path4048"
        style="fill:none;stroke:#000000;stroke-width:1.73172367" />
-    <path
+    <svg:path
        d="M 2.3305079,-0.6238253 10.934801,14.606875 H -6.2737851 z"
-       inkscape:connector-curvature="0"
+      
        id="path4048-2"
        style="fill:none;stroke:#000000;stroke-width:1.73172367" />
-  </g>
+  </svg:g>
 </svg>

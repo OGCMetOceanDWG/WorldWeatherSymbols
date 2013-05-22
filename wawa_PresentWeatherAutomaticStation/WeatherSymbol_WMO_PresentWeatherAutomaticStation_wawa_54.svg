@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg4984">
-  <desc
+  <svg:desc
      id="en">
 	Codes 50-59 General Group: Drizzle.
 	Code: 55
 	Description: Drizzle, not freezing, continuous (heavy at time of observation)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata5004">
     <rdf:RDF>
       <cc:Work
@@ -31,29 +31,29 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs5002" />
-  <g
+  <svg:g
      transform="matrix(-1,0,0,-1,11,5.2)"
      id="g4987">
-    <g
+    <svg:g
        id="ww_50">
-      <circle
+      <svg:circle
          cx="0"
          cy="0"
          r="5.5"
          transform="scale(-1,-1)"
          id="circle4990"
          style="fill:#000000" />
-      <path
+      <svg:path
          d="M 4,0 C 4,3.7 1.9,7.1 -1,9.2"
-         inkscape:connector-curvature="0"
+        
          id="path4992"
          style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
-    </g>
-  </g>
-  <use
+    </svg:g>
+  </svg:g>
+  <svg:use
      transform="matrix(-1,0,0,-1,-22,5.2)"
      id="use4994"
      x="-11"
@@ -61,7 +61,7 @@
      width="55"
      height="55"
      xlink:href="#ww_50" />
-  <use
+  <svg:use
      transform="matrix(-1,0,0,-1,0,-16.8)"
      id="use4996"
      x="0"
@@ -69,7 +69,7 @@
      width="55"
      height="55"
      xlink:href="#ww_50" />
-  <use
+  <svg:use
      transform="matrix(-1,0,0,-1,0,27.2)"
      id="use4998"
      x="0"

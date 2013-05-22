@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="440"
    height="55"
    viewBox="0 0 440 55"
    id="svg2">
-  <desc
-     id="desc4">Warm front – symbol</desc>
-  <metadata
+  <svg:desc
+     id="desc4">Warm front – symbol</svg:desc>
+  <svg:metadata
      id="metadata12">
     <rdf:RDF>
       <cc:Work
@@ -26,12 +26,12 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs10" />
-  <path
+  <svg:path
      d="m 10,40 h 10 a 25,25 0 1 1 50,0 h 20 a 25,25 0 1 1 50,0 h 20 a 25,25 0 1 1 50,0 h 20 a 25,25 0 1 1 50,0 h 20 a 25,25 0 1 1 50,0 h 20 a 25,25 0 1 1 50,0 h 10 v 5 H 10 z"
-     inkscape:connector-curvature="0"
+    
      id="path6"
      style="fill:#000000;fill-opacity:1;stroke:none" />
 </svg>

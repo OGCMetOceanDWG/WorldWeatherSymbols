@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3001">
-  <desc
+  <svg:desc
      id="en">
 	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
 	Code: 20
 	Description: Drizzle (not freezing) or snow grains not falling as shower(s) ended in the past hour
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3015">
     <rdf:RDF>
       <cc:Work
@@ -30,16 +30,16 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3013" />
-  <g
+  <svg:g
      id="ww_20">
-    <path
+    <svg:path
        d="M 20.112997,28.19877 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509"
-       inkscape:connector-curvature="0"
+      
        transform="matrix(0.034767,2.0616391,-2.0978101,0.00798217,45.0368,-34.424389)"
        id="path4607"
        style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  </svg:g>
 </svg>

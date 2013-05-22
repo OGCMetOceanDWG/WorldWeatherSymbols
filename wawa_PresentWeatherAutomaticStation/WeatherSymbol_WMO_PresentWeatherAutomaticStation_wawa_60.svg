@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg5446">
-  <desc
+  <svg:desc
      id="en">
 	Codes 60-69 General Group: Rain.
 	Code: 61
 	Description: Rain, not freezing, continuous (slight at time of observation)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata5457">
     <rdf:RDF>
       <cc:Work
@@ -29,10 +29,10 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs5455" />
-  <circle
+  <svg:circle
      cx="9.5"
      cy="0"
      r="5.5"

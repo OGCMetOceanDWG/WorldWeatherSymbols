@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <desc
+  <svg:desc
      id="en">
 	Codes 40-49 General Group: Fog at the time of observation.
 	Code: 45
 	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3007">
     <rdf:RDF>
       <cc:Work
@@ -30,27 +30,27 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3005" />
-  <g
+  <svg:g
      id="g3992">
-    <rect
+    <svg:rect
        width="39.349499"
        height="37.829559"
        x="-19.642857"
        y="-17.722221"
        id="rect3779"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
+    <svg:path
        d="m -18.68977,14.706358 c 2.356194,0 4.5,-2.143804 4.5,-4.499998 0,-2.3561944 2.143806,-4.4999984 4.5000001,-4.4999984 2.356194,0 4.5,2.143804 4.5,4.4999984 0,2.356194 2.143806,4.499998 4.50000004,4.499998 2.35619396,0 4.49999996,-2.143804 4.49999996,-4.499998 0,-2.3561944 2.143806,-4.4999984 4.4999999,-4.4999984 2.356194,0 4.5,2.143804 4.5,4.4999984 0,2.356194 2.609908,4.733051 5.665254,4.5"
-       inkscape:connector-curvature="0"
+      
        id="path3938"
        style="fill:none;stroke:#000000;stroke-width:3" />
-    <path
+    <svg:path
        d="m -18.669929,4.7539767 c 2.356194,0 4.5,-2.1438035 4.5,-4.49999743 0,-2.35619407 2.143806,-4.49999807 4.5000004,-4.49999807 2.356194,0 4.5,2.143804 4.5,4.49999807 0,2.35619393 2.143806,4.49999743 4.49999998,4.49999743 2.35619402,0 4.50000002,-2.1438035 4.50000002,-4.49999743 0,-2.35619407 2.143806,-4.49999807 4.4999997,-4.49999807 2.3561939,0 4.4999999,2.143804 4.4999999,4.49999807 0,2.35619393 2.609908,4.73305043 5.665254,4.49999943"
-       inkscape:connector-curvature="0"
+      
        id="path3938-0"
        style="fill:none;stroke:#000000;stroke-width:3" />
-  </g>
+  </svg:g>
 </svg>

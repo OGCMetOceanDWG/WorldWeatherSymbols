@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3898">
-  <desc
+  <svg:desc
      id="en">
 	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
 	Code: 10
 	Description: Mist
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3908">
     <rdf:RDF>
       <cc:Work
@@ -30,23 +30,23 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3906" />
-  <g
+  <svg:g
      id="g4459">
-    <g
+    <svg:g
        id="g4463">
-      <path
+      <svg:path
          d="m -17.664792,-12.5748 h 35 m -35,9.0000003 h 35"
-         inkscape:connector-curvature="0"
+        
          id="path3902"
          style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      <path
+      <svg:path
          d="M -18.115203,3.6530026 -10.343018,10.293337 -0.47839011,3.1722899 7.9412332,10.149039 17.173086,3.8382882"
-         inkscape:connector-curvature="0"
+        
          id="path4457"
          style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

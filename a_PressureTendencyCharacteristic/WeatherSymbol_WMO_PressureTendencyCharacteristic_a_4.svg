@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    version="1.1"
    width="55"
    height="55"
    id="svg2">
-  <title
-     id="title4">xxx</title>
-  <desc
-     id="desc6">WMO international weather symbol: xxx</desc>
+  <svg:title
+     id="title4">xxx</svg:title>
+  <svg:desc
+     id="desc6">WMO international weather symbol: xxx</svg:desc>
   <defs
      id="defs15" />
-  <metadata
+  <svg:metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -78,16 +78,16 @@
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
-  </metadata>
-  <g
+  </svg:metadata>
+  <svg:g
      transform="matrix(0.6,0,0,1,0.5,-16.5)"
      id="layer7"
      style="fill:#000000;fill-opacity:1">
-    <g
+    <svg:g
        transform="matrix(-1,0,0,1,90.8,3.55e-7)"
        id="layer2"
        style="fill:#000000;fill-opacity:1">
-      <rect
+      <svg:rect
          width="7"
          height="75"
          rx="3.5"
@@ -97,6 +97,6 @@
          transform="matrix(0,1,-1,0,0,0)"
          id="rect3005"
          style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

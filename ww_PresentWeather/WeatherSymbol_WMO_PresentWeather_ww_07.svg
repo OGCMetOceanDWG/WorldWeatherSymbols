@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3131">
-  <desc
+  <svg:desc
      id="en">
 	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
 	Code: 07
 	Description: Dust or sand raised by the wind at or near the station at the time of the observation, but no well-developed dust whirl(s), and no sandstorm seen: or, in the case of ships, blowing spray at the station
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3143">
     <rdf:RDF>
       <cc:Work
@@ -30,42 +30,42 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3141" />
-  <g
+  <svg:g
      transform="matrix(0.89373537,0,0,0.80096534,-16.492565,-5.0105932)"
      id="ww_07"
      style="fill:none;stroke:#000000;stroke-width:3">
-    <path
+    <svg:path
        d="m 9.5,-9.5 a 9.5,9.5 0 0 0 -19,0 9.5,9.5 0 0 0 9.5,9.5 9.5,9.5 0 0 1 9.5,9.5 9.5,9.5 0 0 1 -19,0"
-       inkscape:connector-curvature="0"
+      
        id="path3135"
        style="stroke-width:2.999717;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
+    <svg:path
        d="M 0,-24 V 24"
-       inkscape:connector-curvature="0"
+      
        id="path3137"
        style="stroke-width:2.95480394;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
+    <svg:path
        d="M 30.525098,-18.198744 C 23.033544,-2.1745144 14.766999,16.154491 6.2421269,33.037827"
-       inkscape:connector-curvature="0"
+      
        id="path5800"
        style="stroke-width:1.3079226;stroke-miterlimit:4;stroke-dasharray:none" />
-    <g
+    <svg:g
        transform="matrix(0.56185649,0,0,1.1267411,12.388197,-3.3141143)"
        id="g6607"
        style="stroke-width:3.71367502;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
+      <svg:g
          transform="matrix(0,-0.7969285,1.3219095,0,36.523498,14.95909)"
          id="ww_08"
          style="fill:none;stroke:#000000;stroke-width:3.6182065;stroke-miterlimit:4;stroke-dasharray:none">
-        <path
+        <svg:path
            d="M -24.745184,-13.633407 C -1.8559622,11.372628 20.748078,12.360652 20.748078,0.43398255 20.748078,-11.492688 -0.6934998,-12.786038 -23.92183,13.678017"
-           inkscape:connector-curvature="0"
+          
            id="path3001"
            style="stroke-width:3.6182065;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-    </g>
-  </g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

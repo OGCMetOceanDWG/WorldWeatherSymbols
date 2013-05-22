@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2">
-  <desc
+  <svg:desc
      id="en">
 	Codes 20-29 General Group: Precipitation, fog, ice fog, or thunderstorm at the station during the preceeding hour but not at the time of observation.
 	Code: 29
 	Description: Thunderstorm (with or without precipitation) ended in the past hour
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata18">
     <rdf:RDF>
       <cc:Work
@@ -29,27 +29,27 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs16" />
-  <g
+  <svg:g
      id="ww_29"
      style="fill:none;stroke:#000000;stroke-width:3">
-    <path
+    <svg:path
        d="m -14.5,-17.5 h 24 L -4.5,2 10,16.5"
-       inkscape:connector-curvature="0"
+      
        id="path6" />
-    <path
+    <svg:path
        d="m -10.5,-17.5 v 37"
-       inkscape:connector-curvature="0"
+      
        id="path8" />
-    <path
+    <svg:path
        d="m 9.5,-23 h 7 v 46 h -7"
-       inkscape:connector-curvature="0"
+      
        id="path10" />
-    <path
+    <svg:path
        d="m 9,16.5 h 1 v -1 z"
-       inkscape:connector-curvature="0"
+      
        id="path12" />
-  </g>
+  </svg:g>
 </svg>

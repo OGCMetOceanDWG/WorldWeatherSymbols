@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2">
-  <desc
+  <svg:desc
      id="en">
 	Codes 70-79 General Group: Solid precipitation not in showers.
 	Code: 73
 	Description: Continuous fall of snowflakes (moderate at time of observation)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata21">
     <rdf:RDF>
       <cc:Work
@@ -30,20 +30,20 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs19" />
-  <g
+  <svg:g
      transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,-9.5)"
      id="g5">
-    <g
+    <svg:g
        id="ww_70">
-      <path
+      <svg:path
          d="m 0,-5.5 v 11"
-         inkscape:connector-curvature="0"
+        
          id="ww70arm"
          style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      <use
+      <svg:use
          transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
          id="use9"
          x="0"
@@ -51,7 +51,7 @@
          width="1"
          height="1"
          xlink:href="#ww70arm" />
-      <use
+      <svg:use
          transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
          id="use11"
          x="0"
@@ -59,9 +59,9 @@
          width="1"
          height="1"
          xlink:href="#ww70arm" />
-    </g>
-  </g>
-  <use
+    </svg:g>
+  </svg:g>
+  <svg:use
      transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,8.2272413,4.75)"
      id="use13"
      x="0"
@@ -69,7 +69,7 @@
      width="1"
      height="1"
      xlink:href="#ww_70" />
-  <use
+  <svg:use
      transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,-8.2272413,4.75)"
      id="use15"
      x="0"

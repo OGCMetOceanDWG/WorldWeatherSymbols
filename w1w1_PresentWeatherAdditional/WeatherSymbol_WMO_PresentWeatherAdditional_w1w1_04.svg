@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <desc
+  <svg:desc
      id="en">
 	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
 	Code: 04
 	Description: Visibility reduced by smoke
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3007">
     <rdf:RDF>
       <cc:Work
@@ -30,16 +30,16 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3005" />
-  <g
+  <svg:g
      transform="translate(0,4.4279661)"
      id="g2997">
-    <path
+    <svg:path
        d="m 25.588983,-20.466102 c 0,2.356194 -2.143806,4.499998 -4.5,4.499998 -2.356194,0 -4.5,-2.143804 -4.5,-4.499998 0,-2.356194 -2.143806,-4.499998 -4.5,-4.499998 -2.3561944,0 -4.5,2.143804 -4.5,4.499998 0,2.356194 -2.1438056,4.499998 -4.5,4.499998 -2.35619437,0 -4.5,-2.143804 -4.5,-4.499998 0,-2.356194 -2.143806,-4.499998 -4.5,-4.499998 -2.356194,0 -4.5,2.143804 -4.5,4.499998 L -24.394068,14.279661 6.7584749,13.98305 -10.021186,-19.576272"
-       inkscape:connector-curvature="0"
+      
        id="path3001"
        style="fill:none;stroke:#000000;stroke-width:3" />
-  </g>
+  </svg:g>
 </svg>

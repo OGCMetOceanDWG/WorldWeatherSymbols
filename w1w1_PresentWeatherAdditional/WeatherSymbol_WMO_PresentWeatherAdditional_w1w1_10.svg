@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg4542">
-  <desc
+  <svg:desc
      id="en">
 	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
 	Code: 05
 	Description: Haze
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata4552">
     <rdf:RDF>
       <cc:Work
@@ -31,27 +31,27 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs4550" />
-  <g
+  <svg:g
      id="g5249">
-    <path
+    <svg:path
        d="m 0.46610169,-0.27033362 a 12.229802,5.6644461 0 0 0 24.45960431,0 12.229802,5.6644461 0 1 0 -24.45960431,0 12.229802,5.6644463 0 0 1 -24.45960469,0 12.229802,5.6644463 0 1 1 24.45960469,0 z"
-       inkscape:connector-curvature="0"
+      
        id="path4546"
        style="fill:none;stroke:#000000;stroke-width:2.080791" />
-    <g
+    <svg:g
        transform="translate(0.73577484,-6.1408901)"
        id="g5202">
-      <path
+      <svg:path
          d="M -3.1428572,-4.8124998 H 3.5357143"
-         inkscape:connector-curvature="0"
+        
          id="ww70arm"
          style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round" />
-      <g
+      <svg:g
          id="g5192">
-        <use
+        <svg:use
            transform="matrix(0.5,0.86720102,-0.86485137,0.5,-4.0638828,-2.5765929)"
            id="use3093"
            x="0"
@@ -59,7 +59,7 @@
            width="55"
            height="55"
            xlink:href="#ww70arm" />
-        <use
+        <svg:use
            transform="matrix(-0.5,0.86720102,-0.86485137,-0.5,-3.8674542,-7.3890927)"
            id="use3095-5"
            x="0"
@@ -67,7 +67,7 @@
            width="55"
            height="55"
            xlink:href="#ww70arm" />
-      </g>
-    </g>
-  </g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

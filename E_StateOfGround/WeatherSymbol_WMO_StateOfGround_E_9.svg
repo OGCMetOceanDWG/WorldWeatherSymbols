@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
@@ -27,45 +25,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3005" />
   <g
-     id="g4051">
-    <g
-       id="g3992" />
-    <g
-       transform="matrix(0.55223234,0,0,0.51704586,0.47819754,1.0413288)"
-       id="ww_06"
-       style="fill:none;stroke:#000000;stroke-width:5.61430264;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       d="m 9.6031746,9.952381 0,37.888889 L 47.492063,47.492063 46.968254,9.7777778"
-       inkscape:connector-curvature="0"
-       transform="translate(-27.5,-27.5)"
-       id="path5641"
-       style="fill:none;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <g
-       id="g5653">
-      <rect
-         width="37.952656"
-         height="38.004166"
-         x="-18.246033"
-         y="-17.896824"
-         id="rect3779"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         x="-10.691756"
-         y="12.889297"
-         transform="scale(1.0043608,0.99565814)"
-         id="text5648"
-         xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
-           x="-10.691756"
-           y="12.889297"
-           id="tspan5650">D</tspan></text>
-    </g>
-  </g>
+     id="g3992" />
+  <g
+     transform="matrix(0.55223234,0,0,0.51704586,0.47819754,1.0413288)"
+     id="ww_06"
+     style="fill:none;stroke:#000000;stroke-width:5.61430264;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m -17.896825,-17.547619 0,37.888889 37.888888,-0.349207 -0.523809,-37.714285"
+     id="path5641"
+     style="fill:none;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <rect
+     width="37.952656"
+     height="38.004166"
+     x="-18.012981"
+     y="-17.896824"
+     id="rect3779"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <text
+     x="-10.806179"
+     y="12.058053"
+     transform="scale(0.99372631,1.0063133)"
+     id="text5648"
+     xml:space="preserve"
+     style="font-size:31.66117477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">D</text>
 </svg>

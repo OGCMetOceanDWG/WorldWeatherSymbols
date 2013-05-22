@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="165"
    height="55"
    viewBox="-48 -33 41.25 13.75"
    id="svg3026">
-  <desc
-     id="en">Observed wind speed: 102–107 knots</desc>
-  <metadata
+  <svg:desc
+     id="en">Observed wind speed: 102–107 knots</svg:desc>
+  <svg:metadata
      id="metadata3045">
     <rdf:RDF>
       <cc:Work
@@ -26,48 +26,48 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3043" />
-  <g
+  <svg:g
      transform="matrix(0.88229755,0,0,0.61005201,-6.6619585,1.0848414)"
      id="g4116">
-    <g
+    <svg:g
        transform="translate(0,-36.25)"
        id="g3029"
        style="fill:#000000;stroke:none">
-      <path
+      <svg:path
          d="m -43.934884,1.1883487 0,-0.99999999 5,-17.24999971 5,17.24999971 0,0.99999999"
-         inkscape:connector-curvature="0"
+        
          id="path3031" />
-      <path
+      <svg:path
          d="m -34.716271,0.62330259 0,-1 5,-17.24999959 5,17.24999959 0,1"
-         inkscape:connector-curvature="0"
+        
          id="path3033" />
-    </g>
-    <g
+    </svg:g>
+    <svg:g
        transform="translate(0,-36.25)"
        id="g3035"
        style="fill:none;stroke:#000000;stroke-width:2">
-      <path
+      <svg:path
          d="M 0,0 H -40"
-         inkscape:connector-curvature="0"
+        
          id="path3037" />
-    </g>
-    <path
+    </svg:g>
+    <svg:path
        d="m -21.541848,-36.715148 -5,-17.000001"
-       inkscape:connector-curvature="0"
+      
        id="path3065"
        style="fill:none;stroke:#000000;stroke-width:2" />
-    <path
+    <svg:path
        d="m -17.33664,-36.715148 -5,-17"
-       inkscape:connector-curvature="0"
+      
        id="path3065-7"
        style="fill:none;stroke:#000000;stroke-width:2" />
-    <path
+    <svg:path
        d="m -13.131431,-36.715148 -5,-17"
-       inkscape:connector-curvature="0"
+      
        id="path3065-7-4"
        style="fill:none;stroke:#000000;stroke-width:2" />
-  </g>
+  </svg:g>
 </svg>

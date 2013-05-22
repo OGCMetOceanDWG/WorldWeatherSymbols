@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <desc
+  <svg:desc
      id="en">
 	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
 	Code: 08
 	Description: Well developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time of observation, but no duststorm or sandstorm
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3007">
     <rdf:RDF>
       <cc:Work
@@ -30,17 +30,17 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3005" />
-  <g
+  <svg:g
      transform="matrix(0,-1,1,0,-0.75,-0.75)"
      id="ww_08"
      style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
+    <svg:path
        d="M -24.745184,-13.633407 C -1.8559622,11.372628 20.748078,12.360652 20.748078,0.43398255 20.748078,-11.492688 -0.6934998,-12.786038 -23.92183,13.678017"
-       inkscape:connector-curvature="0"
+      
        id="path3001"
        style="stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none" />
-  </g>
+  </svg:g>
 </svg>

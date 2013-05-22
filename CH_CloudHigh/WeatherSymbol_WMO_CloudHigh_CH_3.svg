@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="0 0 55 55"
    id="svg3056">
-  <title
-     id="title3058">Symbol of clouds of type H3 -Dense cirrus (Ci) from Cumulonimbus (Cb)</title>
-  <desc
-     id="desc3060">Symbol of clouds of type H3 - Dense cirrus (Ci) from Cumulonimbus (Cb)</desc>
-  <desc
+  <svg:title
+     id="title3058">Symbol of clouds of type H3 -Dense cirrus (Ci) from Cumulonimbus (Cb)</svg:title>
+  <svg:desc
+     id="desc3060">Symbol of clouds of type H3 - Dense cirrus (Ci) from Cumulonimbus (Cb)</svg:desc>
+  <svg:desc
      id="desc3062">Made by user AnyFile of Wikimedia Commons on 2007-Oct-28.
-Licenced in Public Domain </desc>
-  <metadata
+Licenced in Public Domain </svg:desc>
+  <svg:metadata
      id="metadata3070">
     <rdf:RDF>
       <cc:Work
@@ -31,12 +31,12 @@ Licenced in Public Domain </desc>
         <dc:title>Symbol of clouds of type H3 -Dense cirrus (Ci) from Cumulonimbus (Cb)</dc:title>
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3068" />
-  <path
+  <svg:path
      d="m 5,14 c 0,0 22.7,0 34,0 2.7,0 5.5,1 7.4,2.7 2,1.8 3.1,4.2 3.1,6.6 0,2.5 -1.1,4.9 -3.1,6.7 -1.9,1.7 -3.5,2.5 -7.4,2.7 -3.9,0.2 -8,2.3 -7.8,9.3"
-     inkscape:connector-curvature="0"
+    
      id="path3064"
      style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

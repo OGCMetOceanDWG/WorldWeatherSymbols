@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.0"
    width="55"
    height="55"
    id="svg2">
-  <metadata
+  <svg:metadata
      id="metadata3968">
     <rdf:RDF>
       <cc:Work
@@ -23,53 +23,52 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4" />
-  <g
+  </svg:metadata>
+  
+  <svg:g
      transform="matrix(0.483,0,0,0.416,-0.514,9.59)"
      id="g3980">
-    <g
+    <svg:g
        id="g7426">
-      <g
+      <svg:g
          id="g7413">
-        <path
+        <svg:path
            d="M 84.4,50 107,50"
-           inkscape:connector-curvature="0"
+          
            id="path3245"
            style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
+        <svg:path
            d="m 34.7,49.9 -23.6,0"
-           inkscape:connector-curvature="0"
+          
            id="path7383"
            style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(2.07,0,0,-2.4,24.8,77.9)"
            id="path7405"
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-      <g
+      </svg:g>
+      <svg:g
          transform="matrix(1,0,0,-1,-0.248,85.9)"
          id="g7418">
-        <path
+        <svg:path
            d="M 84.4,50 107,50"
-           inkscape:connector-curvature="0"
+          
            id="path7420"
            style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
+        <svg:path
            d="m 34.7,49.9 -23.6,0"
-           inkscape:connector-curvature="0"
+          
            id="path7422"
            style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
+        <svg:path
            d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833"
-           inkscape:connector-curvature="0"
+          
            transform="matrix(2.07,0,0,-2.4,24.8,77.9)"
            id="path7424"
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-    </g>
-  </g>
+      </svg:g>
+    </svg:g>
+  </svg:g>
 </svg>

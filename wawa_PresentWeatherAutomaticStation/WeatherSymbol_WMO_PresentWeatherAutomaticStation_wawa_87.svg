@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3006">
-  <desc
+  <svg:desc
      id="en">
 	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
 	Code: 86
 	Description: Snow shower(s), moderate or heavy
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3025">
     <rdf:RDF>
       <cc:Work
@@ -31,20 +31,20 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3023" />
-  <g
+  <svg:g
      id="ww_86">
-    <g
+    <svg:g
        transform="matrix(0.84149856,0,0,0.91457711,-6.0230547,-13.946988)"
        id="g3010">
-      <path
+      <svg:path
          d="m -5.5,0 h 11"
-         inkscape:connector-curvature="0"
+        
          id="ww70arm"
          style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      <use
+      <svg:use
          transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
          id="use3013"
          x="0"
@@ -52,7 +52,7 @@
          width="55"
          height="55"
          xlink:href="#ww70arm" />
-      <use
+      <svg:use
          transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
          id="use3015"
          x="0"
@@ -60,26 +60,26 @@
          width="55"
          height="55"
          xlink:href="#ww70arm" />
-    </g>
-    <path
+    </svg:g>
+    <svg:path
        d="M 0,-5.5 H 8.5 L 0,14.5 -8.5,-5.5 z"
-       inkscape:connector-curvature="0"
+      
        id="path3017"
        style="fill:none;stroke:#000000;stroke-width:3" />
-    <path
+    <svg:path
        d="M -6,0.5 H 6"
-       inkscape:connector-curvature="0"
+      
        id="path3019"
        style="fill:none;stroke:#000000;stroke-width:3" />
-    <g
+    <svg:g
        transform="matrix(0.84149856,0,0,0.86540423,6.894813,-14.05859)"
        id="g3010-1">
-      <path
+      <svg:path
          d="m -5.5,0 h 11"
-         inkscape:connector-curvature="0"
+        
          id="ww70arm-7"
          style="stroke:#000000;stroke-width:3;stroke-linecap:round" />
-      <use
+      <svg:use
          transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
          id="use3013-4"
          x="0"
@@ -87,7 +87,7 @@
          width="744.09448"
          height="1052.3622"
          xlink:href="#ww70arm-7" />
-      <use
+      <svg:use
          transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
          id="use3015-0"
          x="0"
@@ -95,6 +95,6 @@
          width="744.09448"
          height="1052.3622"
          xlink:href="#ww70arm-7" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>

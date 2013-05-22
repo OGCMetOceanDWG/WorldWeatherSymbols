@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg5902">
-  <desc
+  <svg:desc
      id="en">
 	Codes 10-19 General Group: No precipitation at the station at the time of observation or, except 17, during the preceeding hour.
 	Code: 17
 	Description: Thunder heard, but no precipitation at the station
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata5916">
     <rdf:RDF>
       <cc:Work
@@ -30,33 +30,33 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs5914" />
-  <g
+  <svg:g
      id="ww_17"
      style="fill:none;stroke:#000000;stroke-width:3">
-    <g
+    <svg:g
        transform="translate(0.46610169,0.23305085)"
        id="g10666">
-      <path
+      <svg:path
          d="M 0.52350798,15.2316 13.574239,1.3683539 C 8.8771685,-1.7575374 1.5303571,-6.5682608 1.5303571,-6.5682608 L 11.203447,-17.6057 c -9.1398294,-0.211864 -9.4110738,0.12689 -11.50853178,0.12689 14.52118678,0.233047 14.52118678,-4e-6 14.52118678,-4e-6"
-         inkscape:connector-curvature="0"
+        
          id="path5906"
          style="stroke:#000000;stroke-opacity:1" />
-      <path
+      <svg:path
          d="m -9.1016949,-17.5 0,35.368644"
-         inkscape:connector-curvature="0"
+        
          id="path5908" />
-    </g>
-    <path
+    </svg:g>
+    <svg:path
        d="M 0.78877419,16.6057 H -0.2112258 v -1 z"
-       inkscape:connector-curvature="0"
+      
        id="path5910" />
-    <path
+    <svg:path
        d="m -2.7966104,-17.245763 c -4.7734212,0.163519 -6.8775668,0.134946 -11.5291456,-0.02165"
-       inkscape:connector-curvature="0"
+      
        id="path10664"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  </svg:g>
 </svg>

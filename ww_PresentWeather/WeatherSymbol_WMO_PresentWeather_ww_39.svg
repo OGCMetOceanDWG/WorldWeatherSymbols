@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2">
-  <desc
+  <svg:desc
      id="en">
 	Codes 30-39 General Group: Duststorm, sandstorm, drifting or blowing snow.
 	Code: 39
 	Description: Heavy drifting snow (generally above eye level)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata13">
     <rdf:RDF>
       <cc:Work
@@ -29,17 +29,17 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs11" />
-  <path
+  <svg:path
      d="m 0,-16 1,1.5 H -1 L 0,-16 z m 0,0 v 32.5"
-     inkscape:connector-curvature="0"
+    
      id="path5"
      style="fill:none;stroke:#000000;stroke-width:3" />
-  <path
+  <svg:path
      d="M 15,2.8 H -17 M 15,-2.8 H -17 M 19,0 m -8,-6 8,6 -8,6"
-     inkscape:connector-curvature="0"
+    
      id="path7"
      style="fill:none;stroke:#000000;stroke-width:1" />
 </svg>

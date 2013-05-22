@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg5983">
-  <desc
+  <svg:desc
      id="en">
 	Codes 50-59 General Group: Drizzle.
 	Code: 51
 	Description: Drizzle, not freezing, continuous (slight at time of observation)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata5997">
     <rdf:RDF>
       <cc:Work
@@ -30,27 +30,27 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs5995" />
-  <g
+  <svg:g
      transform="translate(0.41101695,-2.5635593)"
      id="use5991"
      style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-    <path
+    <svg:path
        d="M 4.9651701,0.44233886 C 4.9361023,5.0482916 -0.18739239,8.8151189 -3.1944444,10.727778"
-       inkscape:connector-curvature="0"
+      
        id="path6003"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
+    <svg:path
        d="M 0.00160314,5.3870038 C -0.46267262,8.2783231 -1.6802066,9.2048394 -3.2877694,10.646651"
-       inkscape:connector-curvature="0"
+      
        id="path6003-0"
        style="fill:none;stroke:#000000;stroke-width:0.50438392;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
+    <svg:path
        d="m 23.947875,30.182396 a 3.9496143,3.9496143 0 1 1 4.92608,-2.415145"
        transform="matrix(1.2111483,-0.38682666,0.40682899,1.2737753,-41.294673,-23.818267)"
        id="path8130"
        style="fill:none;stroke:#000000;stroke-width:0.38347086;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  </svg:g>
 </svg>

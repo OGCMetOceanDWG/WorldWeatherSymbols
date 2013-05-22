@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3000">
-  <desc
+  <svg:desc
      id="en">
 	Codes 70-79 General Group: Solid precipitation not in showers.
 	Code: 78
 	Description: Isolated star-like snow crystals (with or without fog)
-</desc>
-  <metadata
+</svg:desc>
+  <svg:metadata
      id="metadata3013">
     <rdf:RDF>
       <cc:Work
@@ -31,22 +31,22 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
+  </svg:metadata>
   <defs
      id="defs3011" />
-  <g
+  <svg:g
      id="g3003"
      style="fill:none;stroke:#000000;stroke-width:3">
-    <g
+    <svg:g
        transform="translate(0.8830278,0.63073394)"
        id="g3051-4"
        style="fill:none;stroke:#000000;stroke-width:3">
-      <path
+      <svg:path
          d="M -5,-5 5,5"
-         inkscape:connector-curvature="0"
+        
          id="ww_78_arm-0"
          style="stroke-linecap:round" />
-      <use
+      <svg:use
          transform="matrix(0,1,-1,0,0,0)"
          id="use3006-9"
          x="0"
@@ -54,6 +54,6 @@
          width="55"
          height="55"
          xlink:href="#ww_78_arm-0" />
-    </g>
-  </g>
+    </svg:g>
+  </svg:g>
 </svg>
