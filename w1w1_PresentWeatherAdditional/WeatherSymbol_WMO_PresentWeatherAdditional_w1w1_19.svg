@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    
-   
    version="1.1"
    width="55"
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <svg:desc
-     id="en">
-	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
-	Code: 05
-	Description: Haze
-</svg:desc>
-  <svg:metadata
-     id="metadata3007">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </svg:metadata>
-  <defs
+
+  <svg:title>Present weather additional phenomenon: Tornado cloud (destructive) at or within sight of the station during preceding hour or at the time of observation</svg:title><svg:desc>WMO international weather symbol: Present weather additional phenomenon: Tornado cloud (destructive) at or within sight of the station during preceding hour or at the time of observation</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_19.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather additional phenomenon: Tornado cloud (destructive) at or within sight of the station during preceding hour or at the time of observation: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4687/19</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather additional phenomenon: Tornado cloud (destructive) at or within sight of the station during preceding hour or at the time of observation: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+  <svg:defs
      id="defs3005">
     <svg:marker
        refX="0"
@@ -41,51 +24,11 @@
        style="overflow:visible">
       <svg:path
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-        
          transform="matrix(0.3,0,0,0.3,-0.69,0)"
          id="path3806"
          style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
     </svg:marker>
-    <svg:marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow2Mstart"
-       style="overflow:visible">
-      <svg:path
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-        
-         transform="scale(0.6,0.6)"
-         id="path3800"
-         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
-    </svg:marker>
-    <svg:marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Sstart"
-       style="overflow:visible">
-      <svg:path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-        
-         transform="matrix(0.2,0,0,0.2,1.2,0)"
-         id="path3788"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </svg:marker>
-    <svg:marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Lstart"
-       style="overflow:visible">
-      <svg:path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-        
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         id="path3776"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </svg:marker>
-  </defs>
+  </svg:defs>
   <svg:g
      id="ww_05"
      style="fill:none;stroke:#000000;stroke-width:3">
@@ -95,13 +38,11 @@
        style="stroke-width:2.34476233;stroke-miterlimit:4;stroke-dasharray:none">
       <svg:path
          d="m 16.871166,13.665644 c 7.254601,9.447853 6.917178,9.616564 6.917178,9.616564 l 1.687116,20.414111"
-        
          transform="translate(-27.5,-27.5)"
          id="path2999"
          style="fill:none;stroke:#000000;stroke-width:2.34476233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <svg:path
          d="M 12.653374,-13.665644 C 5.3987732,-4.2177913 5.7361962,-4.0490803 5.7361962,-4.0490803 L 4.0490802,16.365031"
-        
          id="path3001"
          style="fill:none;stroke:#000000;stroke-width:2.34476233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <svg:path

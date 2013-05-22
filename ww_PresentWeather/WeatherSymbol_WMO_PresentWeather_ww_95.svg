@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,26 +13,10 @@
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3190">
-  <svg:desc
-     id="en">
-	Codes 80-99 General Group: Showery precipitation, or precipitation with current or recent thunderstorm.
-	Code: 95
-	Description: Thunderstorm, slight or moderate, without hail but with rain and or snow at time of observation
-</svg:desc>
-  <svg:metadata
-     id="metadata3206">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </svg:metadata>
-  <defs
-     id="defs3204" />
+
+  <svg:title>Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée</svg:title><svg:desc>WMO international weather symbol: Precipitation at the station at the time of Showery precipitation, or precipitation with current or recent thunderstorm:Thunderstorm at time of observation: Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_95.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4677/95</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
   <svg:g
      id="ww_95">
     <svg:circle
@@ -60,9 +43,7 @@
        style="fill:#000000;stroke:#000000;stroke-width:3" />
   </svg:g>
   <svg:path
-     d="m -2.6806396,-13.624647 c 6.060433,-9.10664 6.060433,-9.10664 6.060433,-9.10664"
-    
-     id="path3042"
+     d="m -2.6806396,-13.624647 c 6.060433,-9.10664 6.060433,-9.10664 6.060433,-9.10664"     id="path3042"
      style="fill:none;stroke:#000000;stroke-width:1.71067965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <svg:g
      transform="matrix(0.66788182,0,0,0.64854999,8.575893,-18.527543)"

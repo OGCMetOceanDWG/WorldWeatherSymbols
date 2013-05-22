@@ -12,20 +12,9 @@
    width="55"
    height="55"
    id="svg2">
-  <svg:metadata
-     id="metadata7303">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </svg:metadata>
-  <defs
-     id="defs4" />
+  <svg:title>Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus castellanus or floccus</svg:title><svg:desc>WMO international weather symbol: Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus with sproutings in the form of small towers or battlements, or altocumulus having the appearance of cumuliform tufts</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_8.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus castellanus or floccus: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/0515/8</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus castellanus or floccus: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
   <svg:g
      transform="translate(-0.129,-4)"
      id="g4729">
@@ -37,18 +26,30 @@
          id="layer1"
          style="stroke-width:0.241;stroke-miterlimit:4;stroke-dasharray:none">
         <svg:g
-           id="g8558"
-           style="stroke-width:0.241;stroke-miterlimit:4;stroke-dasharray:none">
-          <svg:g
-             transform="matrix(0.802,0,0,0.995,-69.5,-444)"
-             id="g3292"
-             style="stroke-width:0.27000001;stroke-miterlimit:4;stroke-dasharray:none" />
-          <svg:path
-             d="M 15.8,30 A 9.0005555,9.0005555 0 0 1 16,12"
-            
-             transform="matrix(0,-2.65,2.2,0,13.8,76.2)"
-             id="path5254"
-             style="fill:none;stroke:#000000;stroke-width:1.99699998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+
+ id="g8558"
+
+ style="stroke-width:0.241;stroke-miterlimit:4;stroke-dasharray:none">
+
+<svg:g
+
+   transform="matrix(0.802,0,0,0.995,-69.5,-444)"
+
+   id="g3292"
+
+   style="stroke-width:0.27000001;stroke-miterlimit:4;stroke-dasharray:none" />
+
+<svg:path
+
+   d="M 15.8,30 A 9.0005555,9.0005555 0 0 1 16,12"
+
+  
+
+   transform="matrix(0,-2.65,2.2,0,13.8,76.2)"
+
+   id="path5254"
+
+   style="fill:none;stroke:#000000;stroke-width:1.99699998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         </svg:g>
       </svg:g>
       <svg:path

@@ -14,25 +14,10 @@
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2">
-  <svg:desc
-     id="en">
-	Codes 50-59 General Group: Drizzle.
-	Code: 57
-	Description: Rain, freezing, moderate or heavy
-</svg:desc>
-  <svg:metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </svg:metadata>
-  <defs
-     id="defs24" />
+
+  <svg:title>Present weather reported from a manned weather station: Drizzle, freezing, moderate or heavy (dense)</svg:title><svg:desc>WMO international weather symbol: Precipitation at the station at the time of observation: Drizzle: Present weather reported from a manned weather station: Drizzle, freezing, moderate or heavy (dense)</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_57.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather reported from a manned weather station: Drizzle, freezing, moderate or heavy (dense): Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4677/57</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather reported from a manned weather station: Drizzle, freezing, moderate or heavy (dense): Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
   <svg:g
      transform="matrix(0.7,0,0,0.7,-10,0)"
      id="g5">
@@ -72,9 +57,7 @@
      height="1"
      xlink:href="#ww_50" />
   <svg:path
-     d="M 0,0 A 10,10 0 0 0 20,0 V -2"
-    
-     id="arc"
+     d="M 0,0 A 10,10 0 0 0 20,0 V -2"     id="arc"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
   <svg:use
      transform="scale(-1,-1)"

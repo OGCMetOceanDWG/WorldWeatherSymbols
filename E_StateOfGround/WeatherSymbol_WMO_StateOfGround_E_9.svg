@@ -11,32 +11,70 @@
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg2997">
-  <desc
-     id="en">
-	Codes 40-49 General Group: Fog at the time of observation.
-	Code: 45
-	Description: Fog sky obscured (no appreciable change during the preceding hour)
-</desc>
-  <metadata
-     id="metadata3007">
+  <svg:title>State of the ground without snow or measurable ice cover, open representative area: Extremely dry with cracks</svg:title>
+<svg:desc>WMO international weather symbol: State of the ground without snow or measurable ice cover, open representative area: Extremely dry with cracks</svg:desc>
+<svg:metadata>
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_9.svg">
+
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3005" />
-  <g
-     id="g3992" />
-  <g
-     transform="matrix(0.55223234,0,0,0.51704586,0.47819754,1.0413288)"
-     id="ww_06"
-     style="fill:none;stroke:#000000;stroke-width:5.61430264;stroke-miterlimit:4;stroke-dasharray:none" />
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>State of the ground without snow or measurable ice cover, open representative area: Extremely dry with cracks: Version0.5: statusProvisional</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+
+<cc:Agent>
+
+  <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+
+</cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+
+<cc:Agent>
+
+  <dc:title>WMO</dc:title>
+
+</cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+
+<cc:Agent>
+
+  <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+
+</cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/0901/9</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+
+<rdf:Bag>
+
+  <rdf:li>meteorology</rdf:li>
+
+  <rdf:li>weather</rdf:li>
+
+  <rdf:li>symbol</rdf:li>
+
+</rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: State of the ground without snow or measurable ice cover, open representative area: Extremely dry with cracks: Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+
+<cc:Agent>
+
+  <dc:title>Chris Little</dc:title>
+
+</cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+     </cc:Work>
+  </rdf:RDF>
+</svg:metadata>
+
   <path
      d="m -17.896825,-17.547619 0,37.888889 37.888888,-0.349207 -0.523809,-37.714285"
      id="path5641"

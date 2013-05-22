@@ -13,26 +13,10 @@
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3131">
-  <svg:desc
-     id="en">
-	Codes 00-09 General Group: No precipitation, fog, duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 during the preceeding hour.
-	Code: 07
-	Description: Dust or sand raised by the wind at or near the station at the time of the observation, but no well-developed dust whirl(s), and no sandstorm seen: or, in the case of ships, blowing spray at the station
-</svg:desc>
-  <svg:metadata
-     id="metadata3143">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </svg:metadata>
-  <defs
-     id="defs3141" />
+
+  <svg:title>Present weather reported from a manned weather station: No observation was made or the data are missing</svg:title><svg:desc>WMO international weather symbol: Present weather reported from a manned weather station: No observation was made or the data are missing</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_DoubleSlash.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather reported from a manned weather station: No observation was made or the data are missing: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4677/DoubleSlash</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather reported from a manned weather station: No observation was made or the data are missing: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
+
+
   <svg:g
      transform="matrix(0.89373537,0,0,0.80096534,-16.492565,-5.0105932)"
      id="ww_07"

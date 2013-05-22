@@ -11,69 +11,97 @@
    height="55"
    viewBox="-27.5 -27.5 55 55"
    id="svg3004">
-  <desc
-     id="en">
-	Codes 60-69 General Group: Rain.
-	Code: 69
-	Description: Rain or drizzle and snow, moderate or heavy
-</desc>
-  <metadata
-     id="metadata3021">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3019" />
-  <g
+ 
+  <svg:title>Present weather additional phenomenon: Drizzle, rate of fall less than 0.10 mm h–1</svg:title>
+<svg:desc>WMO international weather symbol: Present weather additional phenomenon: Drizzle, rate of fall less than 0.10 mm h–1</svg:desc>
+<svg:metadata>
+<rdf:RDF>
+<cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_50.svg">
+
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title>Present weather additional phenomenon: Drizzle, rate of fall less than 0.10 mm h–1: Version0.5: statusProvisional</dc:title>
+<dc:date>2013-01-25</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:publisher>
+<cc:Agent>
+<dc:title>WMO</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:identifier>http://codes.wmo.int/306/4687/50</dc:identifier>
+<dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+<dc:language>English</dc:language>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>meteorology</rdf:li>
+<rdf:li>weather</rdf:li>
+<rdf:li>symbol</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:coverage>Global</dc:coverage>
+<dc:description>WMO international weather symbol: Present weather additional phenomenon: Drizzle, rate of fall less than 0.10 mm h–1: Version0.5: statusPROVISIONAL</dc:description>
+<dc:contributor>
+<cc:Agent>
+<dc:title>Chris Little</dc:title>
+</cc:Agent>
+</dc:contributor>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+</cc:Work>
+</rdf:RDF>
+</svg:metadata>
+
+  <svg:g
      transform="translate(11.186441,0.46610169)"
      id="g3170">
-    <g
+    <svg:g
        transform="translate(8.3898305,0.23305085)"
        id="g3137">
-      <g
+      <svg:g
          transform="translate(-9.7881356,13.766949)"
          id="ww_70" />
-      <g
+      <svg:g
          transform="matrix(0.74576272,0,0,0.76972721,-9.7881364,-2.0020935)"
          id="g3068" />
-    </g>
-    <g
+    </svg:g>
+    <svg:g
        transform="matrix(0.96279009,0,0,0.96942576,-24.237289,1.2068529)"
        id="g3101">
-      <g
+      <svg:g
          transform="translate(0,7)"
          id="ww_70-0" />
-      <g
+      <svg:g
          transform="matrix(0.91525424,0,0,0.87052731,-0.69915254,-11.70193)"
          id="g3068-8" />
-    </g>
-  </g>
-  <g
+    </svg:g>
+  </svg:g>
+  <svg:g
      transform="translate(11.186441,0.46610169)"
      id="g4416">
-    <g
+    <svg:g
        id="g4411">
-      <path
+      <svg:path
          d="M 29.830508,6.7584746 C 22.139831,47.775424 22.139831,47.775424 22.139831,47.775424"
          transform="translate(-38.686441,-27.966102)"
          id="path3168"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <text
+    </svg:g>
+    <svg:text
        x="-8.62288"
        y="6.0593209"
        id="text4363"
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><svg:tspan
          x="-8.62288"
          y="6.0593209"
-         id="tspan3019">0</tspan></text>
-  </g>
+         id="tspan3019">0</svg:tspan></svg:text>
+  </svg:g>
 </svg>
