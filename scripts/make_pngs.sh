@@ -15,7 +15,7 @@ fi
 for svg in $SVG_FILES
 do
   BASENAME=`basename $svg .svg`
-  convert $svg $PNG_DIR/$BASENAME.png
+  inkscape -l -f $svg -e $PNG_DIR/$BASENAME.png
   COUNTER=$((COUNTER+$?))
 done
 
