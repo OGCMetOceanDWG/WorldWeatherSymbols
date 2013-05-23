@@ -15,9 +15,11 @@ fi
 for svg in $SVG_FILES
 do
   BASENAME=`basename $svg .svg`
-  inkscape -l -f $svg -e $PNG_DIR/$BASENAME.png
-  COUNTER=$((COUNTER+$?))
+  inkscape -f $svg -e $PNG_DIR/$BASENAME.png --g-fatal-warnings -l
+  status=$?
+  if [ $status -ne 0 ]; then
+      COUNTER=$((COUNTER+1))
+  fi
 done
 
 exit $COUNTER
-
