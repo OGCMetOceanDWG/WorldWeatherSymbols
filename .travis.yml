@@ -4,6 +4,7 @@ python:
   - "2.7"
 
 install:
+  - sudo apt-get update
   - sudo apt-get install inkscape
   - pip install -r scripts/requirements.txt
 
