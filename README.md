@@ -3,7 +3,15 @@
 WorldWeatherSymbols
 ===================
 
-A complete set of WMO weather symbols in SVG with full metadata and fallback PNGs.
+A complete set of WMO weather symbols in SVG with full metadata.
+
+Building PNGs
+-------------
+
+To build PNG equivalents of the symbols, run ```./scripts/make_pngs.sh```.  Output PNG files are located in ```png/```.  Inkscape is required to run the conversions.  
+
+History
+-------
 
 V01 First complete WMO set, copied from web, and completed with Inkscape with Inkscapisms, in a variety of coordinates.
 
@@ -23,7 +31,8 @@ Suppressed style information in filenames, such as "monochromatic", as this is a
 
 Added Aviation symbols.
 
-TBD:
+TBD
+---
 
 Remove unnecessary deep grouping? I suggest each symbol is in a single group, rather than each in its own SVG?
 
