@@ -41,6 +41,10 @@ case $1 in
     ;;
     "pp" )
     echo "Pretty printing SVG files"
+    if [ ! `which svgpp` >/dev/null ]; then
+        echo "svgpp is not installed on this system.  Install with sudo apt-get install libbatik-java"
+        exit 2
+    fi
     if [ ! -d "$TMP_DIR" ]; then
         mkdir $TMP_DIR
     fi
