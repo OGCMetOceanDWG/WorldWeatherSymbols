@@ -1,5 +1,5 @@
 clean:
-	rm -fr png/
+	rm -fr png/ tmp/
 
 png:
-	scripts/make_pngs.sh
+	scripts/wws_manage.sh png
