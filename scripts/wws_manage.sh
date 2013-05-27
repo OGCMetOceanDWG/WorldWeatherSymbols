@@ -25,6 +25,10 @@ SVG_FILES=`find $ROOTDIR -type f -name "*.svg"`
 case $1 in
     "png" )
     echo "Generating PNG images"
+    if [ ! `which inkscape` >/dev/null ]; then
+        echo "inkscape is not installed on this system.  Install with \`sudo apt-get install inkscape\`"
+        exit 2
+    fi    
     if [ ! -d "$PNG_DIR" ]; then
         mkdir $PNG_DIR
     fi
