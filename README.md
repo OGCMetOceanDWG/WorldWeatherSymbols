@@ -8,7 +8,7 @@ A complete set of WMO weather symbols in SVG with full metadata.
 Building PNGs
 -------------
 
-To build PNG equivalents of the symbols, run ```./scripts/make_pngs.sh```.  Output PNG files are located in ```png/```.  Inkscape is required to run the conversions.  
+To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```.  Output PNG files are located in ```png/```.  Inkscape is required to run the conversions.  
 
 History
 -------
