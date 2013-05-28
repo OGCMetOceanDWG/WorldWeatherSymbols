@@ -1,59 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   
-   version="1.1"
-   width="55"
-   height="55"
-   viewBox="-27.5 -27.5 55 55"
-   id="svg4607">
-
-  <svg:title>Present weather additional phenomenon: Fog over ice or snow cover</svg:title><svg:desc>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_46.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Present weather additional phenomenon: Fog over ice or snow cover: Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/306/4687/46</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover: Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
-
-  <svg:defs
-     id="defs4615">
-    <svg:marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleInS"
-       style="overflow:visible">
-      <svg:path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.2,-0.2)"
-         id="path3922"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4607">
+  <svg:title>Present weather additional phenomenon: Fog over ice or snow cover</svg:title>
+  <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover</svg:desc>
+  <svg:metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_46.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Present weather additional phenomenon: Fog over ice or snow cover: Version0.5: statusProvisional</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/4687/46</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover: Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs id="defs4615">
+    <svg:marker refX="0" refY="0" orient="auto" id="TriangleInS" style="overflow:visible">
+      <svg:path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(-0.2,-0.2)" id="path3922" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
     </svg:marker>
-    <svg:marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutS"
-       style="overflow:visible">
-      <svg:path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.2,0.2)"
-         id="path3931"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    <svg:marker refX="0" refY="0" orient="auto" id="TriangleOutS" style="overflow:visible">
+      <svg:path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(0.2,0.2)" id="path3931" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
     </svg:marker>
   </svg:defs>
-  <svg:g
-     id="g14286">
-    <svg:path
-       d="M -17.733051,9.5 17.5,9.5"
-       id="path4611"
-       style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)" />
-    <svg:path
-       d="m -17.849576,-2.0338983e-8 35.233051,0"
-       id="path4611-9"
-       style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
-    <svg:path
-       d="m -17.849577,-10.254237 35.233051,0"
-       id="path4611-9-4"
-       style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none" />
+  <svg:g id="g14286">
+    <svg:path d="M -17.733051,9.5 17.5,9.5" id="path4611" style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)"/>
+    <svg:path d="m -17.849576,-2.0338983e-8 35.233051,0" id="path4611-9" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
+    <svg:path d="m -17.849577,-10.254237 35.233051,0" id="path4611-9-4" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
   </svg:g>
 </svg>
