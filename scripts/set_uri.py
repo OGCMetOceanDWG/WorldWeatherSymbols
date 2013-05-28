@@ -54,7 +54,7 @@ def modify_uri(base_uri, svg_file):
         parser = etree.XMLParser(remove_blank_text=True)
         svg = etree.parse(svg_file, parser)
         ccwork = svg.find('{http://www.w3.org/2000/svg}metadata/{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF/{http://creativecommons.org/ns#}Work')
-        ccwork.attrib['{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about'] = os.path.join(base_uri, os.path.basename(svg_file))
+        ccwork.attrib['{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about'] = os.path.join(base_uri, os.path.basename(os.path.normpath(os.path.split(svg_file)[0])), os.path.basename(svg_file))
         success = True
     except Exception, err:
         warnings.warn('Could not set rdf:About tag on file %s: %s' % (svg_file, err))
