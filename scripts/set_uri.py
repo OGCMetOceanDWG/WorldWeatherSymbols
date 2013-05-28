@@ -51,7 +51,8 @@ def modify_uri(base_uri, svg_file):
     success = False
 
     try:
-        svg = etree.parse(svg_file)
+        parser = etree.XMLParser(remove_blank_text=True)
+        svg = etree.parse(svg_file, parser)
         ccwork = svg.find('{http://www.w3.org/2000/svg}metadata/{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF/{http://creativecommons.org/ns#}Work')
         ccwork.attrib['{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about'] = os.path.join(base_uri, os.path.basename(svg_file))
         success = True
