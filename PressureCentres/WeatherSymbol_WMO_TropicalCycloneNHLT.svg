@@ -1,43 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   
-   version="1.1"
-   width="55"
-   height="55"
-   viewBox="0 0 55 55"
-   id="svg2997">
-
-  <svg:title>Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h)</svg:title><svg:desc>WMO international weather symbol: Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h)</svg:desc><svg:metadata><rdf:RDF><cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/PressureCentres/WeatherSymbol_WMO_TropicalCycloneNHLT.svg"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h): Version0.5: statusProvisional</dc:title><dc:date>2013-01-25</dc:date><dc:creator><cc:Agent><dc:title>WMO CBS IPET-DR&amp;C</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>WMO</dc:title></cc:Agent></dc:publisher><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title></cc:Agent></dc:rights><dc:identifier>http://codes.wmo.int/485/II-4-2/4.1.3b</dc:identifier><dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source><dc:language>English</dc:language><dc:subject><rdf:Bag><rdf:li>meteorology</rdf:li><rdf:li>weather</rdf:li><rdf:li>symbol</rdf:li></rdf:Bag></dc:subject><dc:coverage>Global</dc:coverage><dc:description>WMO international weather symbol: Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h): Version0.5: statusPROVISIONAL</dc:description><dc:contributor><cc:Agent><dc:title>Chris Little</dc:title></cc:Agent></dc:contributor><cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work></rdf:RDF></svg:metadata>
-
-
-  <svg:path
-     d="m -115,26.7 c 0,-0.2 0,-0.4 0,-0.7"
-     transform="translate(0,-9)"
-     id="path3017"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <svg:g
-     transform="matrix(0.937,0,0,0.937,-2.56,-1.98)"
-     id="g3815">
-    <svg:circle
-       cx="32"
-       cy="32"
-       r="28"
-       id="circle3001"
-       style="fill:none;stroke:#000000;stroke-width:3" />
-    <svg:path
-       d="m -96,24.5 c 0.3,-27.81 25.9,-48 52.7,-47.4 1.7,0.1 3.4,0.2 5.2,0.4"
-       transform="matrix(-1,0.023,-0.023,-1,-35.6,60.3)"
-       id="path3811"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <svg:path
-       d="m -96,24.5 c 0.3,-27.81 25.9,-48 52.7,-47.4 1.7,0.1 3.4,0.2 5.2,0.4"
-       transform="matrix(1,-0.023,0.023,1,99.4,3.8)"
-       id="path3813"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="0 0 55 55" id="svg2997">
+  <svg:title>Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h)</svg:title>
+  <svg:desc>WMO international weather symbol: Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h)</svg:desc>
+  <svg:metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/PressureCentres/WeatherSymbol_WMO_TropicalCycloneNHLT.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h): Version0.5: statusProvisional</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/485/II-4-2/4.1.3b</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Tropical cyclonic circulation, Northern Hemisphere, with observed or estimated maximum winds of 17 to 63 kt (29 to 117 km/h): Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:path d="m -115,26.7 c 0,-0.2 0,-0.4 0,-0.7" transform="translate(0,-9)" id="path3017" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <svg:g transform="matrix(0.937,0,0,0.937,-2.56,-1.98)" id="g3815">
+    <svg:circle cx="32" cy="32" r="28" id="circle3001" style="fill:none;stroke:#000000;stroke-width:3"/>
+    <svg:path d="m -96,24.5 c 0.3,-27.81 25.9,-48 52.7,-47.4 1.7,0.1 3.4,0.2 5.2,0.4" transform="matrix(-1,0.023,-0.023,-1,-35.6,60.3)" id="path3811" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+    <svg:path d="m -96,24.5 c 0.3,-27.81 25.9,-48 52.7,-47.4 1.7,0.1 3.4,0.2 5.2,0.4" transform="matrix(1,-0.023,0.023,1,99.4,3.8)" id="path3813" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
   </svg:g>
 </svg>
