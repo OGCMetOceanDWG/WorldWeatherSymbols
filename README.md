@@ -10,6 +10,16 @@ Building PNGs
 
 To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```.  Output PNG files are located in ```png/```.  Inkscape is required to run the conversions.  
 
+Download
+--------
+
+The full repository sources are available at https://github.com/OGCMetOceanDWG/WorldWeatherSymbols.git
+
+Pre-Generated PNGs
+------------------
+
+A set of pre-generated PNGs are available for download at http://www.slashgeo.org/sites/all/files/WorldWeatherSymbols-png.zip.
+
 History
 -------
 
