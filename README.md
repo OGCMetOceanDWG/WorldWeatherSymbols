@@ -18,7 +18,7 @@ The full repository sources are available at https://github.com/OGCMetOceanDWG/W
 Pre-Generated PNGs
 ------------------
 
-A set of pre-generated PNGs are available for download at http://www.slashgeo.org/sites/all/files/WorldWeatherSymbols-png.zip .
+A set of pre-generated PNGs are available for download at https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/releases/download/0.5.0/WorldWeatherSymbols-png.zip.
 
 History
 -------
