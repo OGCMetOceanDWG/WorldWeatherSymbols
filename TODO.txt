@@ -1,0 +1,10 @@
+
+Remove unnecessary deep grouping? I suggest each symbol is in a single group, rather than each in its own SVG?
+
+Remove unnecessary transformations?
+
+Remove unnecessary precision?
+
+This could all remain as Version 5, as every files contains its version number in the metadata.
+
+I suggest that V06 would be a different resolution, such as 100x100 or 20x20, or with optional styles encoded, or significant extra symbols added.
