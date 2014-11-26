@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3002">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3002">
   <svg:title>Present weather additional phenomenon: Wall of dust or sand in distance (like haboob)</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Wall of dust or sand in distance (like haboob)</svg:desc>
   <svg:metadata>
@@ -55,4 +55,4 @@
     <svg:path d="M 2,0 A 9,9 0 1 1 -7,9" id="arc2" style="fill:none"/>
   </svg:g>
   <svg:path d="M 18,0 16.5,-1 V 1 L 18,0 z m 0,0 h -32.5" id="path3011" style="fill:none;stroke:#000000;stroke-width:3"/>
-</svg>
+</svg:svg>

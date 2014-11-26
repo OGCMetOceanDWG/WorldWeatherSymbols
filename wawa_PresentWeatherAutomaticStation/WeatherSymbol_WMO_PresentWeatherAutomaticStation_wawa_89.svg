@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2998">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2998">
   <svg:title>Present weather reported from an automatic weather station: Hail</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Hail</svg:desc>
   <svg:metadata>
@@ -48,4 +48,4 @@
   <svg:g id="g3001" style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter">
     <svg:path d="M 0,-8 8.7,6.6 H -8.7 z" id="ww_77_triangle" style="fill:#000000;fill-opacity:1"/>
   </svg:g>
-</svg>
+</svg:svg>

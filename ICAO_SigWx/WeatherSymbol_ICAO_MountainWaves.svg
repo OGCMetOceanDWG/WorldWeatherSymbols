@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
   <title id="title3">Symbols for significant weather: Mouintain waves</title>
   <desc id="desc5">WMO/ICAO international aviation weather symbol: Symbols for significant weather: Mouintain waves</desc>
   <defs id="defs13"/>
@@ -53,4 +53,4 @@
     <path d="M 45,22 A 18,10 0 0 1 11,22" transform="matrix(1,0,0,1.2,0,-5.2)" id="path3774" style="fill:none;stroke:#000000;stroke-width:1.83;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
     <path d="M 45,22 A 18,10 0 0 1 11,22" transform="matrix(1,0,0,-1.1,0,47)" id="path3779" style="fill:none;stroke:#000000;stroke-width:1.91;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
   </g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
   <svg:title>Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus calvus, with or without cumulus, stratocumulus or Stratus</svg:title>
   <svg:desc>WMO international weather symbol: Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus the summits of which, at least partially, lack sharp outlines, but are neither clearly fibrous (cirriform) nor in the form of an anvil; cumulus, stratocumulus or Stratus may also be present</svg:desc>
   <svg:metadata>
@@ -52,4 +52,4 @@
     </svg:g>
     <svg:path d="m 27.6,11.6 0,17.6" id="path4406" style="fill:none;stroke:#000000;stroke-width:1.93900001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
   </svg:g>
-</svg>
+</svg:svg>

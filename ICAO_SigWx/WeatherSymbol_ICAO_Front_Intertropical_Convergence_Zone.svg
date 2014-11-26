@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
   <svg:title>Fronts and convergence zones and other symbols: Intertropical convergence zone</svg:title>
   <svg:desc>WMO/ICAO international aviation weather symbol: Fronts and convergence zones and other symbols: Intertropical convergence zone</svg:desc>
   <svg:metadata id="metadata7">
@@ -67,4 +67,4 @@
       <svg:path d="m 390,44 c 0,-33 0,-33 0,-33" id="path3788" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
   <svg:title>Present weather reported from a manned weather station: Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer</svg:title>
   <svg:desc>WMO international weather symbol: Fog or ice fog at the time of observation: Present weather reported from a manned weather station: Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer</svg:desc>
   <svg:metadata>
@@ -48,4 +48,4 @@
   <svg:g id="ww_40">
     <svg:path d="m -17.5,-9.5 h 35 m -35,9.5 h 35 m -35,9.5 h 35 m -33,-28 a 25,25 0 0 0 0,37 m 31,0 a 25,25 0 0 0 0,-37" id="path6" style="fill:none;stroke:#000000;stroke-width:3"/>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3035">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3035">
   <svg:title>Present weather additional phenomenon: Precipitation of hail, with rain</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Precipitation of hail, with rain: Shower(s), at the station during the preceding hour but not at the time of observation, of snow or hail or small hail or snow pellets, with or without rain; or precipitation, at the station at the time of observation; either snow with rain or drizzle, or showery precipitation of hail, small hail or snow pellets; or with current or recent thunderstorm</svg:desc>
   <svg:metadata>
@@ -50,4 +50,4 @@
     <svg:path d="M 0,2.4107143 H 8.5 L 0,22.410714 -8.5,2.4107143 z" id="path3041" style="fill:none;stroke:#000000;stroke-width:3"/>
     <svg:circle cx="0" cy="-20.5" r="5.5" transform="matrix(0.60714286,0,0,0.625,0.19642829,8.196428)" id="circle3088" style="fill:#000000"/>
   </svg:g>
-</svg>
+</svg:svg>

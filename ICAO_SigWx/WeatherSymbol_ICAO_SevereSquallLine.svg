@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
   <title id="title3">Symbols for significant weather: Severe squall line</title>
   <desc id="desc5">WMO/ICAO international aviation weather symbol: Symbols for significant weather: Severe squall line: For flights operating up to FL100</desc>
   <defs id="defs12"/>
@@ -60,4 +60,4 @@
     <use transform="translate(290,0)" id="use4107" x="0" y="0" width="440" height="55" xlink:href="#path3763"/>
     <use transform="translate(340,0)" id="use4109" x="0" y="0" width="440" height="55" xlink:href="#path3763"/>
   </g>
-</svg>
+</svg:svg>

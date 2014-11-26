@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>Present weather reported from an automatic weather station: Haze or smoke, or dust in suspension in the air, visibility equal to, or greater than, 1 km</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Haze or smoke, or dust in suspension in the air, visibility equal to, or greater than, 1 km</svg:desc>
   <svg:metadata>
@@ -49,4 +49,4 @@
     <svg:path d="M -0.02163681,0 C 2.0419131,0.00865596 4.0950927,-1.2762339 5.5581688,-3.4918705 c 1.463076,-2.2156366 2.3180238,-5.3347239 2.3234444,-8.4765625 0.00542,-3.141838 -0.8387527,-6.267721 -2.2941634,-8.49503 -1.4554107,-2.227309 -3.5041283,-3.528604 -5.56767961,-3.536454 -2.06354989,-0.0087 -4.11672949,1.276234 -5.57980559,3.49187 -1.463076,2.215637 -2.3180238,5.334724 -2.3234444,8.476563 -0.00542,3.1418377 0.8387527,6.2677206 2.2941634,8.4950296 C -4.1339058,-1.3091455 -2.0851881,-0.00785022 -0.02163681,0 m 0,0 c 0,0 0.29778588,-0.14954292 0,0" id="path3001" style="fill:none;stroke:#000000;stroke-width:2.43129086"/>
     <svg:path d="M 0.21141404,24.004237 C 2.2749639,24.012937 4.3281435,22.728004 5.7912196,20.512367 7.2542956,18.29673 8.1092434,15.177643 8.114664,12.035804 8.120084,8.8939663 7.2759113,5.7680833 5.8205006,3.5407743 4.3650899,1.3134653 2.3163723,0.01217029 0.25282104,0.00432029 -1.8107289,-0.00437971 -3.8639085,1.2805543 -5.3269846,3.4961903 c -1.463076,2.215637 -2.3180238,5.334724 -2.3234444,8.4765627 -0.00542,3.141838 0.8387527,6.267721 2.2941634,8.49503 1.4554106,2.227309 3.5041283,3.528604 5.56767964,3.536454 m 0,0 c 0,0 0.29778588,-0.149542 0,0" id="path2986" style="fill:none;stroke:#000000;stroke-width:2.43129086"/>
   </svg:g>
-</svg>
+</svg:svg>

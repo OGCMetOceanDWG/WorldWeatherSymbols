@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3847">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3847">
   <svg:title>Present weather reported from an automatic weather station: Liquid precipitation, heavy</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Liquid precipitation, heavy</svg:desc>
   <svg:metadata>
@@ -56,4 +56,4 @@
     <svg:use transform="matrix(-1,0,0,-1,0,-16.8)" id="use3859" x="0" y="-11" width="55" height="55" xlink:href="#ww_50"/>
     <svg:use transform="matrix(-1,0,0,-1,0,27.2)" id="use3861" x="0" y="11" width="55" height="55" xlink:href="#ww_50"/>
   </svg:g>
-</svg>
+</svg:svg>

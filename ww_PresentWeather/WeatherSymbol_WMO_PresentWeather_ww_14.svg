@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
   <svg:title>Present weather reported from a manned weather station: Precipitation within sight, not reaching the ground or the surface of the sea</svg:title>
   <svg:desc>WMO international weather symbol: No precipitation at the station at the time of observation: No precipitation, fog, ice fog, duststorm, sandstorm, drifting or blowing snow at the station* at the time of observation or during the preceding hour. *The expression “at the station” refers to a land station or a ship:  Present weather reported from a manned weather station: Precipitation within sight, not reaching the ground or the surface of the sea</svg:desc>
   <svg:metadata>
@@ -49,4 +49,4 @@
     <svg:circle cx="0" cy="-4.5" r="5.5" id="circle6" style="fill:#000000"/>
     <svg:path d="m 18.5,1 a 25,25 0 0 1 -37,0" id="path8" style="fill:none;stroke:#000000;stroke-width:3"/>
   </svg:g>
-</svg>
+</svg:svg>

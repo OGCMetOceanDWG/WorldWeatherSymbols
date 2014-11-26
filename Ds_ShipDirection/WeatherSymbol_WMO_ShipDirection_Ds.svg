@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>Direction (true) of resultant displacement of the ship and ship’s average speed made good during the three hours preceding the time of observation</svg:title>
   <svg:desc>WMO international weather symbol: Direction (true) of resultant displacement of the ship and ship’s average speed made good during the three hours preceding the time of observation</svg:desc>
   <svg:metadata>
@@ -53,4 +53,4 @@
   <svg:g transform="matrix(0.99843844,-0.05586302,0.05586302,0.99843844,0.65232991,21.684395)" id="ww_04" style="fill:none;stroke:#000000;stroke-width:3">
     <svg:path d="m -12.810222,-22.628732 c 1.802146,0.0763 24.386342,1.505682 25.752926,1.612432" id="path3961" style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#TriangleOutS)"/>
   </svg:g>
-</svg>
+</svg:svg>

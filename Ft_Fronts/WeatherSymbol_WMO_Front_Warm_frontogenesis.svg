@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
   <svg:title>Type of front: Warm front frontogenesis</svg:title>
   <svg:desc>WMO international weather symbol: Type of front: Warm front frontogenesis</svg:desc>
   <svg:metadata>
@@ -65,4 +65,4 @@
   <svg:path d="m 261.91054,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z" id="path3029-7" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
   <svg:path d="m 348.18505,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z" id="path3029-4" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
   <svg:path d="m 431.87132,43.784314 a 2.224265,2.224265 0 0 1 -4.44853,0 2.224265,2.224265 0 1 1 4.44853,0 z" id="path3029-0" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3003">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3003">
   <svg:title>Present weather reported from a manned weather station: Thunderstorm, heavy, without hail, *** but with snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée</svg:title>
   <svg:desc>WMO international weather symbol: Precipitation at the station at the time of Showery precipitation, or precipitation with current or recent thunderstorm:Thunderstorm at time of observation: Present weather reported from a manned weather station: Thunderstorm, heavy, without hail, *** but with snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée</svg:desc>
   <svg:metadata>
@@ -55,4 +55,4 @@
     <svg:use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3017" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
     <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3019" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
   </svg:g>
-</svg>
+</svg:svg>

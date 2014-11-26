@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4607">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4607">
   <svg:title>Present weather additional phenomenon: Fog over ice or snow cover</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover</svg:desc>
   <svg:metadata>
@@ -58,4 +58,4 @@
     <svg:path d="m -17.849576,-2.0338983e-8 35.233051,0" id="path4611-9" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
     <svg:path d="m -17.849577,-10.254237 35.233051,0" id="path4611-9-4" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
   </svg:g>
-</svg>
+</svg:svg>
