@@ -23,7 +23,7 @@ import os
 import sys
 import warnings
 
-from lxml import etree
+import xml.etree.ElementTree as etree
 
 def gen_symbols(path, symbol_format='png'):
     """returns SYMBOL objects as string"""
