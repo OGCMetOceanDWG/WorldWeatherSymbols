@@ -25,10 +25,11 @@ import warnings
 
 import xml.etree.ElementTree as etree
 
+
 def gen_symbols(path, symbol_format='png'):
     """returns SYMBOL objects as string"""
 
-    symbols = ''    
+    symbols = ''
     symbol_type = 'pixmap'
 
     if symbol_format not in ['png', 'svg']:
@@ -70,6 +71,4 @@ if __name__ == '__main__':
 
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 
-    print gen_symbols(path, sys.argv[1]) 
-
-
+    print gen_symbols(path, sys.argv[1])
