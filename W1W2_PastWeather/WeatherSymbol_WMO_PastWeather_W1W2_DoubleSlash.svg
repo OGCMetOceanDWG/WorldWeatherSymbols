@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3131">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3131">
   <svg:title>Past weather: No observation was made or the data are missing</svg:title>
   <svg:desc>WMO international weather symbol: Past weather: No observation was made or the data are missing</svg:desc>
   <svg:metadata>
@@ -49,4 +49,4 @@
     <svg:path d="M 24.527608,-18.198744 C 17.036054,-2.1745144 8.7695087,16.154491 0.2446363,33.037827" id="path5800" style="stroke-width:2.3638432;stroke-miterlimit:4;stroke-dasharray:none"/>
     <svg:path d="M 38.417821,-17.325855 C 30.926268,-1.3016262 22.659722,17.02738 14.13485,33.910716" id="path5800-7" style="fill:none;stroke:#000000;stroke-width:2.3638432;stroke-miterlimit:4;stroke-dasharray:none"/>
   </svg:g>
-</svg>
+</svg:svg>

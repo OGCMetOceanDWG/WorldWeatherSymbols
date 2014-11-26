@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3035">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3035">
   <svg:title>Present weather additional phenomenon: Precipitation of snow pellets or small hail, with snow</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Precipitation of snow pellets or small hail, with snow: Shower(s), at the station during the preceding hour but not at the time of observation, of snow or hail or small hail or snow pellets, with or without rain; or precipitation, at the station at the time of observation; either snow with rain or drizzle, or showery precipitation of hail, small hail or snow pellets; or with current or recent thunderstorm</svg:desc>
   <svg:metadata>
@@ -52,4 +52,4 @@
     <svg:use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3093" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
     <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3095" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>State of the ground with snow or measurable ice cover, open representative area: Ground predominantly covered by ice, including solid precipitation other than snow</svg:title>
   <svg:desc>WMO international weather symbol: State of the ground with snow or measurable ice cover, open representative area: Ground predominantly covered by ice, including solid precipitation other than snow</svg:desc>
   <svg:metadata>
@@ -50,4 +50,4 @@
     <svg:path d="m -18.68977,14.706358 c 2.356194,0 4.5,-2.143804 4.5,-4.499998 0,-2.3561944 2.143806,-4.4999984 4.5000001,-4.4999984 2.356194,0 4.5,2.143804 4.5,4.4999984 0,2.356194 2.143806,4.499998 4.50000004,4.499998 2.35619396,0 4.49999996,-2.143804 4.49999996,-4.499998 0,-2.3561944 2.143806,-4.4999984 4.4999999,-4.4999984 2.356194,0 4.5,2.143804 4.5,4.4999984 0,2.356194 2.609908,4.733051 5.665254,4.5" id="path3938" style="fill:none;stroke:#000000;stroke-width:3"/>
     <svg:path d="m -18.669929,4.7539767 c 2.356194,0 4.5,-2.1438035 4.5,-4.49999743 0,-2.35619407 2.143806,-4.49999807 4.5000004,-4.49999807 2.356194,0 4.5,2.143804 4.5,4.49999807 0,2.35619393 2.143806,4.49999743 4.49999998,4.49999743 2.35619402,0 4.50000002,-2.1438035 4.50000002,-4.49999743 0,-2.35619407 2.143806,-4.49999807 4.4999997,-4.49999807 2.3561939,0 4.4999999,2.143804 4.4999999,4.49999807 0,2.35619393 2.609908,4.73305043 5.665254,4.49999943" id="path3938-0" style="fill:none;stroke:#000000;stroke-width:3"/>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>State of the ground without snow or measurable ice cover, open representative area: Flooded</svg:title>
   <svg:desc>WMO international weather symbol: State of the ground without snow or measurable ice cover, open representative area: Flooded</svg:desc>
   <svg:metadata>
@@ -49,4 +49,4 @@
   <svg:circle cx="0" cy="0" r="5.5" transform="matrix(0.9047619,0,0,0.9047619,0.08730159,-6.1984127)" id="circle3852" style="fill:#000000"/>
   <svg:circle cx="0" cy="0" r="5.5" transform="matrix(0.88888889,0,0,0.88888889,-7.1587302,6.6349209)" id="circle3852-1" style="fill:#000000"/>
   <svg:circle cx="0" cy="0" r="5.5" transform="matrix(0.88888889,0,0,0.88888889,7.9444446,6.7222222)" id="circle3852-1-4" style="fill:#000000"/>
-</svg>
+</svg:svg>

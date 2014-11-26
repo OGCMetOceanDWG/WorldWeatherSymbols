@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
   <svg:title>Present weather reported from an automatic weather station: Precipitation, fog (or ice fog) or thunderstorm at the station during the preceding hour but not at the time of observation: Thunderstorm (with or without precipitation)</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Precipitation, fog (or ice fog) or thunderstorm at the station during the preceding hour but not at the time of observation: Thunderstorm (with or without precipitation)</svg:desc>
   <svg:metadata>
@@ -51,4 +51,4 @@
     <svg:path d="m 9.5,-23 h 7 v 46 h -7" id="path10"/>
     <svg:path d="m 9,16.5 h 1 v -1 z" id="path12"/>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>State of the ground with snow or measurable ice cover, open representative area: Snow covering ground completely; deep drifts</svg:title>
   <svg:desc>WMO international weather symbol: State of the ground with snow or measurable ice cover, open representative area: Snow covering ground completely; deep drifts</svg:desc>
   <svg:metadata>
@@ -66,4 +66,4 @@
       <svg:path d="m -5.0005399,12.31259 19.4022349,0" id="path7370" style="fill:none;stroke:#000000;stroke-width:2.94898224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS)"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>

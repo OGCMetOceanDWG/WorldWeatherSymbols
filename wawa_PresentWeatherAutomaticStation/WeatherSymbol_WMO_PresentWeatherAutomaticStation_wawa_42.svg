@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3001">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3001">
   <svg:title>Present weather reported from an automatic weather station: Precipitation, heavy</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Precipitation, heavy</svg:desc>
   <svg:metadata>
@@ -51,4 +51,4 @@
     <svg:path d="M 20.112997,28.19877 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509" transform="matrix(0.02446142,1.5695526,-1.4759805,0.00607693,31.966055,-40.759573)" id="path4607-1-7" style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
     <svg:path d="M 20.112997,28.19877 A 6.5254235,6.5254235 0 1 1 20.093863,15.148509" transform="matrix(0.02446142,1.5695526,-1.4759805,0.00607693,31.033852,-11.395166)" id="path4607-1-4" style="fill:none;stroke:#000000;stroke-width:1.92334259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
   </svg:g>
-</svg>
+</svg:svg>

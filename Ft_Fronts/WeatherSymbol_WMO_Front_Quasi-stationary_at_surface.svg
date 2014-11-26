@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="80" viewBox="0 0 440 80" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="80" viewBox="0 0 440 80" id="svg2">
   <svg:title>Type of front: Quasi-stationary front at the surface</svg:title>
   <svg:desc>WMO international weather symbol: Type of front: Quasi-stationary front at the surface</svg:desc>
   <svg:metadata>
@@ -50,4 +50,4 @@
     <svg:path d="m 10,26 h 10 a 25,25 0 1 1 50,0 h 10 v 5 H 10 v -5 z m 140,0 h 10 a 25,25 0 1 1 50,0 h 10 v 5 h -70 v -5 z m 140,0 h 10 a 25,25 0 1 1 50,0 h 10 v 5 h -70 v -5 z" id="path6" style="fill:#000000;fill-opacity:1;stroke:none"/>
     <svg:path d="m 80,26 v 5 h 10 l 25,35 25,-35 h 10 V 26 H 80 z m 140,0 v 5 h 10 l 25,35 25,-35 h 10 v -5 h -70 z m 140,0 v 5 h 10 l 25,35 25,-35 h 10 v -5 h -70 z" id="path8" style="fill:#000000;fill-opacity:1;stroke:none"/>
   </svg:g>
-</svg>
+</svg:svg>

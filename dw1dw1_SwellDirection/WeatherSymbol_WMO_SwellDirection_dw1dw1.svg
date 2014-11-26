@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>True direction from which swell waves are coming</svg:title>
   <svg:desc>WMO international weather symbol: True direction from which swell waves are coming</svg:desc>
   <svg:metadata>
@@ -53,4 +53,4 @@
   <svg:g transform="matrix(0.99843844,-0.05586302,0.05586302,0.99843844,0.65232991,21.684395)" id="ww_04" style="fill:none;stroke:#000000;stroke-width:3">
     <svg:path d="m -23.297684,-18.31644 c 1.346149,0.09208 2.316424,0.353261 3.401726,-0.442252 1.085302,-0.795513 1.936882,-2.065071 3.555606,-2.047055 1.618724,0.01802 3.165646,0.820057 3.092704,2.638635 -0.07294,1.818578 0.952823,2.953857 2.652308,3.173001 1.6994855,0.219144 3.023102,-1.337267 3.0905739,-2.685603 0.067472,-1.348336 1.6262656,-2.45877 3.128038,-2.414802 1.5017724,0.04397 2.6606128,1.304075 2.5284691,2.715153 -0.1321437,1.411078 1.25744816,2.950263 2.8319931,3.051725 1.5745449,0.101462 2.7709081,-1.159788 2.832942,-2.652499 0.062034,-1.492711 1.3443142,-2.657798 2.8329417,-2.652498 1.4886275,0.0053 2.7800706,1.308901 2.7872722,3.001702 0.0072,1.692801 1.476093,2.850163 3.278239,2.926459 1.802146,0.0763 2.522858,-1.66244 2.760818,-2.61675 0.360505,-1.445768 2.478325,-0.98497 3.988306,-0.852966" id="path3961" style="stroke-width:1.83423376;marker-end:url(#TriangleOutS)"/>
   </svg:g>
-</svg>
+</svg:svg>

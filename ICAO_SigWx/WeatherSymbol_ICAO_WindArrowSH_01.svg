@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 42 13.8" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 42 13.8" id="svg2">
   <svg:title>Fronts and convergence zones and other symbols: Maximum wind speed in jet: 3-7 knots</svg:title>
   <svg:desc>WMO/ICAO international aviation weather symbol: Fronts and convergence zones and other symbols: Maximum wind speed in jet: 3-7 knots</svg:desc>
   <svg:metadata>
@@ -50,4 +50,4 @@
     <svg:path d="M 0,0 H -40" id="path7" style="stroke-width:1.46000004;stroke-miterlimit:4;stroke-dasharray:none"/>
     <svg:path d="m -35,0 -2.5,-8.5" id="path9" style="stroke-width:1.46000004;stroke-miterlimit:4;stroke-dasharray:none"/>
   </svg:g>
-</svg>
+</svg:svg>

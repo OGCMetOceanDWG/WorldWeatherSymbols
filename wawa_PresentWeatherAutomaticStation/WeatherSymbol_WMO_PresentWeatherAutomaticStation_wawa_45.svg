@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3000">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3000">
   <svg:title>Present weather reported from an automatic weather station: Solid precipitation, slight or moderate</svg:title>
   <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Solid precipitation, slight or moderate</svg:desc>
   <svg:metadata>
@@ -55,4 +55,4 @@
       <svg:use transform="matrix(0,1,-1,0,0,0)" id="use3006-9" x="0" y="0" width="55" height="55" xlink:href="#ww_78_arm-0"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3039">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3039">
   <svg:title>Present weather additional phenomenon: Deposition of ice crust (ice slick)</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Deposition of ice crust (ice slick)</svg:desc>
   <svg:metadata>
@@ -49,4 +49,4 @@
     <svg:path d="m 22.987289,12.444369 0,7 -46,0 0,-7" id="path3045" style="fill:none;stroke:#000000;stroke-width:3"/>
     <svg:path d="m 18.066632,12.522821 0,7.000001 -35.965195,0 0,-7.000001" id="path2997" style="fill:none;stroke:#000000;stroke-width:2.65267205"/>
   </svg:g>
-</svg>
+</svg:svg>

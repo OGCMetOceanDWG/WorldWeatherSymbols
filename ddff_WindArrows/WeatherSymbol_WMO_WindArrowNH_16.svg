@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 41.25 13.75" id="svg3544">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 41.25 13.75" id="svg3544">
   <svg:title>Observed wind speed: 78-82 knots</svg:title>
   <svg:desc>WMO international weather symbol: Observed wind speed: 78-82 knots</svg:desc>
   <svg:metadata>
@@ -58,4 +58,4 @@
       <svg:path d="m -19.652542,-36.597458 -5,-17" id="path3553-4-8" style="fill:none;stroke:#000000;stroke-width:2"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>

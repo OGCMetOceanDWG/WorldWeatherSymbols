@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3898">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3898">
   <svg:title>Present weather additional phenomenon: Shower(s) over mountains</svg:title>
   <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Shower(s) over mountains</svg:desc>
   <svg:metadata>
@@ -51,4 +51,4 @@
     </svg:g>
     <svg:path d="m -1.4085784,-7.9509838 5.9906842,0 -6.1554762,12.8349892 -5.825892,-12.8349892 z" id="path5345" style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"/>
   </svg:g>
-</svg>
+</svg:svg>

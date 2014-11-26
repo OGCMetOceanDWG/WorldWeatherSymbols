@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55">
   <svg:title>Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing (steadily or unsteadily) Atmospheric pressure now lower than three hours ago</svg:title>
   <svg:desc>WMO international weather symbol: Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing (steadily or unsteadily) Atmospheric pressure now lower than three hours ago</svg:desc>
   <svg:metadata>
@@ -50,4 +50,4 @@
       <svg:rect width="7" height="100" rx="3.5" ry="3.5" x="-3" y="26.4" transform="matrix(0.707,-0.707,0.707,0.707,0,0)" id="rect3005" style="fill:black;fill-opacity:1;stroke:none"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>

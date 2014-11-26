@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
   <svg:title>Present weather reported from a manned weather station: Well-developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time of observation, but no duststorm or sandstorm</svg:title>
   <svg:desc>WMO international weather symbol: No precipitation at the station at the time of observation: No precipitation, fog, ice fog, duststorm, sandstorm, drifting or blowing snow at the station* at the time of observation or during the preceding hour. *The expression “at the station” refers to a land station or a ship: Haze, dust, sand or smoke: Present weather reported from a manned weather station: Well-developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time of observation, but no duststorm or sandstorm</svg:desc>
   <svg:metadata>
@@ -48,4 +48,4 @@
   <svg:g id="ww_08" style="fill:none;stroke:#000000;stroke-width:3">
     <svg:path d="M 9,-18.75 C 7.5,-22 -10.5,-22 -10.5,-12.5 -10.5,0 9,0 9,-6.25 9,-12.5 -10.5,-12.5 -10.5,0 -10.5,12.5 9,12.5 9,6.25 9,0 -10.5,0 -10.5,12.5 -10.5,22 6.5,22 9,18.75" id="path6"/>
   </svg:g>
-</svg>
+</svg:svg>

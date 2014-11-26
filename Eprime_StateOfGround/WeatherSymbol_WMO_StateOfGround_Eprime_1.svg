@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
+<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2997">
   <svg:title>State of the ground with snow or measurable ice cover, open representative area: Compact or wet snow (with or without ice or solid precipitation other than snow) covering less than one-half of the ground</svg:title>
   <svg:desc>WMO international weather symbol: State of the ground with snow or measurable ice cover, open representative area: Compact or wet snow (with or without ice or solid precipitation other than snow) covering less than one-half of the ground</svg:desc>
   <svg:metadata>
@@ -55,4 +55,4 @@
       <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3803" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm"/>
     </svg:g>
   </svg:g>
-</svg>
+</svg:svg>
