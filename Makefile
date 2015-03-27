@@ -1,5 +1,5 @@
 
-VERSION=`cat VERSION.txt`
+VERSION=$(shell cat VERSION.txt)
 BASENAME=WorldWeatherSymbols-$(VERSION)-png
 
 clean:
