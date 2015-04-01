@@ -46,6 +46,6 @@
     </rdf:RDF>
   </svg:metadata>
   <svg:g transform="matrix(0.423,0,0,0.423,-18.1,-18)" id="g3007" style="fill:none;stroke:#000000;stroke-width:1.77900004;stroke-miterlimit:4;stroke-dasharray:none">
-    <svg:circle cx="0" cy="0" r="18" id="circle3009" style="stroke-width:1.77900004;stroke-miterlimit:4;stroke-dasharray:none"/>
+    <svg:circle cx="0" cy="0" r="15" id="circle3009" style="stroke-width:1.77900004;stroke-miterlimit:4;stroke-dasharray:none"/>
   </svg:g>
 </svg:svg>
