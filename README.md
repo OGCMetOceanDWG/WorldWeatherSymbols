@@ -15,7 +15,7 @@ Accessing the symbols
 
 ### Pre-generated PNGs
 
-A set of pre-generated PNGs are available for download at https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/releases/download/0.5.0/WorldWeatherSymbols-png.zip.
+A set of pre-generated PNGs are available for download at https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/releases/download/0.6.0/WorldWeatherSymbols-0.6.0-png.zip.
 
 ### Building PNGs
 
