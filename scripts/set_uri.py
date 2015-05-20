@@ -27,7 +27,7 @@ def svg_file_list():
     """Returns a list of all svg files with their relative paths"""
 
     svg_list = []
-    for root, dirs, files in os.walk('..'):
+    for root, dirs, files in os.walk('..', 'symbols'):
         for svgfile in files:
             basename, extension = os.path.splitext(svgfile)
             if extension == '.svg':

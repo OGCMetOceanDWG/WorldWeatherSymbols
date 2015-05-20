@@ -69,6 +69,7 @@ if __name__ == '__main__':
         print 'Usage: %s <png|svg>' % sys.argv[0]
         sys.exit(0)
 
-    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        '..', 'symbols')
 
     print gen_symbols(path, sys.argv[1])

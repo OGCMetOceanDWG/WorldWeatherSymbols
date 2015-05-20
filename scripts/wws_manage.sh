@@ -16,7 +16,7 @@ fi
 
 COUNTER=0
 THISDIR=`dirname $0`
-ROOTDIR=$THISDIR/..
+ROOTDIR=$THISDIR/../symbols
 PNG_DIR=$ROOTDIR/png
 TMP_DIR=$ROOTDIR/tmp
 SVG_FILES=`find $ROOTDIR -type f -name "*.svg"`
