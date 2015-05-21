@@ -67,7 +67,7 @@ case $1 in
       for svg_dir_file in $svg_dir_files
       do
         TITLE=`cat $svg_dir_file |grep -Po "<svg:title>(.*)</svg:title>"|sed -e 's#<svg:title>##' -e 's#</svg:title>##'`
-        SVG_DIR_FILE2=`echo $svg_dir_file|sed 's#./##'`
+        SVG_DIR_FILE2=`echo $svg_dir_file|sed 's#./scripts/../##'`
         SVG_FILENAME=`basename $svg_dir_file`
         SVG_FILENAME2=`basename $svg_dir_file .svg`
         echo "| **Filename/symbol** | $SVG_FILENAME ![$SVG_FILENAME2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/$SVG_DIR_FILE2)|" >> $README

@@ -4,25 +4,25 @@ Automated list of symbols in the CL_CloudLow directory
 
 |     | Symbols |
 | --- |:-------:|
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_6.svg ![WeatherSymbol_WMO_CloudLow_CL_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_6.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_6.svg ![WeatherSymbol_WMO_CloudLow_CL_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_6.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratus nebulosus or Stratus fractus other 6 than of bad weather,* or both |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_9.svg ![WeatherSymbol_WMO_CloudLow_CL_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_9.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_9.svg ![WeatherSymbol_WMO_CloudLow_CL_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_9.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus capillatus (often with an anvil), with or without cumulonimbus calvus, cumulus, stratocumulus, Stratus or pannus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_3.svg ![WeatherSymbol_WMO_CloudLow_CL_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_3.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_3.svg ![WeatherSymbol_WMO_CloudLow_CL_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_3.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus calvus, with or without cumulus, stratocumulus or Stratus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_8a.svg ![WeatherSymbol_WMO_CloudLow_CL_8a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8a.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_8a.svg ![WeatherSymbol_WMO_CloudLow_CL_8a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8a.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus and stratocumulus other than stratocumulus cumulogenitus, with bases at different levels. It is known that the base of the Stratocumulus is below the base of the Cumulus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_4.svg ![WeatherSymbol_WMO_CloudLow_CL_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_4.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_4.svg ![WeatherSymbol_WMO_CloudLow_CL_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_4.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratocumulus cumulogenitus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_5.svg ![WeatherSymbol_WMO_CloudLow_CL_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_5.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_5.svg ![WeatherSymbol_WMO_CloudLow_CL_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_5.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratocumulus other than stratocumulus cumulogenitus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_7.svg ![WeatherSymbol_WMO_CloudLow_CL_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_7.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_7.svg ![WeatherSymbol_WMO_CloudLow_CL_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_7.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratus fractus or cumulus fractus of bad weather,* or both (pannus), usually below altostratus or nimbostratusx |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_2.svg ![WeatherSymbol_WMO_CloudLow_CL_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_2.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_2.svg ![WeatherSymbol_WMO_CloudLow_CL_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_2.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus mediocris or congestus, with or without cumulus of species fractus or humilis or stratocumulus, all having their bases at the same level |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_1.svg ![WeatherSymbol_WMO_CloudLow_CL_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_1.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_1.svg ![WeatherSymbol_WMO_CloudLow_CL_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_1.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus humilis or cumulus fractus other than of bad weather,* or both |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_8.svg ![WeatherSymbol_WMO_CloudLow_CL_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudLow_CL_8.svg ![WeatherSymbol_WMO_CloudLow_CL_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus and stratocumulus other than stratocumulus cumulogenitus, with bases at different levels |
 
 This README.md automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)

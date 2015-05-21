@@ -4,23 +4,23 @@ Automated list of symbols in the CM_CloudMedium directory
 
 |     | Symbols |
 | --- |:-------:|
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_1.svg ![WeatherSymbol_WMO_CloudMedium_CM_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_1.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_1.svg ![WeatherSymbol_WMO_CloudMedium_CM_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_1.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altostratus translucidus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_9.svg ![WeatherSymbol_WMO_CloudMedium_CM_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_9.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_9.svg ![WeatherSymbol_WMO_CloudMedium_CM_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_9.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus of a chaotic sky, generally at several levels |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_3.svg ![WeatherSymbol_WMO_CloudMedium_CM_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_3.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_3.svg ![WeatherSymbol_WMO_CloudMedium_CM_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_3.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus at a single level |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_4.svg ![WeatherSymbol_WMO_CloudMedium_CM_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_4.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_4.svg ![WeatherSymbol_WMO_CloudMedium_CM_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_4.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Patches (often lenticular) of altocumulus translucidus, continually changing and occurring at one or more levels |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_6.svg ![WeatherSymbol_WMO_CloudMedium_CM_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_6.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_6.svg ![WeatherSymbol_WMO_CloudMedium_CM_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_6.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus cumulogenitus (or cumulonimbogenitus) |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_2.svg ![WeatherSymbol_WMO_CloudMedium_CM_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_2.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_2.svg ![WeatherSymbol_WMO_CloudMedium_CM_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_2.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altostratus opacus or nimbostratus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_8.svg ![WeatherSymbol_WMO_CloudMedium_CM_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_8.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_8.svg ![WeatherSymbol_WMO_CloudMedium_CM_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_8.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus castellanus or floccus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_5.svg ![WeatherSymbol_WMO_CloudMedium_CM_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_5.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_5.svg ![WeatherSymbol_WMO_CloudMedium_CM_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_5.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus in bands, or one or more layers of altocumulus translucidus or opacus, progressively invading the sky; these altocumulus clouds generally thicken as a whole |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_7.svg ![WeatherSymbol_WMO_CloudMedium_CM_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/script../symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_7.svg)|
+| **Filename/symbol** | WeatherSymbol_WMO_CloudMedium_CM_7.svg ![WeatherSymbol_WMO_CloudMedium_CM_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_7.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus or opacus in two or more layers, or altocumulus opacus in a single layer, not progressively invading the sky, or altocumulus with altostratus or nimbostratus |
 
 This README.md automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)
