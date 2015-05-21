@@ -4,25 +4,25 @@ Automated list of symbols in the E_StateOfGround directory
 
 |     | Symbols |
 | --- |:-------:|
+| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_0.svg ![WeatherSymbol_WMO_StateOfGround_E_0](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_0.svg)|
+| **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground dry (without cracks and no appreciable amount of dust or loose sand) |
+| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_1.svg ![WeatherSymbol_WMO_StateOfGround_E_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_1.svg)|
+| **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground moist |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_2.svg ![WeatherSymbol_WMO_StateOfGround_E_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_2.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground wet (standing water in small or large pools on surface) |
+| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_3.svg ![WeatherSymbol_WMO_StateOfGround_E_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_3.svg)|
+| **Description** | State of the ground without snow or measurable ice cover, open representative area: Flooded |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_4.svg ![WeatherSymbol_WMO_StateOfGround_E_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_4.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground frozen |
+| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_5.svg ![WeatherSymbol_WMO_StateOfGround_E_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_5.svg)|
+| **Description** | State of the ground without snow or measurable ice cover, open representative area: Glaze on ground |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_6.svg ![WeatherSymbol_WMO_StateOfGround_E_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_6.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, open representative area: Loose dry dust or sand not covering ground completely |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_7.svg ![WeatherSymbol_WMO_StateOfGround_E_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_7.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, open representative area: Thin cover of loose dry dust or sand covering ground completely |
-| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_0.svg ![WeatherSymbol_WMO_StateOfGround_E_0](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_0.svg)|
-| **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground dry (without cracks and no appreciable amount of dust or loose sand) |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_8.svg ![WeatherSymbol_WMO_StateOfGround_E_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_8.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, open representative area: Moderate or thick cover of loose dry dust or sand covering ground completely |
-| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_3.svg ![WeatherSymbol_WMO_StateOfGround_E_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_3.svg)|
-| **Description** | State of the ground without snow or measurable ice cover, open representative area: Flooded |
-| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_5.svg ![WeatherSymbol_WMO_StateOfGround_E_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_5.svg)|
-| **Description** | State of the ground without snow or measurable ice cover, open representative area: Glaze on ground |
 | **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_9.svg ![WeatherSymbol_WMO_StateOfGround_E_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_9.svg)|
 | **Description** | State of the ground without snow or measurable ice cover, open representative area: Extremely dry with cracks |
-| **Filename/symbol** | WeatherSymbol_WMO_StateOfGround_E_1.svg ![WeatherSymbol_WMO_StateOfGround_E_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/E_StateOfGround/WeatherSymbol_WMO_StateOfGround_E_1.svg)|
-| **Description** | State of the ground without snow or measurable ice cover, representative bare ground: Surface of ground moist |
 
-This README.md automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)
+*This `README.md` automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)*

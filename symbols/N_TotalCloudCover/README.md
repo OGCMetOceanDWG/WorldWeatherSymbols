@@ -4,29 +4,29 @@ Automated list of symbols in the N_TotalCloudCover directory
 
 |     | Symbols |
 | --- |:-------:|
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_6.svg ![WeatherSymbol_WMO_TotalCloudCover_N_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_6.svg)|
-| **Description** | Total cloud cover: 6 oktas 7/10 – 8/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_Slash.svg ![WeatherSymbol_WMO_TotalCloudCover_N_Slash](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_Slash.svg)|
-| **Description** | Total cloud cover: Cloud cover is indiscernible for reasons other than fog or other meteorological phenomena, or observation is not made, see Regulation 12.1.4 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_3.svg ![WeatherSymbol_WMO_TotalCloudCover_N_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_3.svg)|
-| **Description** | Total cloud cover: 3 oktas 4/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_8.svg ![WeatherSymbol_WMO_TotalCloudCover_N_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_8.svg)|
-| **Description** | Total cloud cover: 8 oktas 10/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_2.svg ![WeatherSymbol_WMO_TotalCloudCover_N_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_2.svg)|
-| **Description** | Total cloud cover: 2 oktas 2/10 – 3/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_7.svg ![WeatherSymbol_WMO_TotalCloudCover_N_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_7.svg)|
-| **Description** | Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_0.svg ![WeatherSymbol_WMO_TotalCloudCover_N_0](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_0.svg)|
-| **Description** | Total cloud cover: 0 zero |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_5.svg ![WeatherSymbol_WMO_TotalCloudCover_N_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_5.svg)|
-| **Description** | Total cloud cover: 5 oktas 6/10 |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_9.svg ![WeatherSymbol_WMO_TotalCloudCover_N_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_9.svg)|
-| **Description** | Total cloud cover: Sky obscured by fog and/or other meteorological phenomena |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_1.svg ![WeatherSymbol_WMO_TotalCloudCover_N_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_1.svg)|
-| **Description** | Total cloud cover: 1 okta or less, but not zero 1/10 or less, but not zero |
-| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_4.svg ![WeatherSymbol_WMO_TotalCloudCover_N_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_4.svg)|
-| **Description** | Total cloud cover: 4 oktas 5/10 |
 | **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_Automatic.svg ![WeatherSymbol_WMO_TotalCloudCover_Automatic](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_Automatic.svg)|
 | **Description** | Automatic Weather Observing Station |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_0.svg ![WeatherSymbol_WMO_TotalCloudCover_N_0](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_0.svg)|
+| **Description** | Total cloud cover: 0 zero |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_1.svg ![WeatherSymbol_WMO_TotalCloudCover_N_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_1.svg)|
+| **Description** | Total cloud cover: 1 okta or less, but not zero 1/10 or less, but not zero |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_2.svg ![WeatherSymbol_WMO_TotalCloudCover_N_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_2.svg)|
+| **Description** | Total cloud cover: 2 oktas 2/10 – 3/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_3.svg ![WeatherSymbol_WMO_TotalCloudCover_N_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_3.svg)|
+| **Description** | Total cloud cover: 3 oktas 4/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_4.svg ![WeatherSymbol_WMO_TotalCloudCover_N_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_4.svg)|
+| **Description** | Total cloud cover: 4 oktas 5/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_5.svg ![WeatherSymbol_WMO_TotalCloudCover_N_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_5.svg)|
+| **Description** | Total cloud cover: 5 oktas 6/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_6.svg ![WeatherSymbol_WMO_TotalCloudCover_N_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_6.svg)|
+| **Description** | Total cloud cover: 6 oktas 7/10 – 8/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_7.svg ![WeatherSymbol_WMO_TotalCloudCover_N_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_7.svg)|
+| **Description** | Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_8.svg ![WeatherSymbol_WMO_TotalCloudCover_N_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_8.svg)|
+| **Description** | Total cloud cover: 8 oktas 10/10 |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_9.svg ![WeatherSymbol_WMO_TotalCloudCover_N_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_9.svg)|
+| **Description** | Total cloud cover: Sky obscured by fog and/or other meteorological phenomena |
+| **Filename/symbol** | WeatherSymbol_WMO_TotalCloudCover_N_Slash.svg ![WeatherSymbol_WMO_TotalCloudCover_N_Slash](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_Slash.svg)|
+| **Description** | Total cloud cover: Cloud cover is indiscernible for reasons other than fog or other meteorological phenomena, or observation is not made, see Regulation 12.1.4 |
 
-This README.md automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)
+*This `README.md` automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)*

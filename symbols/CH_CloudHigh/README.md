@@ -4,23 +4,23 @@ Automated list of symbols in the CH_CloudHigh directory
 
 |     | Symbols |
 | --- |:-------:|
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_2.svg ![WeatherSymbol_WMO_CloudHigh_CH_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_2.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus, in patches or entangled sheaves, which usually do not increase and sometimes seem to be the remains of the upper part of a cumulonimbus; or cirrus castellanus or floccus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_4.svg ![WeatherSymbol_WMO_CloudHigh_CH_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_4.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus uncinus or fibratus, or both, progressively invading the sky; they generally thicken as a whole |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_9.svg ![WeatherSymbol_WMO_CloudHigh_CH_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_9.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_7.svg ![WeatherSymbol_WMO_CloudHigh_CH_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_7.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus covering the whole sky |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_5.svg ![WeatherSymbol_WMO_CloudHigh_CH_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_5.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus (often in bands) and cirrostratus, or cirrostratus alone, progressively invading the sky; they generally thicken as a whole, but the continuous veil does not reach 45 degrees above the horizon |
 | **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_1.svg ![WeatherSymbol_WMO_CloudHigh_CH_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_1.svg)|
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus fibratus, sometimes uncinus, not progressively invading the sky |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_2.svg ![WeatherSymbol_WMO_CloudHigh_CH_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_2.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus, in patches or entangled sheaves, which usually do not increase and sometimes seem to be the remains of the upper part of a cumulonimbus; or cirrus castellanus or floccus |
 | **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_3.svg ![WeatherSymbol_WMO_CloudHigh_CH_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_3.svg)|
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus |
-| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_8.svg ![WeatherSymbol_WMO_CloudHigh_CH_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_8.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus not progressively invading the sky and not entirely covering it |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_4.svg ![WeatherSymbol_WMO_CloudHigh_CH_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_4.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus uncinus or fibratus, or both, progressively invading the sky; they generally thicken as a whole |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_5.svg ![WeatherSymbol_WMO_CloudHigh_CH_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_5.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus (often in bands) and cirrostratus, or cirrostratus alone, progressively invading the sky; they generally thicken as a whole, but the continuous veil does not reach 45 degrees above the horizon |
 | **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_6.svg ![WeatherSymbol_WMO_CloudHigh_CH_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_6.svg)|
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus (often in bands) and cirrostratus, or cirrostratus alone, progressively invading the sky; they generally thicken as a whole; the continuous veil extends more than 45 degrees above the horizon, without the sky being totally covered |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_7.svg ![WeatherSymbol_WMO_CloudHigh_CH_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_7.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus covering the whole sky |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_8.svg ![WeatherSymbol_WMO_CloudHigh_CH_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_8.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus not progressively invading the sky and not entirely covering it |
+| **Filename/symbol** | WeatherSymbol_WMO_CloudHigh_CH_9.svg ![WeatherSymbol_WMO_CloudHigh_CH_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_9.svg)|
+| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
 
-This README.md automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)
+*This `README.md` automatically generated by [www_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/scripts/wws_manage.sh)*
