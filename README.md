@@ -3,7 +3,7 @@
 WorldWeatherSymbols
 ===================
 
-A complete set of WMO weather symbols in SVG with full metadata.
+A complete set of WMO weather symbols in SVG with full metadata
 
 Download
 --------
@@ -21,6 +21,19 @@ A set of pre-generated PNGs are available for download at https://github.com/OGC
 
 To build PNG equivalents of the symbols, run ```./scripts/wws_manage.sh png```.  Output PNG files are located in ```png/```.  [Inkscape](https://inkscape.org) is required to run the conversions.  
 
+Viewing the symbols
+---------------------
+
+### The symbols and their descriptions
+
+A list of symbols with their filenames and associated descriptions is provided in [symbols subfolders](/symbols/) in the respective README.md files ([example for the Ft_Fronts subfolder](/symbols/Ft_Fronts/)). Those README.md files are generated automatically by the [wws_manage.sh](scripts/wws_manage.sh) script. These lists act a short guides to the WMO WorldWeatherSymbols.
+
+
 ### Displaying the symbols on GitHub
 
 WorldWeatherSymbols can be displayed directly on Github either by opening the symbol's svg file or by using [RawGit](https://rawgit.com/) to include symbols in Markdown-formatted files, example: ![Front_Cold_at_surface](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg).
+
+Version history
+---------------------
+
+See [HISTORY.txt](HISTORY.txt)
