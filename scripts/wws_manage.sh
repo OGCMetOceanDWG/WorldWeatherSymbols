@@ -63,7 +63,7 @@ case $1 in
       echo "|     | Symbols |" >> $README
       echo "| --- |:-------:|" >> $README
 
-      svg_dir_files=`find $svn_dir -type f -name "*.svg"`
+      svg_dir_files=`find $svg_dir -type f -name "*.svg"`
       for svg_dir_file in $svg_dir_files
       do
         TITLE=`cat $svg_dir_file |grep -Po "<svg:title>(.*)</svg:title>"|sed -e 's#<svg:title>##' -e 's#</svg:title>##'`
