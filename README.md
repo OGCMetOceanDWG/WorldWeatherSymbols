@@ -26,7 +26,7 @@ Viewing the symbols
 
 ### The symbols and their descriptions
 
-A list of symbols with their filenames and associated descriptions is provided in [symbols subfolders](/symbols/) in the respective README.md files ([example for the Ft_Fronts subfolder](/symbols/Ft_Fronts/)). Those README.md files are generated automatically by the [wws_manage.sh](scripts/wws_manage.sh) script. These lists act a short guides to the WMO WorldWeatherSymbols.
+A list of symbols with their filenames and associated descriptions is provided in [symbols subfolders](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols/) in the respective README.md files ([example for the Ft_Fronts subfolder](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols/Ft_Fronts/)). Those README.md files are generated automatically by the [wws_manage.sh](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/scripts/wws_manage.sh) script. These lists act a short guides to the WMO WorldWeatherSymbols.
 
 
 ### Displaying the symbols on GitHub
@@ -36,4 +36,4 @@ WorldWeatherSymbols can be displayed directly on Github either by opening the sy
 Version history
 ---------------------
 
-See [HISTORY.txt](HISTORY.txt)
+See [HISTORY.txt](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/HISTORY.txt)
