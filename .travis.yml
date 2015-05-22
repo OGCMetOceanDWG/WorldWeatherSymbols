@@ -10,3 +10,4 @@ install:
 
 script:
   - scripts/wws_manage.sh png
+  - scripts/wws_manage.sh readmes
