@@ -31,7 +31,7 @@ A list of symbols with their filenames and associated descriptions is provided i
 
 ### Displaying the symbols on GitHub
 
-WorldWeatherSymbols can be displayed directly on Github either by opening the symbol's svg file or by using [RawGit](https://rawgit.com/) to include symbols in Markdown-formatted files, example: ![Front_Cold_at_surface](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg).
+WorldWeatherSymbols can be displayed directly on Github either by opening the symbol's svg file or by using [RawGit](https://rawgit.com/) to include symbols in Markdown-formatted files, example: ![Front_Cold_at_surface](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/Ft_Fronts/WeatherSymbol_WMO_Front_Quasi-stationary_at_surface.svg).
 
 Version history
 ---------------------
