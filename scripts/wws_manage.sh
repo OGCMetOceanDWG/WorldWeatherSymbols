@@ -7,8 +7,9 @@
 
 if [ $# -ne 1 ]; then
   cat <<END
-Usage: `basename $0` <png>
+Usage: `basename $0` <png|readmes>
   png: generate PNG versions of symbols
+  readmes: generate README.md files for symbol directory indexes
 
 END
   exit 1
