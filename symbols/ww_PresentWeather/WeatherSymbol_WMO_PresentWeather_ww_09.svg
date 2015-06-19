@@ -45,7 +45,7 @@
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
-  <svg:g id="ww_o9" style="fill:none;stroke:#000000;stroke-width:3">
+  <svg:g id="ww_09" style="fill:none;stroke:#000000;stroke-width:3">
     <svg:path d="M 9,-9 A 9,9 0 1 0 0,0 9,9 0 1 1 -9,9" id="path6"/>
     <svg:path d="M 16,0 14.5,-1 V 1 L 16,0 z m 0,0 h -32.5" id="path8"/>
     <svg:path d="m 14,-19.5 a 25,25 0 0 1 0,39 m -28,0 a 25,25 0 0 1 0,-39" id="path10"/>

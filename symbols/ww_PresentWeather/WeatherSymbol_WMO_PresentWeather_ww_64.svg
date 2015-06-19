@@ -45,7 +45,9 @@
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
+  <svg:g id="ww_64">
   <svg:circle cx="0" cy="0" r="5.5" id="circle5" style="fill:#000000"/>
   <svg:circle cx="0" cy="-14" r="5.5" id="circle7" style="fill:#000000"/>
   <svg:circle cx="0" cy="14" r="5.5" id="circle9" style="fill:#000000"/>
+  </svg:g>
 </svg:svg>

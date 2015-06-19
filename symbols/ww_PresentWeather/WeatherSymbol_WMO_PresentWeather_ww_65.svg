@@ -45,8 +45,10 @@
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
+  <svg:g id="ww_65">
   <svg:circle cx="0" cy="-9.5" r="5.5" id="point" style="fill:#000000"/>
   <svg:use transform="matrix(0,1,-1,0,0,0)" id="use6" x="0" y="0" width="1" height="1" xlink:href="#point"/>
   <svg:use transform="scale(-1,-1)" id="use8" x="0" y="0" width="1" height="1" xlink:href="#point"/>
   <svg:use transform="matrix(0,-1,1,0,0,0)" id="use10" x="0" y="0" width="1" height="1" xlink:href="#point"/>
+  </svg:g>
 </svg:svg>
