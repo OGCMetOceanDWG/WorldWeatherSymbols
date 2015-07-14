@@ -45,10 +45,12 @@
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
+  <svg:g id="ww_35">
   <svg:g id="g5" style="fill:none;stroke:#000000;stroke-width:3">
     <svg:path d="m 2,0 a 9,9 0 1 1 9,-9" id="arc"/>
     <svg:path d="M 2,0 A 9,9 0 1 1 -7,9" id="arc2"/>
   </svg:g>
   <svg:path d="M -20,-20 V 20" id="path9" style="fill:none;stroke:#000000;stroke-width:3"/>
   <svg:path d="M 17,2.8 H -15 M 17,-2.8 H -15 M 21,0 m -8,-6 8,6 -8,6" id="path11" style="fill:none;stroke:#000000;stroke-width:1"/>
+  </svg:g>
 </svg:svg>

@@ -45,9 +45,11 @@
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
+  <svg:g id="ww_76">
   <svg:g id="g5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter">
     <svg:path d="M -9,4.5 -16,0 -9,-4.5" id="ww_76_arrow" style="stroke-linecap:round"/>
     <svg:use transform="scale(-1,1)" id="use8" x="0" y="0" width="1" height="1" xlink:href="#ww_76_arrow"/>
     <svg:path d="M -15,0 H 15" id="ww_76_line"/>
+  </svg:g>
   </svg:g>
 </svg:svg>
