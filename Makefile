@@ -5,9 +5,9 @@ BASENAME=WorldWeatherSymbols-$(VERSION)-png
 clean:
 	rm -fr png/ tmp/
 
-zip: png
+dist: png
 	mkdir -p tmp/$(BASENAME)
-	cp -f png/*.png tmp/$(BASENAME)
+	cp -f symbols/png/*.png tmp/$(BASENAME)
 	cp README.md tmp/$(BASENAME)
 	cd tmp && zip $(BASENAME).zip $(BASENAME)/*.png $(BASENAME)/README.md
 
