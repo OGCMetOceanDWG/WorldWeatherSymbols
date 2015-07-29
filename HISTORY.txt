@@ -1,9 +1,15 @@
 
+0.7.0 (2015-07-29)
+------------------
+
+- fix calm wind symbol
+- add README indexes for symbol directories for easy viewing on GitHub
+- fix group ids for ww symbols
+
 0.6.0 (2015-03-26)
 ------------------
 
 - fix SVG namespace declarations
-
 
 0.5.0 (2013-12-02)
 ------------------
