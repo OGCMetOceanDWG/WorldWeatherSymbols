@@ -43,7 +43,7 @@
             <dc:title>Chris Little</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by/3.0/"/>
       </cc:Work>
     </rdf:RDF>
   </svg:metadata>
