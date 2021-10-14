@@ -2,7 +2,7 @@
 """
 Automagically generate MapServer SYMBOL [1] objects from all SVG files
 
-[1] http://mapserver.org/mapfile/symbol.html
+[1] https://mapserver.org/mapfile/symbol.html
 
 Args: None
 
@@ -45,31 +45,30 @@ def gen_symbols(path, symbol_format='png'):
                 if symbol_format == 'svg':
                     filepath = os.path.join(root, wwsfile)
                 elif symbol_format == 'png':
-                    filepath = '%s%s%s.png' % (os.path.join(path, 'png'),
-                                               os.sep, basename)
+                    filepath = f"{path}{os.sep}png{os.sep}{basename}.png"
 
+                svgfile = os.path.join(root, wwsfile)
+                svg = etree.parse(svgfile)
                 try:
-                    svg = etree.parse(os.path.join(root, wwsfile))
                     title = svg.find('{http://www.w3.org/2000/svg}title').text
                     symbols += '''
- SYMBOL # %s
-  NAME "%s"
-  TYPE %s
-  IMAGE "%s"
+ SYMBOL # {}
+  NAME "{}"
+  TYPE {}
+  IMAGE "{}"
  END
-''' % (title.encode('utf8'), basename, symbol_type, filepath)
-
-                except Exception, err:
-                    warnings.warn('Could not parse file %s: %s' %
-                                  (os.path.join(root, wwsfile), err))
+'''.format(title, basename, symbol_type, filepath)
+                except Exception as err:
+                    warnings.warn(f'Could not parse file {svgfile}: {err}')
     return symbols
+
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print 'Usage: %s <png|svg>' % sys.argv[0]
+        print(f'Usage: {sys.argv[0]} <png|svg>')
         sys.exit(0)
 
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                         '..', 'symbols')
 
-    print gen_symbols(path, sys.argv[1])
+    print(gen_symbols(path, sys.argv[1]))

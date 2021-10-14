@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/OGCMetOceanDWG/WorldWeatherSymbols.png?branch=master)](https://travis-ci.org/OGCMetOceanDWG/WorldWeatherSymbols)
+[![Build Status](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/workflows/build%20%E2%9A%99%EF%B8%8F/badge.svg)](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols)
 
 WorldWeatherSymbols
 ===================

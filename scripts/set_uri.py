@@ -9,7 +9,7 @@
 
     Example usage:
 
-      python set_uri.py https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master
+      python set_uri.py https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master  # noqa
 
     .. note::
 
@@ -22,6 +22,7 @@ import sys
 import warnings
 
 from lxml import etree
+
 
 def svg_file_list():
     """Returns a list of all svg files with their relative paths"""
@@ -53,27 +54,26 @@ def modify_uri(base_uri, svg_file):
     try:
         parser = etree.XMLParser(remove_blank_text=True)
         svg = etree.parse(svg_file, parser)
-        ccwork = svg.find('{http://www.w3.org/2000/svg}metadata/{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF/{http://creativecommons.org/ns#}Work')
-        ccwork.attrib['{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about'] = os.path.join(base_uri, os.path.basename(os.path.normpath(os.path.split(svg_file)[0])), os.path.basename(svg_file))
+        ccwork = svg.find('{http://www.w3.org/2000/svg}metadata/{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF/{http://creativecommons.org/ns#}Work')  # noqa
+        ccwork.attrib['{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about'] = os.path.join(base_uri, os.path.basename(os.path.normpath(os.path.split(svg_file)[0])), os.path.basename(svg_file))  # noqa
         success = True
-    except Exception, err:
-        warnings.warn('Could not set rdf:About tag on file %s: %s' % (svg_file, err))
+    except Exception as err:
+        warnings.warn(f'Could not set rdf:About tag on file {svg_file}: {err}')
 
     if success:
         try:
-            with open(svg_file, 'w') as output_file:
+            with open(svg_file, 'wb') as output_file:
                 output_file.write(etree.tostring(svg, pretty_print=True,
                                   xml_declaration=True, encoding='UTF-8'))
-        except Exception, err:
+        except Exception as err:
             success = False
-            warnings.warn('Could not write update to file %s: %s' %
-                          (svg_file, err))
+            warnings.warn(f'Could not write update to file {svg_file}: {err}')
     return success
 
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print 'Usage: %s <base_uri>' % sys.argv[0]
+        print(f'Usage: {sys.argv[0]} <base_uri>')
         sys.exit(1)
 
     base_uri = sys.argv[1]
@@ -89,6 +89,6 @@ if __name__ == '__main__':
 
     total = successes + failures
 
-    print '%d files processed.' % total
-    print '%d files sucessfully modified.' % successes
-    print '%d files failed to be updated.' % failures
+    print(f'{total} files processed.')
+    print(f'{successes} files sucessfully modified.')
+    print(f'{failures} files failed to be updated.')
