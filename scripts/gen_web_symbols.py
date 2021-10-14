@@ -1,19 +1,20 @@
-# -*- coding: iso-8859-1 -*-
 """
-Automagically generate web friendly svg for specified directory. Can also strip filename to create shorter symbol id.
-Could save a few more bytes by minifying. The advantage here is that the combined svg file can be retrieved one time
-in your html and used multiple times in the same page. Additionally, once retrieved, the browser should cache it and
-reduce the number of calls in the future.
+Automagically generate web friendly svg for specified directory. Can also
+strip filename to create shorter symbol id.  Could save a few more bytes by
+minifying. The advantage here is that the combined svg file can be retrieved
+one time in your html and used multiple times in the same page. Additionally,
+once retrieved, the browser should cache it and reduce the number of calls in
+the future.
 
-Using the example usage below, you could then reference ww_11 in html code like so:
+Using the example usage below, you could then reference ww_11 in html like:
 
-<svg xmlns="http://www.w3.org/2000/svg"><use xlink:href="/path/to/file/ww_PresentWeather.svg#ww_11"></use></svg>
+<svg xmlns="http://www.w3.org/2000/svg"><use xlink:href="/path/to/file/ww_PresentWeather.svg#ww_11"></use></svg>  # noqa
 
 Args: symbols directory, basename replacement
 
 Example usage:
 
-$ python gen_web_symbols.py ww_PresentWeather WeatherSymbol_WMO_PresentWeather_ > ww_PresentWeather.svg
+$ python gen_web_symbols.py ww_PresentWeather WeatherSymbol_WMO_PresentWeather_ > ww_PresentWeather.svg  # noqa
 
 """
 
@@ -35,8 +36,9 @@ def gen_symbols(path, strip):
         for wwsfile in files:
             basename, extension = os.path.splitext(wwsfile)
             if extension == '.svg':
+                filepath = os.path.join(root, wwsfile)
                 try:
-                    svg = etree.parse(os.path.join(root, wwsfile))
+                    svg = etree.parse(filepath)
                     svg_root = svg.getroot()
 
                     attribs = svg_root.attrib
@@ -51,28 +53,29 @@ def gen_symbols(path, strip):
                     if viewbox_attrib in attribs:
                         viewbox = attribs[viewbox_attrib]
                     else:
-                        viewbox = '0 0 %s %s' % (attribs['height'], attribs['width'])
+                        viewbox = f"0 0 {attribs['width']} {attribs['height']}"
 
-                    symbols += '''<symbol id="%s" viewBox="%s">''' % (basename.replace(strip, ""), viewbox)
+                    basename2 = basename.replace(strip, '')
+                    symbols += f'<symbol id="{basename2}" viewBox="{viewbox}">'
 
                     for element in svg_root:
-                        symbols += etree.tostring(element)
+                        symbols += etree.tostring(element).decode('utf-8')
                     symbols += '</symbol>'
 
-                except Exception, err:
-                    warnings.warn('Could not parse file %s: %s' %
-                                  (os.path.join(root, wwsfile), err))
+                except Exception as err:
+                    warnings.warn(f'Could not parse file {filepath}: {err}')
 
     return symbols
 
+
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        print 'Usage: %s <directory>' % sys.argv[1]
-        sys.exit(0)
+        print(f'Usage: {sys.argv[0]} <symbols-dir> <basename-replacement>')
+        sys.exit(1)
 
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                         '..', 'symbols', sys.argv[1])
 
-    print '<svg xmlns="http://www.w3.org/2000/svg">'
-    print gen_symbols(path, sys.argv[2])
-    print '</svg>'
+    print('<svg xmlns="http://www.w3.org/2000/svg">')
+    print(gen_symbols(path, sys.argv[2]))
+    print('</svg>')
