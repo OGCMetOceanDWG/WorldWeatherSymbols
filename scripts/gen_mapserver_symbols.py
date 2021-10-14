@@ -1,4 +1,3 @@
-# -*- coding: iso-8859-1 -*-
 """
 Automagically generate MapServer SYMBOL [1] objects from all SVG files
 
