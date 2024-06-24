@@ -35,7 +35,7 @@ case $1 in
     for svg in $SVG_FILES
     do
       BASENAME=`basename $svg .svg`
-      dbus-run-session inkscape -f $svg -e $PNG_DIR/$BASENAME.png --g-fatal-warnings -l
+      inkscape --export-type=png --export-filename=$PNG_DIR/$BASENAME.png $svg -l
       status=$?
       if [ $status -ne 0 ]; then
           COUNTER=$((COUNTER+1))
