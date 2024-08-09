@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2998">
-  <svg:title>Present weather reported from an automatic weather station: Hail</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Hail</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2998">
+  <title>Present weather reported from an automatic weather station: Hail</title>
+  <desc>WMO international weather symbol: Present weather reported from an automatic weather station: Hail</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/wawa_PresentWeatherAutomaticStation/WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_89.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,8 +44,8 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g id="g3001" style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter">
-    <svg:path d="M 0,-8 8.7,6.6 H -8.7 z" id="ww_77_triangle" style="fill:#000000;fill-opacity:1"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g id="g3001" style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:miter">
+    <path d="M 0,-8 8.7,6.6 H -8.7 z" id="ww_77_triangle" style="fill:#000000;fill-opacity:1"/>
+  </g>
+</svg>

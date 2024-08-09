@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4041">
-  <svg:title>Present weather reported from an automatic weather station: SNOW</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: SNOW</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4041">
+  <title>Present weather reported from an automatic weather station: SNOW</title>
+  <desc>WMO international weather symbol: Present weather reported from an automatic weather station: SNOW</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/wawa_PresentWeatherAutomaticStation/WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_70.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,10 +44,10 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g transform="translate(-2.5635593,1.3983051)" id="g3046">
-    <svg:path d="m 12.118644,-17.869588 8.604293,15.2307005 H 3.5143516 z" id="path4048-6" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
-    <svg:path d="M -7.5741525,-17.850944 1.0301404,-2.6202429 H -16.178445 z" id="path4048" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
-    <svg:path d="M 2.3305079,-0.6238253 10.934801,14.606875 H -6.2737851 z" id="path4048-2" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g transform="translate(-2.5635593,1.3983051)" id="g3046">
+    <path d="m 12.118644,-17.869588 8.604293,15.2307005 H 3.5143516 z" id="path4048-6" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
+    <path d="M -7.5741525,-17.850944 1.0301404,-2.6202429 H -16.178445 z" id="path4048" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
+    <path d="M 2.3305079,-0.6238253 10.934801,14.606875 H -6.2737851 z" id="path4048-2" style="fill:none;stroke:#000000;stroke-width:1.73172367"/>
+  </g>
+</svg>

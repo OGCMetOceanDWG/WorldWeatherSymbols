@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 41.25 13.75" id="svg3026">
-  <svg:title>Observed wind speed: 163-167 knots</svg:title>
-  <svg:desc>WMO international weather symbol: Observed wind speed: 163-167 knots</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="165" height="55" viewBox="-48 -33 41.25 13.75" id="svg3026">
+  <title>Observed wind speed: 163-167 knots</title>
+  <desc>WMO international weather symbol: Observed wind speed: 163-167 knots</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/ddff_WindArrows/WeatherSymbol_WMO_WindArrowNH_33.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,21 +44,21 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g transform="matrix(0.83250718,0,0,0.59911505,-7.8607974,0.34667511)" id="g2993">
-    <svg:g transform="matrix(0.92572203,0,0,1,11.869097,-36.038136)" id="g3113">
-      <svg:path d="m -43.954408,0.94135303 0,-1 5,-17.25000003 5,17.25000003 0,1" id="path3029" style="fill:#000000;stroke:none"/>
-      <svg:g id="g3105">
-        <svg:g id="g3031" style="fill:none;stroke:#000000;stroke-width:2">
-          <svg:path d="M -11.168281,0 H -40" id="path3033" style="stroke-width:1.69799054"/>
-          <svg:path d="m -30.540119,0 -5,-17" id="path3035"/>
-        </svg:g>
-        <svg:g transform="translate(-18.661017,-0.08686439)" id="g3065" style="fill:#000000;stroke:none">
-          <svg:path d="m -43,1 0,-1 5,-17.25 5,17.25 0,1" id="path3067"/>
-          <svg:path d="m -34,1 0,-1 5,-17.25 5,17.25 0,1" id="path3069"/>
-        </svg:g>
-      </svg:g>
-    </svg:g>
-    <svg:path d="m -11.809322,-35.974576 -2.5,-8.5" id="path3211" style="fill:none;stroke:#000000;stroke-width:2"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g transform="matrix(0.83250718,0,0,0.59911505,-7.8607974,0.34667511)" id="g2993">
+    <g transform="matrix(0.92572203,0,0,1,11.869097,-36.038136)" id="g3113">
+      <path d="m -43.954408,0.94135303 0,-1 5,-17.25000003 5,17.25000003 0,1" id="path3029" style="fill:#000000;stroke:none"/>
+      <g id="g3105">
+        <g id="g3031" style="fill:none;stroke:#000000;stroke-width:2">
+          <path d="M -11.168281,0 H -40" id="path3033" style="stroke-width:1.69799054"/>
+          <path d="m -30.540119,0 -5,-17" id="path3035"/>
+        </g>
+        <g transform="translate(-18.661017,-0.08686439)" id="g3065" style="fill:#000000;stroke:none">
+          <path d="m -43,1 0,-1 5,-17.25 5,17.25 0,1" id="path3067"/>
+          <path d="m -34,1 0,-1 5,-17.25 5,17.25 0,1" id="path3069"/>
+        </g>
+      </g>
+    </g>
+    <path d="m -11.809322,-35.974576 -2.5,-8.5" id="path3211" style="fill:none;stroke:#000000;stroke-width:2"/>
+  </g>
+</svg>

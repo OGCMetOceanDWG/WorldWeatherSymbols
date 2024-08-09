@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
-  <svg:title>Type of front: Cold front at the surface</svg:title>
-  <svg:desc>WMO international weather symbol: Type of front: Cold front at the surface</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
+  <title>Type of front: Cold front at the surface</title>
+  <desc>WMO international weather symbol: Type of front: Cold front at the surface</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/Ft_Fronts/WeatherSymbol_WMO_Front_Cold_at_surface.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -45,6 +45,6 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:path d="M 10,40 H 20 L 45,5 70,40 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 10 v 5 H 10 z" id="path6" style="fill:#000000;fill-opacity:1;stroke:none"/>
-</svg:svg>
+  </metadata>
+  <path d="M 10,40 H 20 L 45,5 70,40 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 20 l 25,-35 25,35 h 10 v 5 H 10 z" id="path6" style="fill:#000000;fill-opacity:1;stroke:none"/>
+</svg>

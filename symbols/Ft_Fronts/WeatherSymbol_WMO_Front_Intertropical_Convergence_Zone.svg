@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
-  <svg:title>Type of front: Intertropical convergence zone</svg:title>
-  <svg:desc>WMO international weather symbol: Type of front: Intertropical convergence zone</svg:desc>
-  <svg:metadata id="metadata7">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="440" height="55" viewBox="0 0 440 55" id="svg2">
+  <title>Type of front: Intertropical convergence zone</title>
+  <desc>WMO international weather symbol: Type of front: Intertropical convergence zone</desc>
+  <metadata id="metadata7">
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/Ft_Fronts/WeatherSymbol_WMO_Front_Intertropical_Convergence_Zone.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -45,25 +45,25 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:path d="m 250,40 c 0,-25 0,-25 0,-25" id="path3776" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-  <svg:g id="g3839">
-    <svg:path d="m 55,20 0,15" id="path2994" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-    <svg:path d="m 65,20 0,15" id="path2996" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-    <svg:g id="g3790">
-      <svg:path d="M 20,20 420,10" id="path2990" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="M 20,35 420,45" id="path2992" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 120,37 0,-21" id="path2998" style="fill:none;stroke:#000000;stroke-width:3.39;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 130,38 0,-20" id="path3000" style="fill:none;stroke:#000000;stroke-width:2.88px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-      <svg:path d="m 180,40 0,-25 0,0 0,0 z" id="path3002" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 190,40 c 0,-25 0,-25 0,-25 l 0,0" id="path3004" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 200,40 c 0,-25 0,-25 0,-25" id="path3006" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 260,40 c 0,-25 0,-25 0,-25" id="path3778" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 270,40 c 0,-25 0,-25 0,-25" id="path3780" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 320,43 c 0,-30 0,-30 0,-30" id="path3782" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 330,43 c 0,-30 0,-30 0,-30" id="path3784" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 380,44 c 0,-33 0,-33 0,-33" id="path3786" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      <svg:path d="m 390,44 c 0,-33 0,-33 0,-33" id="path3788" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-    </svg:g>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <path d="m 250,40 c 0,-25 0,-25 0,-25" id="path3776" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+  <g id="g3839">
+    <path d="m 55,20 0,15" id="path2994" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+    <path d="m 65,20 0,15" id="path2996" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+    <g id="g3790">
+      <path d="M 20,20 420,10" id="path2990" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="M 20,35 420,45" id="path2992" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 120,37 0,-21" id="path2998" style="fill:none;stroke:#000000;stroke-width:3.39;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 130,38 0,-20" id="path3000" style="fill:none;stroke:#000000;stroke-width:2.88px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path d="m 180,40 0,-25 0,0 0,0 z" id="path3002" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 190,40 c 0,-25 0,-25 0,-25 l 0,0" id="path3004" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 200,40 c 0,-25 0,-25 0,-25" id="path3006" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 260,40 c 0,-25 0,-25 0,-25" id="path3778" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 270,40 c 0,-25 0,-25 0,-25" id="path3780" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 320,43 c 0,-30 0,-30 0,-30" id="path3782" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 330,43 c 0,-30 0,-30 0,-30" id="path3784" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 380,44 c 0,-33 0,-33 0,-33" id="path3786" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <path d="m 390,44 c 0,-33 0,-33 0,-33" id="path3788" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+    </g>
+  </g>
+</svg>

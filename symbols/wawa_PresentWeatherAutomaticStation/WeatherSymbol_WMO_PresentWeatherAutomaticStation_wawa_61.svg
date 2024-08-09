@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
-  <svg:title>Present weather reported from an automatic weather station: Rain, not freezing, slight</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Rain, not freezing, slight</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg2">
+  <title>Present weather reported from an automatic weather station: Rain, not freezing, slight</title>
+  <desc>WMO international weather symbol: Present weather reported from an automatic weather station: Rain, not freezing, slight</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/wawa_PresentWeatherAutomaticStation/WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_61.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,7 +44,7 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:circle cx="-9.5" cy="0" r="5.5" id="circle5" style="fill:#000000"/>
-  <svg:circle cx="9.5" cy="0" r="5.5" id="circle7" style="fill:#000000"/>
-</svg:svg>
+  </metadata>
+  <circle cx="-9.5" cy="0" r="5.5" id="circle5" style="fill:#000000"/>
+  <circle cx="9.5" cy="0" r="5.5" id="circle7" style="fill:#000000"/>
+</svg>
