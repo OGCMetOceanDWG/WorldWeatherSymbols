@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4542">
-  <svg:title>Present weather additional phenomenon: Snow haze</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Snow haze</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4542">
+  <title>Present weather additional phenomenon: Snow haze</title>
+  <desc>WMO international weather symbol: Present weather additional phenomenon: Snow haze</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_10.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,15 +44,15 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g id="g5249">
-    <svg:path d="m 0.46610169,-0.27033362 a 12.229802,5.6644461 0 0 0 24.45960431,0 12.229802,5.6644461 0 1 0 -24.45960431,0 12.229802,5.6644463 0 0 1 -24.45960469,0 12.229802,5.6644463 0 1 1 24.45960469,0 z" id="path4546" style="fill:none;stroke:#000000;stroke-width:2.080791"/>
-    <svg:g transform="translate(0.73577484,-6.1408901)" id="g5202">
-      <svg:path d="M -3.1428572,-4.8124998 H 3.5357143" id="ww70arm" style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round"/>
-      <svg:g id="g5192">
-        <svg:use transform="matrix(0.5,0.86720102,-0.86485137,0.5,-4.0638828,-2.5765929)" id="use3093" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
-        <svg:use transform="matrix(-0.5,0.86720102,-0.86485137,-0.5,-3.8674542,-7.3890927)" id="use3095-5" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
-      </svg:g>
-    </svg:g>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g id="g5249">
+    <path d="m 0.46610169,-0.27033362 a 12.229802,5.6644461 0 0 0 24.45960431,0 12.229802,5.6644461 0 1 0 -24.45960431,0 12.229802,5.6644463 0 0 1 -24.45960469,0 12.229802,5.6644463 0 1 1 24.45960469,0 z" id="path4546" style="fill:none;stroke:#000000;stroke-width:2.080791"/>
+    <g transform="translate(0.73577484,-6.1408901)" id="g5202">
+      <path d="M -3.1428572,-4.8124998 H 3.5357143" id="ww70arm" style="stroke:#000000;stroke-width:1.8226645;stroke-linecap:round"/>
+      <g id="g5192">
+        <use transform="matrix(0.5,0.86720102,-0.86485137,0.5,-4.0638828,-2.5765929)" id="use3093" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
+        <use transform="matrix(-0.5,0.86720102,-0.86485137,-0.5,-3.8674542,-7.3890927)" id="use3095-5" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
+      </g>
+    </g>
+  </g>
+</svg>

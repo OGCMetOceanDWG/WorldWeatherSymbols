@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="0 0 55 55" id="svg7093">
-  <svg:title>Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</svg:title>
-  <svg:desc>WMO international weather symbol: Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="0 0 55 55" id="svg7093">
+  <title>Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</title>
+  <desc>WMO international weather symbol: Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_7.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,11 +44,11 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g transform="matrix(0.903,0,0,0.92,-1.59,6.6)" id="g7111">
-    <svg:g transform="translate(0,-9)" id="g7097" style="fill:#000000;stroke:#000000;stroke-width:3">
-      <svg:circle cx="32" cy="32" r="28" id="circle7099"/>
-    </svg:g>
-    <svg:path d="M 32,-2 V 48" id="path7101" style="stroke:#ffffff;stroke-width:4"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g transform="matrix(0.903,0,0,0.92,-1.59,6.6)" id="g7111">
+    <g transform="translate(0,-9)" id="g7097" style="fill:#000000;stroke:#000000;stroke-width:3">
+      <circle cx="32" cy="32" r="28" id="circle7099"/>
+    </g>
+    <path d="M 32,-2 V 48" id="path7101" style="stroke:#ffffff;stroke-width:4"/>
+  </g>
+</svg>

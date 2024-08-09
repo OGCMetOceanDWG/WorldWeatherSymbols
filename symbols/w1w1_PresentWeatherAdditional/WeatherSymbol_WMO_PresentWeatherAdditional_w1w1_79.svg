@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3845">
-  <svg:title>Present weather additional phenomenon: Wet snow, freezing on contact</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Wet snow, freezing on contact</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3845">
+  <title>Present weather additional phenomenon: Wet snow, freezing on contact</title>
+  <desc>WMO international weather symbol: Present weather additional phenomenon: Wet snow, freezing on contact</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_79.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,12 +44,12 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:path d="M 0,0 A 10,10 0 0 0 20,0 V -2" id="arc" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"/>
-  <svg:use transform="scale(-1,-1)" id="use3851" x="0" y="0" width="1" height="1" xlink:href="#arc"/>
-  <svg:g transform="matrix(0.70232074,0,0,0.71700969,-10.021186,-0.81567791)" id="ww_70">
-    <svg:path d="m 0,-5.5 v 11" id="ww70arm" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
-    <svg:use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3005" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm"/>
-    <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3007" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <path d="M 0,0 A 10,10 0 0 0 20,0 V -2" id="arc" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"/>
+  <use transform="scale(-1,-1)" id="use3851" x="0" y="0" width="1" height="1" xlink:href="#arc"/>
+  <g transform="matrix(0.70232074,0,0,0.71700969,-10.021186,-0.81567791)" id="ww_70">
+    <path d="m 0,-5.5 v 11" id="ww70arm" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
+    <use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3005" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm"/>
+    <use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3007" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm"/>
+  </g>
+</svg>

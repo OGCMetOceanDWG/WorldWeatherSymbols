@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4607">
-  <svg:title>Present weather additional phenomenon: Fog over ice or snow cover</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg4607">
+  <title>Present weather additional phenomenon: Fog over ice or snow cover</title>
+  <desc>WMO international weather symbol: Present weather additional phenomenon: Fog over ice or snow cover</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/w1w1_PresentWeatherAdditional/WeatherSymbol_WMO_PresentWeatherAdditional_w1w1_46.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,18 +44,18 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:defs id="defs4615">
-    <svg:marker refX="0" refY="0" orient="auto" id="TriangleInS" style="overflow:visible">
-      <svg:path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(-0.2,-0.2)" id="path3922" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
-    </svg:marker>
-    <svg:marker refX="0" refY="0" orient="auto" id="TriangleOutS" style="overflow:visible">
-      <svg:path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(0.2,0.2)" id="path3931" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
-    </svg:marker>
-  </svg:defs>
-  <svg:g id="g14286">
-    <svg:path d="M -17.733051,9.5 17.5,9.5" id="path4611" style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)"/>
-    <svg:path d="m -17.849576,-2.0338983e-8 35.233051,0" id="path4611-9" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
-    <svg:path d="m -17.849577,-10.254237 35.233051,0" id="path4611-9-4" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <defs id="defs4615">
+    <marker refX="0" refY="0" orient="auto" id="TriangleInS" style="overflow:visible">
+      <path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(-0.2,-0.2)" id="path3922" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="TriangleOutS" style="overflow:visible">
+      <path d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" transform="scale(0.2,0.2)" id="path3931" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"/>
+    </marker>
+  </defs>
+  <g id="g14286">
+    <path d="M -17.733051,9.5 17.5,9.5" id="path4611" style="fill:none;stroke:#000000;stroke-width:3;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)"/>
+    <path d="m -17.849576,-2.0338983e-8 35.233051,0" id="path4611-9" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
+    <path d="m -17.849577,-10.254237 35.233051,0" id="path4611-9-4" style="fill:none;stroke:#000000;stroke-width:3;marker-start:none;marker-end:none"/>
+  </g>
+</svg>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3006">
-  <svg:title>Present weather reported from an automatic weather station: Snow shower(s) or intermittent snow, heavy</svg:title>
-  <svg:desc>WMO international weather symbol: Present weather reported from an automatic weather station: Snow shower(s) or intermittent snow, heavy</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="55" height="55" viewBox="-27.5 -27.5 55 55" id="svg3006">
+  <title>Present weather reported from an automatic weather station: Snow shower(s) or intermittent snow, heavy</title>
+  <desc>WMO international weather symbol: Present weather reported from an automatic weather station: Snow shower(s) or intermittent snow, heavy</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/wawa_PresentWeatherAutomaticStation/WeatherSymbol_WMO_PresentWeatherAutomaticStation_wawa_87.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,19 +44,19 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g id="ww_86">
-    <svg:g transform="matrix(0.84149856,0,0,0.91457711,-6.0230547,-13.946988)" id="g3010">
-      <svg:path d="m -5.5,0 h 11" id="ww70arm" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
-      <svg:use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3013" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
-      <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3015" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
-    </svg:g>
-    <svg:path d="M 0,-5.5 H 8.5 L 0,14.5 -8.5,-5.5 z" id="path3017" style="fill:none;stroke:#000000;stroke-width:3"/>
-    <svg:path d="M -6,0.5 H 6" id="path3019" style="fill:none;stroke:#000000;stroke-width:3"/>
-    <svg:g transform="matrix(0.84149856,0,0,0.86540423,6.894813,-14.05859)" id="g3010-1">
-      <svg:path d="m -5.5,0 h 11" id="ww70arm-7" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
-      <svg:use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3013-4" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm-7"/>
-      <svg:use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3015-0" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm-7"/>
-    </svg:g>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g id="ww_86">
+    <g transform="matrix(0.84149856,0,0,0.91457711,-6.0230547,-13.946988)" id="g3010">
+      <path d="m -5.5,0 h 11" id="ww70arm" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
+      <use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3013" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
+      <use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3015" x="0" y="0" width="55" height="55" xlink:href="#ww70arm"/>
+    </g>
+    <path d="M 0,-5.5 H 8.5 L 0,14.5 -8.5,-5.5 z" id="path3017" style="fill:none;stroke:#000000;stroke-width:3"/>
+    <path d="M -6,0.5 H 6" id="path3019" style="fill:none;stroke:#000000;stroke-width:3"/>
+    <g transform="matrix(0.84149856,0,0,0.86540423,6.894813,-14.05859)" id="g3010-1">
+      <path d="m -5.5,0 h 11" id="ww70arm-7" style="stroke:#000000;stroke-width:3;stroke-linecap:round"/>
+      <use transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" id="use3013-4" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm-7"/>
+      <use transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" id="use3015-0" x="0" y="0" width="744.09448" height="1052.3622" xlink:href="#ww70arm-7"/>
+    </g>
+  </g>
+</svg>

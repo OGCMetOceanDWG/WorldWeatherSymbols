@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
-  <svg:title>Genus of cloud: Stratocumulus (Sc)</svg:title>
-  <svg:desc>WMO international weather symbol: Genus of cloud: Stratocumulus (Sc)</svg:desc>
-  <svg:metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.0" width="55" height="55" id="svg2">
+  <title>Genus of cloud: Stratocumulus (Sc)</title>
+  <desc>WMO international weather symbol: Genus of cloud: Stratocumulus (Sc)</desc>
+  <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/C_CloudGenus/WeatherSymbol_WMO_CloudGenus_C_6.svg">
         <dc:format>image/svg+xml</dc:format>
@@ -44,19 +44,19 @@
         <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:g transform="matrix(0.483,0,0,0.416,-0.514,9.59)" id="g3980">
-    <svg:g id="g7426">
-      <svg:g id="g7413">
-        <svg:path d="M 84.4,50 107,50" id="path3245" style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
-        <svg:path d="m 34.7,49.9 -23.6,0" id="path7383" style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-        <svg:path d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833" transform="matrix(2.07,0,0,-2.4,24.8,77.9)" id="path7405" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      </svg:g>
-      <svg:g transform="matrix(1,0,0,-1,-0.248,85.9)" id="g7418">
-        <svg:path d="M 84.4,50 107,50" id="path7420" style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
-        <svg:path d="m 34.7,49.9 -23.6,0" id="path7422" style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-        <svg:path d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833" transform="matrix(2.07,0,0,-2.4,24.8,77.9)" id="path7424" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
-      </svg:g>
-    </svg:g>
-  </svg:g>
-</svg:svg>
+  </metadata>
+  <g transform="matrix(0.483,0,0,0.416,-0.514,9.59)" id="g3980">
+    <g id="g7426">
+      <g id="g7413">
+        <path d="M 84.4,50 107,50" id="path3245" style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 34.7,49.9 -23.6,0" id="path7383" style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+        <path d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833" transform="matrix(2.07,0,0,-2.4,24.8,77.9)" id="path7405" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      </g>
+      <g transform="matrix(1,0,0,-1,-0.248,85.9)" id="g7418">
+        <path d="M 84.4,50 107,50" id="path7420" style="fill:none;stroke:#000000;stroke-width:4.38100004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 34.7,49.9 -23.6,0" id="path7422" style="fill:none;stroke:#000000;stroke-width:4.46199989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+        <path d="M 4.6920563,11.752704 A 12.1,12.1 0 0 1 28.497549,11.695833" transform="matrix(2.07,0,0,-2.4,24.8,77.9)" id="path7424" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      </g>
+    </g>
+  </g>
+</svg>
